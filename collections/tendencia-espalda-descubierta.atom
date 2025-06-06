@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.flashy.com.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.flashy.com.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.flashy.com.co/collections/tendencia-espalda-descubierta.atom"/>
+  <title>Flashy</title>
+  <updated>2025-06-05T16:01:15-05:00</updated>
+  <author>
+    <name>Flashy</name>
+  </author>
+  <entry>
+    <id>https://www.flashy.com.co/products/8174273036512</id>
+    <published>2025-06-05T16:01:15-05:00</published>
+    <updated>2025-06-05T16:01:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/crop-top-sin-mangas-con-espalda-descubierta-raelyn"/>
+    <title>Crop top sin mangas con espalda descubierta - RAELYN</title>
+    <s:type>Blusas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/crop-top-sin-mangas-con-espalda-descubierta-mujer-flashy-raelyn1.jpg?v=1741883804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Blusas<br>
+        <strong>Precio: </strong>
+            59900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 95% poliéster, 5% elastano.<br>- Crop top color rojo sin mangas con espalda descubierta.<br>- Renata, la modelo usa talla XS y mide 160 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>aplica-flashy123</s:tag>
+    <s:tag>collection-blusas</s:tag>
+    <s:tag>color-rojo</s:tag>
+    <s:tag>feed-agegroup-adult</s:tag>
+    <s:tag>feed-gender-female</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-crop_tops</s:tag>
+    <s:tag>lateral-espalda_descubierta</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>material-poliéster</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8174273036512</id>
+      <title>XS</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116038177</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8174273036512</id>
+      <title>S</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116038178</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8174273036512</id>
+      <title>M</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116038179</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8174273036512</id>
+      <title>L</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116038180</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8174273036512</id>
+      <title>XL</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116038181</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8174273036512</id>
+      <title>XXL</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116038182</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8608819675360</id>
+    <published>2025-05-26T19:44:39-05:00</published>
+    <updated>2025-05-26T19:44:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/crop-top-halter-sin-mangas-y-con-cruce-en-espalda-gwenola"/>
+    <title>Crop top halter sin mangas y con cruce en espalda - GWENOLA</title>
+    <s:type></s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/crop-top-halter-sin-mangas-y-con-cruce-en-espalda-mujer-flashy-gwenola1.jpg?v=1741886993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            39900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Blusa color verde militar manga larga con efecto brillante en tela y recogido en escote y frente.\n- Esta blusa es perfecta para las que amamos estar siempre vestidas con las últimas tendencias en moda!\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}'><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">- Material: <span>96% poliéster, 4% spandex.</span></span></span><br><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">- <span>Crop top halter color negro sin mangas y con cruce en espalda.</span></span></span><br><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">- Camila, la modelo usa talla S y mide 176 cm.</span></span></span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-negro</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-crop_tops</s:tag>
+    <s:tag>lateral-cuello_halter</s:tag>
+    <s:tag>lateral-espalda_descubierta</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8608819675360</id>
+      <title>XS</title>
+      <s:price currency="COP">39900.00</s:price>
+      <s:sku>1111116039954</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8608819675360</id>
+      <title>S</title>
+      <s:price currency="COP">39900.00</s:price>
+      <s:sku>1111116039955</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8608819675360</id>
+      <title>M</title>
+      <s:price currency="COP">39900.00</s:price>
+      <s:sku>1111116039956</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8608819675360</id>
+      <title>L</title>
+      <s:price currency="COP">39900.00</s:price>
+      <s:sku>1111116039957</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8608819675360</id>
+      <title>XL</title>
+      <s:price currency="COP">39900.00</s:price>
+      <s:sku>1111116039958</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8608819675360</id>
+      <title>XXL</title>
+      <s:price currency="COP">39900.00</s:price>
+      <s:sku>1111116039959</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8802801287392</id>
+    <published>2025-02-19T16:37:47-05:00</published>
+    <updated>2025-02-19T16:37:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/crop-top-manga-corta-con-espalda-descubierta-y-anudado-en-contraste-paige"/>
+    <title>Crop top manga corta con espalda descubierta y anudado en contraste - PAIGE</title>
+    <s:type>Blusas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/crop-top-manga-corta-con-espalda-descubierta-y-anudado-en-contraste-mujer-flashy-paige1.jpg?v=1741807567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Blusas<br>
+        <strong>Precio: </strong>
+            59900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% spándex.\n- Crop top color vino, manga sisa de tipo corset con anudados en espalda.\n- La prenda ideal para salir el viernes de fiesta con tus amigas viéndote como toda una DIVA!\n- Camila, la modelo usa talla XS y mide 170 cm."}'>- Material: <span>99% poliéster, 1% spandex.</span><br>- <span>Crop top manga corta color café con espalda descubierta y anudado en contraste.</span><br>- Manuela, la modelo usa talla XS y mide 168 cm.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-crop_tops</s:tag>
+    <s:tag>lateral-espalda_descubierta</s:tag>
+    <s:tag>lateral-manga_corta</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8802801287392</id>
+      <title>XS</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116041930</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8802801287392</id>
+      <title>S</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116041931</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8802801287392</id>
+      <title>M</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116041932</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8802801287392</id>
+      <title>L</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116041933</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8802801287392</id>
+      <title>XL</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116041934</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8802801287392</id>
+      <title>XXL</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116041935</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8390359318752</id>
+    <published>2025-01-14T12:31:55-05:00</published>
+    <updated>2025-01-14T12:31:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/crop-top-sin-mangas-con-espalda-descubierta-y-anudado-evie"/>
+    <title>Crop top sin mangas con espalda descubierta y anudado - EVIE</title>
+    <s:type>Blusas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/crop-top-sin-mangas-con-espalda-descubierta-y-anudado-mujer-flashy-evie6.jpg?v=1741894987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Blusas<br>
+        <strong>Precio: </strong>
+            49900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 95% poliéster, 5% elastano.<br>- Crop top color rosado sin mangas con espalda descubierta y anudado.<br>- Renata, la modelo usa talla XS y mide 160 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>collection-blusas</s:tag>
+    <s:tag>color-rosado</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-crop_tops</s:tag>
+    <s:tag>lateral-espalda_descubierta</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8390359318752</id>
+      <title>XS</title>
+      <s:price currency="COP">49900.00</s:price>
+      <s:sku>1111116039596</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8390359318752</id>
+      <title>S</title>
+      <s:price currency="COP">49900.00</s:price>
+      <s:sku>1111116039597</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8390359318752</id>
+      <title>M</title>
+      <s:price currency="COP">49900.00</s:price>
+      <s:sku>1111116039598</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8390359318752</id>
+      <title>L</title>
+      <s:price currency="COP">49900.00</s:price>
+      <s:sku>1111116039599</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8390359318752</id>
+      <title>XL</title>
+      <s:price currency="COP">49900.00</s:price>
+      <s:sku>1111116039600</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8390359318752</id>
+      <title>XXL</title>
+      <s:price currency="COP">49900.00</s:price>
+      <s:sku>1111116039601</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8741066997984</id>
+    <published>2024-12-16T18:08:38-05:00</published>
+    <updated>2024-12-16T18:08:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/blusa-manga-larga-con-espalda-descubierta-y-anudado-en-contraste-agnes"/>
+    <title>Blusa manga larga con espalda descubierta y anudado en contraste - AGNES</title>
+    <s:type>Blusas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/blusa-manga-larga-con-espalda-descubierta-y-anudado-en-contraste-mujer-flashy-agnes1.jpg?v=1741818166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Blusas<br>
+        <strong>Precio: </strong>
+            69900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 2% elastano, 2% algodón.\n- Buso color blanco marfil manga larga en tela con textura de peluche con cuello redondo.\n- El buso perfecto para esos días fríos en los que quieres sentirte cómoda y abrigada pero a la vez quieres verte como una DIVA.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}'>- Material: 97% poliéster, 3% spandex.<br>- <span>Blusa manga larga color lila con espalda descubierta y anudado en contraste.</span><br>- Camila, la modelo usa talla XS y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>collection-blusas</s:tag>
+    <s:tag>color-lila</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-espalda_descubierta</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8741066997984</id>
+      <title>XS</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116041583</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8741066997984</id>
+      <title>S</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116041584</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8741066997984</id>
+      <title>M</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116041585</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8741066997984</id>
+      <title>L</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116041586</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8741066997984</id>
+      <title>XL</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116041587</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8741066997984</id>
+      <title>XXL</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116041588</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8651497210080</id>
+    <published>2024-11-09T15:14:23-05:00</published>
+    <updated>2024-11-09T15:14:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/crop-top-manga-corta-con-espalda-descubierta-y-anudado-en-contraste-ignacia"/>
+    <title>Crop top manga corta con espalda descubierta y anudado en contraste - IGNACIA</title>
+    <s:type>Blusas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/crop-top-manga-corta-con-espalda-descubierta-y-anudado-en-contraste-mujer-flashy-ignacia1.jpg?v=1741982833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Blusas<br>
+        <strong>Precio: </strong>
+            59900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% spándex.\n- Crop top color vino, manga sisa de tipo corset con anudados en espalda.\n- La prenda ideal para salir el viernes de fiesta con tus amigas viéndote como toda una DIVA!\n- Camila, la modelo usa talla XS y mide 170 cm."}' data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: <span>99% poliéster, 1% spandex.</span><br>- <span>Crop top manga corta color rosado con espalda descubierta y anudado en contraste.</span><br>- Renata, la modelo usa talla XS y mide 160 cm.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-rosado</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-crop_tops</s:tag>
+    <s:tag>lateral-espalda_descubierta</s:tag>
+    <s:tag>lateral-manga_corta</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8651497210080</id>
+      <title>XS</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116040197</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8651497210080</id>
+      <title>S</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116040198</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8651497210080</id>
+      <title>M</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116040199</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8651497210080</id>
+      <title>L</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116040200</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8651497210080</id>
+      <title>XL</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116040201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8651497210080</id>
+      <title>XXL</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116040202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.flashy.com.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.flashy.com.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.flashy.com.co/collections/tops.atom"/>
+  <title>Flashy</title>
+  <updated>2025-06-03T15:18:06-05:00</updated>
+  <author>
+    <name>Flashy</name>
+  </author>
+  <entry>
+    <id>https://www.flashy.com.co/products/8310178513120</id>
+    <published>2025-06-03T15:18:06-05:00</published>
+    <updated>2025-06-03T15:18:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/top-deportivo-sin-mangas-tonya"/>
+    <title>Top deportivo sin mangas - TONYA</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/top-deportivo-sin-mangas-tonya-1.jpg?v=1713556942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            27450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}'>- Material: 76% poliéster, 24% spandex.<br>- Top deportivo color verde sin mangas.<br data-mce-fragment="1">- Sofía, la modelo usa talla S y mide 170 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-verde</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8310178513120</id>
+      <title>XS</title>
+      <s:price currency="COP">27450.00</s:price>
+      <s:sku>1111116038732</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8310178513120</id>
+      <title>S</title>
+      <s:price currency="COP">27450.00</s:price>
+      <s:sku>1111116038733</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8310178513120</id>
+      <title>M</title>
+      <s:price currency="COP">27450.00</s:price>
+      <s:sku>1111116038734</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8310178513120</id>
+      <title>L</title>
+      <s:price currency="COP">27450.00</s:price>
+      <s:sku>1111116038735</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8310178513120</id>
+      <title>XL</title>
+      <s:price currency="COP">27450.00</s:price>
+      <s:sku>1111116038736</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8310178513120</id>
+      <title>XXL</title>
+      <s:price currency="COP">27450.00</s:price>
+      <s:sku>1111116038737</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8687244968160</id>
+    <published>2024-11-12T13:43:16-05:00</published>
+    <updated>2024-11-12T13:43:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/top-deportivo-sin-mangas-myrta"/>
+    <title>Top deportivo sin mangas - MYRTA</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/top-deportivo-sin-mangas-mujer-flashy-myrta1.jpg?v=1741794944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            84900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 76% poliéster, 24% spandex.<br>- <span>Top deportivo color lila sin mangas.</span><br data-mce-fragment="1">- Renata, la modelo usa talla S y mide 160 cm. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-lila</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8687244968160</id>
+      <title>S</title>
+      <s:price currency="COP">84900.00</s:price>
+      <s:sku>1111116040754</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8687244968160</id>
+      <title>M</title>
+      <s:price currency="COP">84900.00</s:price>
+      <s:sku>1111116040755</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8687244968160</id>
+      <title>L</title>
+      <s:price currency="COP">84900.00</s:price>
+      <s:sku>1111116040756</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8682418045152</id>
+    <published>2024-11-12T13:34:47-05:00</published>
+    <updated>2024-11-12T13:34:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/top-deportivo-de-tiras-con-escote-cuadrado-margarita"/>
+    <title>Top deportivo de tiras con escote cuadrado - MARGARITA</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/top-deportivo-de-tiras-con-escote-cuadrado-mujer-flashy-margarita1.jpg?v=1741787903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            84900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}'>- Material: <span>95% poliéster, 5% elastano.</span><br>- <span>Top deportivo color azul de tiras con escote cuadrado.</span><br data-mce-fragment="1">- Camila, la modelo usa talla S y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>aplica-flashy123</s:tag>
+    <s:tag>color-azul</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8682418045152</id>
+      <title>S</title>
+      <s:price currency="COP">84900.00</s:price>
+      <s:sku>1111116040701</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8682418045152</id>
+      <title>M</title>
+      <s:price currency="COP">84900.00</s:price>
+      <s:sku>1111116040702</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8682418045152</id>
+      <title>L</title>
+      <s:price currency="COP">84900.00</s:price>
+      <s:sku>1111116040703</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8682529816800</id>
+    <published>2024-11-12T13:33:45-05:00</published>
+    <updated>2024-11-12T13:33:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/top-deportivo-de-tiras-con-escote-cuadrado-meg"/>
+    <title>Top deportivo de tiras con escote cuadrado - MEG</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/top-deportivo-de-tiras-con-escote-cuadrado-mujer-flashy-meg1.jpg?v=1741889263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            33960.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 88% poliéster, 12% spándex.<br>- <span>Top deportivo color azul de tiras con escote cuadrado.</span><br data-mce-fragment="1">- Manuela, la modelo usa talla S y mide 168 cm. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>aplica-flashy123</s:tag>
+    <s:tag>color-azul</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8682529816800</id>
+      <title>S</title>
+      <s:price currency="COP">33960.00</s:price>
+      <s:sku>1111116040704</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8682529816800</id>
+      <title>M</title>
+      <s:price currency="COP">33960.00</s:price>
+      <s:sku>1111116040705</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8682529816800</id>
+      <title>L</title>
+      <s:price currency="COP">33960.00</s:price>
+      <s:sku>1111116040706</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8261113938144</id>
+    <published>2024-04-21T22:00:06-05:00</published>
+    <updated>2024-04-21T22:00:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/top-deportivo-de-un-hombro-tini"/>
+    <title>Top deportivo de un hombro - TINI</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/top-deportivo-de-un-hombro-tini-6.jpg?v=1713798243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            35900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 76% poliéster, 24% spandex.<br>- Top deportivo color azul de un hombro.<br data-mce-fragment="1">- Renata, la modelo usa talla XS y mide 160 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8261113938144</id>
+      <title>XS</title>
+      <s:price currency="COP">35900.00</s:price>
+      <s:sku>1111116038750</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8261113938144</id>
+      <title>S</title>
+      <s:price currency="COP">35900.00</s:price>
+      <s:sku>1111116038751</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8261113938144</id>
+      <title>M</title>
+      <s:price currency="COP">35900.00</s:price>
+      <s:sku>1111116038752</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8261113938144</id>
+      <title>L</title>
+      <s:price currency="COP">35900.00</s:price>
+      <s:sku>1111116038753</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8261113938144</id>
+      <title>XL</title>
+      <s:price currency="COP">35900.00</s:price>
+      <s:sku>1111116038754</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8261113938144</id>
+      <title>XXL</title>
+      <s:price currency="COP">35900.00</s:price>
+      <s:sku>1111116038755</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8258170683616</id>
+    <published>2024-04-21T21:09:36-05:00</published>
+    <updated>2024-04-21T21:09:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/crop-top-deportivo-de-malla-sin-mangas-tiberia"/>
+    <title>Crop top deportivo de malla sin mangas - TIBERIA</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/crop-top-deportivo-de-malla-sin-mangas-mujer-flashy-tiberia1.jpg?v=1741982487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            28900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}'>- Material: 95% poliéster, 5% spandex.<br>- Crop top deportivo color blanco marfil de malla sin mangas.<br data-mce-fragment="1">- Sofía, la modelo usa talla S y mide 170 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>material-poliéster</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8258170683616</id>
+      <title>XS</title>
+      <s:price currency="COP">28900.00</s:price>
+      <s:sku>1111116038696</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8258170683616</id>
+      <title>S</title>
+      <s:price currency="COP">28900.00</s:price>
+      <s:sku>1111116038697</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8258170683616</id>
+      <title>M</title>
+      <s:price currency="COP">28900.00</s:price>
+      <s:sku>1111116038698</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8258170683616</id>
+      <title>L</title>
+      <s:price currency="COP">28900.00</s:price>
+      <s:sku>1111116038699</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8258170683616</id>
+      <title>XL</title>
+      <s:price currency="COP">28900.00</s:price>
+      <s:sku>1111116038700</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8258170683616</id>
+      <title>XXL</title>
+      <s:price currency="COP">28900.00</s:price>
+      <s:sku>1111116038701</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/7997587488992</id>
+    <published>2023-03-01T09:36:22-05:00</published>
+    <updated>2023-03-01T09:36:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/top-deportivo-de-un-hombro-beyonce"/>
+    <title>Top deportivo de un hombro - BEYONCE</title>
+    <s:type>Active Rebaja</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/top-deportivo-de-un-hombro-mujer-flashy-beyonce1.jpg?v=1742224936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active Rebaja<br>
+        <strong>Precio: </strong>
+            21160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 88% poliéster, 12% spandex.<br>- Top deportivo de un hombro color rosa.<br>- Nada más perfecto que este top para sentirte como la diva que eres!<br data-mce-fragment="1">- Juanita, la modelo usa talla XS y mide 167 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>aplica-flashy123</s:tag>
+    <s:tag>color-rosa</s:tag>
+    <s:tag>feed-agegroup-adult</s:tag>
+    <s:tag>feed-gender-female</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>material-poliéster</s:tag>
+    <s:tag>size_filter_L</s:tag>
+    <s:tag>size_filter_M</s:tag>
+    <s:tag>size_filter_S</s:tag>
+    <s:tag>size_filter_XL</s:tag>
+    <s:tag>size_filter_XS</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7997587488992</id>
+      <title>XS</title>
+      <s:price currency="COP">21160.00</s:price>
+      <s:sku>1111116035119</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7997587488992</id>
+      <title>S</title>
+      <s:price currency="COP">21160.00</s:price>
+      <s:sku>1111116035120</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7997587488992</id>
+      <title>M</title>
+      <s:price currency="COP">21160.00</s:price>
+      <s:sku>1111116035121</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7997587488992</id>
+      <title>L</title>
+      <s:price currency="COP">21160.00</s:price>
+      <s:sku>1111116035122</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7997587488992</id>
+      <title>XL</title>
+      <s:price currency="COP">21160.00</s:price>
+      <s:sku>1111116035123</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/7997822238944</id>
+    <published>2023-03-01T09:29:39-05:00</published>
+    <updated>2023-03-01T09:29:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/top-deportivo-cuello-alto-sin-mangas-aretha"/>
+    <title>Top deportivo cuello alto sin mangas - ARETHA</title>
+    <s:type>Active Rebaja</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/top-deportivo-cuello-alto-sin-mangas-mujer-flashy-aretha7.jpg?v=1742224869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active Rebaja<br>
+        <strong>Precio: </strong>
+            34930.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 95% poliéster, 5% spandex.<br>- Top deportivo cuello alto sin mangas color negro.<br data-mce-fragment="1">- Camila, la modelo usa talla XS y mide 170 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>aplica-flashy123</s:tag>
+    <s:tag>color-negro</s:tag>
+    <s:tag>feed-agegroup-adult</s:tag>
+    <s:tag>feed-gender-female</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>material-poliéster</s:tag>
+    <s:tag>size_filter_L</s:tag>
+    <s:tag>size_filter_M</s:tag>
+    <s:tag>size_filter_S</s:tag>
+    <s:tag>size_filter_XL</s:tag>
+    <s:tag>size_filter_XS</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7997822238944</id>
+      <title>XS</title>
+      <s:price currency="COP">34930.00</s:price>
+      <s:sku>1111116035139</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7997822238944</id>
+      <title>S</title>
+      <s:price currency="COP">34930.00</s:price>
+      <s:sku>1111116035140</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7997822238944</id>
+      <title>M</title>
+      <s:price currency="COP">34930.00</s:price>
+      <s:sku>1111116035141</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7997822238944</id>
+      <title>L</title>
+      <s:price currency="COP">34930.00</s:price>
+      <s:sku>1111116035142</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7997822238944</id>
+      <title>XL</title>
+      <s:price currency="COP">34930.00</s:price>
+      <s:sku>1111116035143</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/7999478300896</id>
+    <published>2023-03-01T09:22:17-05:00</published>
+    <updated>2023-03-01T09:22:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/top-deportivo-tipo-corset-rihanna"/>
+    <title>Top deportivo tipo corset - RIHANNA</title>
+    <s:type>Active Rebaja</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/top-deportivo-tipo-corset-mujer-flashy-rihanna1.jpg?v=1741903403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active Rebaja<br>
+        <strong>Precio: </strong>
+            31740.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}'>- Material: 88% poliéster, 12% spandex.<br>- Top deportivo tipo corset color verde. <br>- Nada más perfecto que este top para sentirte como la diva que eres!<br data-mce-fragment="1">- Juanita, la modelo usa talla XS y mide 167 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>aplica-flashy123</s:tag>
+    <s:tag>color-verde</s:tag>
+    <s:tag>feed-agegroup-adult</s:tag>
+    <s:tag>feed-gender-female</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>size_filter_L</s:tag>
+    <s:tag>size_filter_M</s:tag>
+    <s:tag>size_filter_S</s:tag>
+    <s:tag>size_filter_XL</s:tag>
+    <s:tag>size_filter_XS</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7999478300896</id>
+      <title>XS</title>
+      <s:price currency="COP">31740.00</s:price>
+      <s:sku>1111116035129</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7999478300896</id>
+      <title>S</title>
+      <s:price currency="COP">31740.00</s:price>
+      <s:sku>1111116035130</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7999478300896</id>
+      <title>M</title>
+      <s:price currency="COP">31740.00</s:price>
+      <s:sku>1111116035131</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7999478300896</id>
+      <title>L</title>
+      <s:price currency="COP">31740.00</s:price>
+      <s:sku>1111116035132</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7999478300896</id>
+      <title>XL</title>
+      <s:price currency="COP">31740.00</s:price>
+      <s:sku>1111116035133</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.flashy.com.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.flashy.com.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.flashy.com.co/collections/shorts-de-moda.atom"/>
+  <title>Flashy</title>
+  <updated>2025-05-28T10:41:01-05:00</updated>
+  <author>
+    <name>Flashy</name>
+  </author>
+  <entry>
+    <id>https://www.flashy.com.co/products/7871132664032</id>
+    <published>2025-05-28T10:41:01-05:00</published>
+    <updated>2025-05-28T10:41:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/short-de-tiro-alto-con-elastico-en-cintura-brielle"/>
+    <title>Short de tiro alto con elástico en cintura - BRIELLE</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/products/short-de-tiro-alto-con-elastico-en-cintura-brielle-1.jpg?v=1668804140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Precio: </strong>
+            69900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\n- Short de lino color blanco marfil con silueta ancha y tiro alto.\n- Ideal para esos días de sol en los que quieres vestirte relajada pero a la vez cool.\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: 100% viscosa.<br>- Short color beige de tiro alto con elástico en cintura.<br>-El short ideal para darle un toque fresco a tu look<br>- Camila, la modelo usa talla 4 y mide 170 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>aplica-flashy123</s:tag>
+    <s:tag>color-beige</s:tag>
+    <s:tag>feed-agegroup-adult</s:tag>
+    <s:tag>feed-gender-female</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-playa</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>size_filter_10</s:tag>
+    <s:tag>size_filter_12</s:tag>
+    <s:tag>size_filter_14</s:tag>
+    <s:tag>size_filter_16</s:tag>
+    <s:tag>size_filter_4</s:tag>
+    <s:tag>size_filter_6</s:tag>
+    <s:tag>size_filter_8</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7871132664032</id>
+      <title>4</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116034100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7871132664032</id>
+      <title>6</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116034101</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7871132664032</id>
+      <title>8</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116034102</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7871132664032</id>
+      <title>10</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116034103</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7871132664032</id>
+      <title>12</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116034104</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7871132664032</id>
+      <title>14</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116034105</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7871132664032</id>
+      <title>16</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116034106</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8012229804256</id>
+    <published>2025-05-28T10:41:00-05:00</published>
+    <updated>2025-05-28T10:41:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/short-de-tiro-alto-con-elastico-en-cintura-lacene"/>
+    <title>Short de tiro alto con elástico en cintura - LACENE</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/products/short-de-tiro-alto-con-elastico-en-cintura-lacene-1.jpg?v=1678833958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Precio: </strong>
+            69900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\n- Short de lino color blanco marfil con silueta ancha y tiro alto.\n- Ideal para esos días de sol en los que quieres vestirte relajada pero a la vez cool.\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: 100% algodón.<br>- Short de tiro alto color crudo con elástico en cintura.<br>- Camila, la modelo usa talla 4 y mide 170 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>color-crudo</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-mom</s:tag>
+    <s:tag>lateral-playa</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>size_filter_10</s:tag>
+    <s:tag>size_filter_12</s:tag>
+    <s:tag>size_filter_14</s:tag>
+    <s:tag>size_filter_16</s:tag>
+    <s:tag>size_filter_2</s:tag>
+    <s:tag>size_filter_4</s:tag>
+    <s:tag>size_filter_6</s:tag>
+    <s:tag>size_filter_8</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8012229804256</id>
+      <title>2</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116035252</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8012229804256</id>
+      <title>4</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116035253</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8012229804256</id>
+      <title>6</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116035254</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8012229804256</id>
+      <title>8</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116035255</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8012229804256</id>
+      <title>10</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116035256</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8012229804256</id>
+      <title>12</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116035257</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8012229804256</id>
+      <title>14</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116035258</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8012229804256</id>
+      <title>16</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116035259</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8052745502944</id>
+    <published>2025-03-27T07:53:19-05:00</published>
+    <updated>2025-03-27T07:53:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/short-de-tiro-alto-con-elastico-en-cintura-minervina"/>
+    <title>Short de tiro alto con elástico en cintura - MINERVINA</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/short-de-tiro-alto-con-elastico-en-cintura-minervina-1.jpg?v=1705945950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Precio: </strong>
+            74900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\n- Short de lino color blanco marfil con silueta ancha y tiro alto.\n- Ideal para esos días de sol en los que quieres vestirte relajada pero a la vez cool.\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}' data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}'>- Material: 100% algodón.<br>- Short de tiro alto color marfil con elástico en cintura.<br>- Camila, la modelo usa talla 6 y mide 170 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-mom</s:tag>
+    <s:tag>lateral-playa</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052745502944</id>
+      <title>2</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116036360</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052745502944</id>
+      <title>4</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116036361</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052745502944</id>
+      <title>6</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116036362</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052745502944</id>
+      <title>8</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116036363</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052745502944</id>
+      <title>10</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116036364</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052745502944</id>
+      <title>12</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116036365</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052745502944</id>
+      <title>14</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116036366</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052745502944</id>
+      <title>16</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116036367</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8083142115552</id>
+    <published>2024-12-17T08:26:34-05:00</published>
+    <updated>2024-12-17T08:26:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/short-de-lino-de-tiro-alto-y-con-pinzas-naroa"/>
+    <title>Short tipo sastre de lino, tiro alto y con pinzas - NAROA</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/short-de-lino-de-tiro-alto-y-con-pinzas-mujer-flashy-naroa1.jpg?v=1741791011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Precio: </strong>
+            94900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\n- Short de lino color blanco marfil con silueta ancha y tiro alto.\n- Ideal para esos días de sol en los que quieres vestirte relajada pero a la vez cool.\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}' data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}'>- Material: 100% algodón.<br>- Short de lino de tiro alto y con pinzas color beige.<br>- Juanita, la modelo usa talla 4 y mide 160 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-beige</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-playa</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8083142115552</id>
+      <title>2</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116036850</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8083142115552</id>
+      <title>4</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116036851</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8083142115552</id>
+      <title>6</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116036852</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8083142115552</id>
+      <title>8</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116036853</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8083142115552</id>
+      <title>10</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116036854</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8083142115552</id>
+      <title>12</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116036855</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8083142115552</id>
+      <title>14</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116036856</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8083142115552</id>
+      <title>16</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116036857</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8718318371040</id>
+    <published>2024-12-13T15:28:28-05:00</published>
+    <updated>2024-12-13T15:28:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/short-de-tiro-alto-con-pinzas-y-taches-en-ruedo-maurissa"/>
+    <title>Short de tiro alto con pinzas y taches en ruedo - MAURISSA</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/short-de-tiro-alto-con-pinzas-y-taches-en-ruedo-mujer-flashy-maurissa1.jpg?v=1741881305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Precio: </strong>
+            109900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\n- Short de lino color blanco marfil con silueta ancha y tiro alto.\n- Ideal para esos días de sol en los que quieres vestirte relajada pero a la vez cool.\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}' data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}'>- Material: 90% poliéster, 9% nylon, 1% spandex.<br>- <span>Short de tiro alto color negro con pinzas y taches en ruedo.</span><br>- Manuela, la modelo usa talla 4 y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-negro</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-playa</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8718318371040</id>
+      <title>2</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116041211</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8718318371040</id>
+      <title>4</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116041212</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8718318371040</id>
+      <title>6</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116041213</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8718318371040</id>
+      <title>8</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116041214</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8718318371040</id>
+      <title>10</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116041215</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8718318371040</id>
+      <title>12</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116041216</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8718318371040</id>
+      <title>14</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116041217</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8718318371040</id>
+      <title>16</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116041218</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8710543343840</id>
+    <published>2024-12-13T12:55:16-05:00</published>
+    <updated>2024-12-13T12:55:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/short-mom-de-denim-y-de-tiro-alto-maitena"/>
+    <title>Short mom de denim y de tiro alto - MAITENA</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/short-mom-de-denim-y-de-tiro-alto-maitena-1_3531900b-adc0-4dfc-abd7-677826b7f63b.jpg?v=1734281612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Precio: </strong>
+            129900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n- Short de tiro alto de silueta mom con guarda polvos, fit relajado y lavado azul medio.\n- ¿Quién dijo paseo? Solo necesitas estos shorts!!\n- Camila, la modelo usa talla 4 y mide 170 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":{"1":2,"2":10797812},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}'>- Material: 100% algodón.<br>- <span>Short mom color blanco marfil de denim y de tiro alto.</span><br>- Manuela, la modelo usa talla 4 y mide 168 cm</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-denim</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>lateral-mom</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-sexy</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710543343840</id>
+      <title>2</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116041087</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710543343840</id>
+      <title>4</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116041088</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710543343840</id>
+      <title>6</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116041089</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710543343840</id>
+      <title>8</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116041090</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710543343840</id>
+      <title>10</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116041091</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710543343840</id>
+      <title>12</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116041092</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710543343840</id>
+      <title>14</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116041093</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710543343840</id>
+      <title>16</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116041094</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8705420427488</id>
+    <published>2024-11-22T17:46:37-05:00</published>
+    <updated>2024-11-22T17:46:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/short-de-tiro-alto-y-con-pinzas-maribel"/>
+    <title>Short de tiro alto y con pinzas - MARIBEL</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/short-de-tiro-alto-y-con-pinzas-mujer-flashy-maribel1.jpg?v=1741793547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Precio: </strong>
+            99900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\n- Short de lino color blanco marfil con silueta ancha y tiro alto.\n- Ideal para esos días de sol en los que quieres vestirte relajada pero a la vez cool.\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: <span>97% algodón, 3% elastano.</span><br>- <span>Short color azul de tiro alto y con pinzas.</span><br>- Melissa , la modelo usa talla 2 y mide 165 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-playa</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8705420427488</id>
+      <title>2</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040993</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8705420427488</id>
+      <title>4</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040994</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8705420427488</id>
+      <title>6</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040995</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8705420427488</id>
+      <title>8</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040996</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8705420427488</id>
+      <title>10</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040997</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8705420427488</id>
+      <title>12</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040998</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8705420427488</id>
+      <title>14</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040999</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8705420427488</id>
+      <title>16</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116041000</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8673283014880</id>
+    <published>2024-10-04T16:53:33-05:00</published>
+    <updated>2024-10-04T16:53:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/short-moldeador-con-control-de-abdomen-lizbeth"/>
+    <title>Short moldeador con control de abdomen - LIZBETH</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/short-moldeador-con-control-de-abdomen-mujer-flashy-lizbeth1.jpg?v=1741903077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Precio: </strong>
+            119900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: 76% poliéster, 24% spandex.<br>- <span>Short moldeador color beige con control de abdomen.</span><br>- Sofia, la modelo usa talla S y mide 172 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-beige</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8673283014880</id>
+      <title>S</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116040431</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8673283014880</id>
+      <title>M</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116040432</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8673283014880</id>
+      <title>L</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116040433</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8519797178592</id>
+    <published>2024-09-11T16:43:41-05:00</published>
+    <updated>2024-09-11T16:43:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/short-de-lino-de-tiro-alto-y-con-sesgos-en-contraste-frannie"/>
+    <title>Short de lino de tiro alto y con sesgos en contraste - FRANNIE</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/short-de-lino-de-tiro-alto-y-con-sesgos-en-contraste-mujer-flashy-frannie5.jpg?v=1741896646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Precio: </strong>
+            99900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% spándex.\n- Crop top color vino, manga sisa de tipo corset con anudados en espalda.\n- La prenda ideal para salir el viernes de fiesta con tus amigas viéndote como toda una DIVA!\n- Camila, la modelo usa talla XS y mide 170 cm."}'>- Material: <span>100% algodón.</span><br>- <span>Short de lino color beige de tiro alto y con sesgos en contraste.</span><br>- Isabela, la modelo usa talla 6 y mide 172 cm.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-beige</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-playa</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8519797178592</id>
+      <title>2</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116039792</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8519797178592</id>
+      <title>4</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116039793</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8519797178592</id>
+      <title>6</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116039794</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8519797178592</id>
+      <title>8</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116039795</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8519797178592</id>
+      <title>10</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116039796</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8519797178592</id>
+      <title>12</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116039797</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8519797178592</id>
+      <title>14</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116039798</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8519797178592</id>
+      <title>16</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116039799</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8609534312672</id>
+    <published>2024-08-22T11:05:29-05:00</published>
+    <updated>2024-08-22T11:05:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/short-de-tiro-alto-y-con-pinzas-hermina"/>
+    <title>Short de tiro alto y con pinzas - HERMINA</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/short-de-tiro-alto-y-con-pinzas-mujer-flashy-hermina1.jpg?v=1741788892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Precio: </strong>
+            99900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\n- Short de lino color blanco marfil con silueta ancha y tiro alto.\n- Ideal para esos días de sol en los que quieres vestirte relajada pero a la vez cool.\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: <span>97% algodón, 3% elastano.</span><br>- <span>Short color blanco marfil de tiro alto y con pinzas.</span><br>- Sofia, la modelo usa talla 6 y mide 172 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-playa</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8609534312672</id>
+      <title>2</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116039997</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8609534312672</id>
+      <title>4</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116039998</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8609534312672</id>
+      <title>6</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116039999</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8609534312672</id>
+      <title>8</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040000</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8609534312672</id>
+      <title>10</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040001</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8609534312672</id>
+      <title>12</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040002</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8609534312672</id>
+      <title>14</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040003</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8609534312672</id>
+      <title>16</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040004</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8284365258976</id>
+    <published>2024-07-05T15:02:24-05:00</published>
+    <updated>2024-07-05T15:02:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/short-de-corduroy-de-tiro-alto-y-con-pinzas-bessie"/>
+    <title>Short de corduroy de tiro alto y con pinzas - BESSIE</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/short-de-corduroy-de-tiro-alto-y-con-pinzas-bessie-1.jpg?v=1720209713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Precio: </strong>
+            94900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\n- Short de lino color blanco marfil con silueta ancha y tiro alto.\n- Ideal para esos días de sol en los que quieres vestirte relajada pero a la vez cool.\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: 90% poliéster, 9% nylon, 1% spandex.<br>- Short de corduroy color verde de tiro alto y con pinzas.<br>- Camila, la modelo usa talla 4 y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-verde</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-playa</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8284365258976</id>
+      <title>2</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039153</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8284365258976</id>
+      <title>4</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039154</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8284365258976</id>
+      <title>6</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039155</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8284365258976</id>
+      <title>8</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039156</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8284365258976</id>
+      <title>10</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039157</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8284365258976</id>
+      <title>12</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039158</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8284365258976</id>
+      <title>14</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039159</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8284365258976</id>
+      <title>16</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039160</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8298784555232</id>
+    <published>2024-06-06T14:24:13-05:00</published>
+    <updated>2024-06-06T14:24:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/short-de-tiro-alto-y-de-tweed-brigitte"/>
+    <title>Short de tiro alto y de tweed - BRIGITTE</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/short-de-tiro-alto-y-de-tweed-mujer-flashy-brigitte1.jpg?v=1741902996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Precio: </strong>
+            94900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\n- Short de lino color blanco marfil con silueta ancha y tiro alto.\n- Ideal para esos días de sol en los que quieres vestirte relajada pero a la vez cool.\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}' data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}'>- Material: <span>96% poliéster, 4% elastano.</span><br>- Short color azul de tiro alto y de tweed.<br>- Isabela, la modelo usa talla 6 y mide 172 cm. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-playa</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298784555232</id>
+      <title>2</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039278</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298784555232</id>
+      <title>4</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039279</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298784555232</id>
+      <title>6</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039280</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298784555232</id>
+      <title>8</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039281</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298784555232</id>
+      <title>10</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039282</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298784555232</id>
+      <title>12</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039283</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298784555232</id>
+      <title>14</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039284</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298784555232</id>
+      <title>16</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039285</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8220922446048</id>
+    <published>2024-01-14T18:42:55-05:00</published>
+    <updated>2024-01-14T18:42:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/short-de-tiro-alto-con-elastico-en-cintura-nury"/>
+    <title>Short de tiro alto con elástico en cintura - NURY</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/short-de-tiro-alto-con-elastico-en-cintura-nury-1.jpg?v=1705275760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Precio: </strong>
+            44030.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\n- Short de lino color blanco marfil con silueta ancha y tiro alto.\n- Ideal para esos días de sol en los que quieres vestirte relajada pero a la vez cool.\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: 100% algodón.<br>- Short de tiro alto color fucsia con elástico en cintura.<br>- Renata, la modelo usa talla 4 y mide 160 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-fucsia</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-mom</s:tag>
+    <s:tag>lateral-playa</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8220922446048</id>
+      <title>2</title>
+      <s:price currency="COP">44030.00</s:price>
+      <s:sku>1111116036793</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8220922446048</id>
+      <title>4</title>
+      <s:price currency="COP">44030.00</s:price>
+      <s:sku>1111116036794</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8220922446048</id>
+      <title>6</title>
+      <s:price currency="COP">44030.00</s:price>
+      <s:sku>1111116036795</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8220922446048</id>
+      <title>8</title>
+      <s:price currency="COP">44030.00</s:price>
+      <s:sku>1111116036796</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8220922446048</id>
+      <title>10</title>
+      <s:price currency="COP">44030.00</s:price>
+      <s:sku>1111116036797</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8220922446048</id>
+      <title>12</title>
+      <s:price currency="COP">44030.00</s:price>
+      <s:sku>1111116036798</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8220922446048</id>
+      <title>14</title>
+      <s:price currency="COP">44030.00</s:price>
+      <s:sku>1111116036799</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8220922446048</id>
+      <title>16</title>
+      <s:price currency="COP">44030.00</s:price>
+      <s:sku>1111116036800</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8210225627360</id>
+    <published>2024-01-02T21:17:55-05:00</published>
+    <updated>2024-01-02T21:17:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/short-de-tiro-alto-con-anudado-y-tela-tipo-crochet-saturna"/>
+    <title>Short de tiro alto con anudado y tela tipo crochet - SATURNA</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/short-de-tiro-alto-con-anudado-y-tela-tipo-crochet-saturna-1.jpg?v=1705426509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Precio: </strong>
+            74900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\n- Short de lino color blanco marfil con silueta ancha y tiro alto.\n- Ideal para esos días de sol en los que quieres vestirte relajada pero a la vez cool.\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: 62% poliéster, 38% algodón.<br>- Short color blanco marfil de tiro alto con anudado y tela tipo crochet.<br>- Juanita, la modelo usa talla 4 y mide 160 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-playa</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8210225627360</id>
+      <title>2</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116038480</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8210225627360</id>
+      <title>4</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116038481</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8210225627360</id>
+      <title>6</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116038482</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8210225627360</id>
+      <title>8</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116038483</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8210225627360</id>
+      <title>10</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116038484</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8210225627360</id>
+      <title>12</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116038485</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8210225627360</id>
+      <title>14</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116038486</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8210225627360</id>
+      <title>16</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116038487</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8171838996704</id>
+    <published>2023-12-21T10:28:40-05:00</published>
+    <updated>2023-12-21T10:28:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/short-de-tiro-alto-tipo-lino-con-elastico-en-cintura-y-bolsillos-plotina"/>
+    <title>Short de tiro alto tipo lino con elástico en cintura y bolsillos - PLOTINA</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/short-de-tiro-alto-tipo-lino-con-elastico-en-cintura-y-bolsillos-mujer-flashy-plotina1.jpg?v=1741902940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Precio: </strong>
+            74900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\n- Short de lino color blanco marfil con silueta ancha y tiro alto.\n- Ideal para esos días de sol en los que quieres vestirte relajada pero a la vez cool.\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: 100% algodón.<br>- Short de tiro alto color rosado tipo lino con elástico en cintura y bolsillos.<br>- Juanita, la modelo usa talla 4 y mide 160 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-rosado</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-playa</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8171838996704</id>
+      <title>2</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116037757</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8171838996704</id>
+      <title>4</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116037758</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8171838996704</id>
+      <title>6</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116037759</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8171838996704</id>
+      <title>8</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116037760</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8171838996704</id>
+      <title>10</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116037761</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8171838996704</id>
+      <title>12</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116037762</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8171838996704</id>
+      <title>14</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116037763</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8171838996704</id>
+      <title>16</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116037764</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8190822613216</id>
+    <published>2023-12-07T14:59:38-05:00</published>
+    <updated>2023-12-07T14:59:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/short-mom-de-tiro-alto-pietra"/>
+    <title>Short mom de tiro alto - PIETRA</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/short-mom-de-tiro-alto-mujer-flashy-pietra1.jpg?v=1741896939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Precio: </strong>
+            119900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":{"1":2,"2":10797812},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n- Short de tiro alto de silueta mom con guarda polvos, fit relajado y lavado azul medio.\n- ¿Quién dijo paseo? Solo necesitas estos shorts!!\n- Camila, la modelo usa talla 4 y mide 170 cm.","6":1}'>- Material: 100% algodón.<br>- Short mom color azul de tiro alto.<br>- Juanita, la modelo usa talla XS y mide 160 cm</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>color-denim</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-mom</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-sexy</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8190822613216</id>
+      <title>2</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116037819</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8190822613216</id>
+      <title>4</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116037820</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8190822613216</id>
+      <title>6</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116037821</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8190822613216</id>
+      <title>8</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116037822</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8190822613216</id>
+      <title>10</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116037823</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8190822613216</id>
+      <title>12</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116037824</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8190822613216</id>
+      <title>14</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116037825</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8190822613216</id>
+      <title>16</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116037826</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8171060396256</id>
+    <published>2023-11-30T11:08:55-05:00</published>
+    <updated>2023-11-30T11:08:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/short-de-tiro-alto-tipo-lino-con-elastico-en-cintura-y-bolsillos-plutarca"/>
+    <title>Short de tiro alto tipo lino con elástico en cintura y bolsillos - PLUTARCA</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/short-de-tiro-alto-tipo-lino-con-elastico-en-cintura-y-bolsillos-plutarca-1.jpg?v=1705350811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Precio: </strong>
+            48930.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\n- Short de lino color blanco marfil con silueta ancha y tiro alto.\n- Ideal para esos días de sol en los que quieres vestirte relajada pero a la vez cool.\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: 100% algodón.<br>- Short de tiro alto color azul tipo lino con elástico en cintura y bolsillos.<br>- Juanita, la modelo usa talla 4 y mide 160 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-playa</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8171060396256</id>
+      <title>2</title>
+      <s:price currency="COP">48930.00</s:price>
+      <s:sku>1111116037765</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8171060396256</id>
+      <title>4</title>
+      <s:price currency="COP">48930.00</s:price>
+      <s:sku>1111116037766</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8171060396256</id>
+      <title>6</title>
+      <s:price currency="COP">48930.00</s:price>
+      <s:sku>1111116037767</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8171060396256</id>
+      <title>8</title>
+      <s:price currency="COP">48930.00</s:price>
+      <s:sku>1111116037768</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8171060396256</id>
+      <title>10</title>
+      <s:price currency="COP">48930.00</s:price>
+      <s:sku>1111116037769</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8171060396256</id>
+      <title>12</title>
+      <s:price currency="COP">48930.00</s:price>
+      <s:sku>1111116037770</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8171060396256</id>
+      <title>14</title>
+      <s:price currency="COP">48930.00</s:price>
+      <s:sku>1111116037771</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8171060396256</id>
+      <title>16</title>
+      <s:price currency="COP">48930.00</s:price>
+      <s:sku>1111116037772</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8052198342880</id>
+    <published>2023-06-05T17:07:16-05:00</published>
+    <updated>2023-06-05T17:07:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/short-de-tiro-alto-con-estampado-de-rayas-y-elastico-en-cintura-naima"/>
+    <title>Short de tiro alto con estampado de rayas y elástico en cintura - NAIMA</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/short-de-tiro-alto-con-estampado-de-rayas-y-elastico-en-cintura-naima-1.jpg?v=1705599830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Precio: </strong>
+            39900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\n- Short de lino color blanco marfil con silueta ancha y tiro alto.\n- Ideal para esos días de sol en los que quieres vestirte relajada pero a la vez cool.\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: 100% algodón.<br>- Short de tiro alto color beige con estampado de rayas y elástico en cintura.<br>- Camila, la modelo usa talla 4 y mide 170 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>color-beige</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-playa</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052198342880</id>
+      <title>2</title>
+      <s:price currency="COP">39900.00</s:price>
+      <s:sku>1111116036442</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052198342880</id>
+      <title>4</title>
+      <s:price currency="COP">39900.00</s:price>
+      <s:sku>1111116036443</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052198342880</id>
+      <title>6</title>
+      <s:price currency="COP">39900.00</s:price>
+      <s:sku>1111116036444</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052198342880</id>
+      <title>8</title>
+      <s:price currency="COP">39900.00</s:price>
+      <s:sku>1111116036445</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052198342880</id>
+      <title>10</title>
+      <s:price currency="COP">39900.00</s:price>
+      <s:sku>1111116036446</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052198342880</id>
+      <title>12</title>
+      <s:price currency="COP">39900.00</s:price>
+      <s:sku>1111116036447</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052198342880</id>
+      <title>14</title>
+      <s:price currency="COP">39900.00</s:price>
+      <s:sku>1111116036448</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052198342880</id>
+      <title>16</title>
+      <s:price currency="COP">39900.00</s:price>
+      <s:sku>1111116036449</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/7749419466976</id>
+    <published>2022-07-12T10:10:01-05:00</published>
+    <updated>2022-07-12T10:10:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/short-mom-cailin"/>
+    <title>Short mom - CAILIN</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/short-mom-mujer-flashy-cailin1.jpg?v=1742223609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Precio: </strong>
+            89900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":{"1":2,"2":10797812},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n- Short de tiro alto de silueta mom con guarda polvos, fit relajado y lavado azul medio.\n- ¿Quién dijo paseo? Solo necesitas estos shorts!!\n- Camila, la modelo usa talla 4 y mide 170 cm.","6":1}'>- Material: 100% algodón.<br>- Short mom color negro.<br>- Nada más perfecto que estos shorts para un día de sol.<br>- Paola, la modelo usa talla 4 y mide 163 cm.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>aplica-flashy123</s:tag>
+    <s:tag>color-denim</s:tag>
+    <s:tag>color-negro</s:tag>
+    <s:tag>feed-agegroup-adult</s:tag>
+    <s:tag>feed-gender-female</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-mom</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>size_filter_12</s:tag>
+    <s:tag>size_filter_2</s:tag>
+    <s:tag>size_filter_4</s:tag>
+    <s:tag>size_filter_6</s:tag>
+    <s:tag>size_filter_8</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7749419466976</id>
+      <title>2</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116033960</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7749419466976</id>
+      <title>4</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116033064</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7749419466976</id>
+      <title>6</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116033065</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7749419466976</id>
+      <title>8</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116033066</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7749419466976</id>
+      <title>10</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116033067</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7749419466976</id>
+      <title>12</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116033068</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7749419466976</id>
+      <title>14</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116033069</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7749419466976</id>
+      <title>16</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116033070</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+</feed>

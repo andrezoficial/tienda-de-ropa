@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.flashy.com.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.flashy.com.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.flashy.com.co/collections/ropa-de-control-fajas.atom"/>
+  <title>Flashy</title>
+  <updated>2025-01-14T14:28:42-05:00</updated>
+  <author>
+    <name>Flashy</name>
+  </author>
+  <entry>
+    <id>https://www.flashy.com.co/products/8673260142816</id>
+    <published>2025-01-14T14:28:42-05:00</published>
+    <updated>2025-01-14T14:28:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/body-de-tiras-moldeador-con-control-de-abdomen-laisha"/>
+    <title>Body de tiras moldeador con control de abdomen - LAISHA</title>
+    <s:type>bodys</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/body-de-tiras-moldeador-con-control-de-abdomen-mujer-flashy-laisha6.jpg?v=1741792526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>bodys<br>
+        <strong>Precio: </strong>
+            109900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: 76% poliéster, 24% spandex.<br>- <span>Body color negro de tiras moldeador con control de abdomen.</span><br>- Sofia, la modelo usa talla S y mide 172 cm. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-negro</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8673260142816</id>
+      <title>S</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116040425</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8673260142816</id>
+      <title>M</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116040426</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8673260142816</id>
+      <title>L</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116040427</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8673290158304</id>
+    <published>2024-10-07T09:59:43-05:00</published>
+    <updated>2024-10-07T09:59:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/panty-moldeador-con-control-de-abdomen-leyna"/>
+    <title>Panty moldeador con control de abdomen - LEYNA</title>
+    <s:type></s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/panty-moldeador-con-control-de-abdomen-mujer-flashy-leyna1.jpg?v=1741902794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            94900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: 76% poliéster, 24% spandex.<br>- <span>Panty moldeador color beige con control de abdomen.</span><br>- Maria José , la modelo usa talla S y mide 162 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-beige</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8673290158304</id>
+      <title>S</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116040434</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8673290158304</id>
+      <title>M</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116040435</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8673290158304</id>
+      <title>L</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116040436</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8673276264672</id>
+    <published>2024-10-04T16:53:48-05:00</published>
+    <updated>2024-10-04T16:53:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/enterizo-de-tiras-moldeador-con-control-de-abdomen-laritza"/>
+    <title>Enterizo de tiras moldeador con control de abdomen - LARITZA</title>
+    <s:type>Enterizos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/enterizo-de-tiras-moldeador-con-control-de-abdomen-mujer-flashy-laritza6.jpg?v=1741902102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Enterizos<br>
+        <strong>Precio: </strong>
+            129900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: 76% poliéster, 24% spandex.<br>- <span>Enterizo color beige de tiras moldeador con control de abdomen.</span><br>- Camila, la modelo usa talla S y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-beige</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8673276264672</id>
+      <title>S</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116040428</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8673276264672</id>
+      <title>M</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116040429</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8673276264672</id>
+      <title>L</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116040430</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8673283014880</id>
+    <published>2024-10-04T16:53:33-05:00</published>
+    <updated>2024-10-04T16:53:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/short-moldeador-con-control-de-abdomen-lizbeth"/>
+    <title>Short moldeador con control de abdomen - LIZBETH</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/short-moldeador-con-control-de-abdomen-mujer-flashy-lizbeth1.jpg?v=1741903077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Precio: </strong>
+            119900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: 76% poliéster, 24% spandex.<br>- <span>Short moldeador color beige con control de abdomen.</span><br>- Sofia, la modelo usa talla S y mide 172 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-beige</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8673283014880</id>
+      <title>S</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116040431</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8673283014880</id>
+      <title>M</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116040432</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8673283014880</id>
+      <title>L</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116040433</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8673041383648</id>
+    <published>2024-10-04T16:53:20-05:00</published>
+    <updated>2024-10-04T16:53:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/body-de-tiras-moldeador-con-control-de-abdomen-lupe"/>
+    <title>Body de tiras moldeador con control de abdomen - LUPE</title>
+    <s:type>bodys</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/body-de-tiras-moldeador-con-control-de-abdomen-mujer-flashy-lupe1.jpg?v=1741901060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>bodys<br>
+        <strong>Precio: </strong>
+            109900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: 76% poliéster, 24% spandex.<br>- <span>Body color beige de tiras moldeador con control de abdomen.</span><br>- Manuela , la modelo usa talla S y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-beige</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8673041383648</id>
+      <title>S</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116040422</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8673041383648</id>
+      <title>M</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116040423</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8673041383648</id>
+      <title>L</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116040424</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

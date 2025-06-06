@@ -1,0 +1,1239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.flashy.com.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.flashy.com.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.flashy.com.co/collections/ropa-deportiva-mujer.atom"/>
+  <title>Flashy</title>
+  <updated>2025-06-05T11:30:13-05:00</updated>
+  <author>
+    <name>Flashy</name>
+  </author>
+  <entry>
+    <id>https://www.flashy.com.co/products/8267868373216</id>
+    <published>2025-06-05T11:30:13-05:00</published>
+    <updated>2025-06-05T11:30:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/legging-deportivo-con-cruce-en-pretina-trixy"/>
+    <title>Legging deportivo con cruce en pretina - TRIXY</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/legging-deportivo-con-cruce-en-pretina-mujer-flashy-trixy1.jpg?v=1742217443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            39960.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: 76% poliéster, 24% spandex.<br>- Legging deportivo color magenta con cruce en pretina.<br>- Juanita, la modelo usa talla XS y mide 160 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-magenta</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267868373216</id>
+      <title>XS</title>
+      <s:price currency="COP">39960.00</s:price>
+      <s:sku>1111116038708</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267868373216</id>
+      <title>S</title>
+      <s:price currency="COP">39960.00</s:price>
+      <s:sku>1111116038709</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267868373216</id>
+      <title>M</title>
+      <s:price currency="COP">39960.00</s:price>
+      <s:sku>1111116038710</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267868373216</id>
+      <title>L</title>
+      <s:price currency="COP">39960.00</s:price>
+      <s:sku>1111116038711</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267868373216</id>
+      <title>XL</title>
+      <s:price currency="COP">39960.00</s:price>
+      <s:sku>1111116038712</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267868373216</id>
+      <title>XXL</title>
+      <s:price currency="COP">39960.00</s:price>
+      <s:sku>1111116038713</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8310178513120</id>
+    <published>2025-06-03T15:18:06-05:00</published>
+    <updated>2025-06-03T15:18:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/top-deportivo-sin-mangas-tonya"/>
+    <title>Top deportivo sin mangas - TONYA</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/top-deportivo-sin-mangas-tonya-1.jpg?v=1713556942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            27450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}'>- Material: 76% poliéster, 24% spandex.<br>- Top deportivo color verde sin mangas.<br data-mce-fragment="1">- Sofía, la modelo usa talla S y mide 170 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-verde</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8310178513120</id>
+      <title>XS</title>
+      <s:price currency="COP">27450.00</s:price>
+      <s:sku>1111116038732</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8310178513120</id>
+      <title>S</title>
+      <s:price currency="COP">27450.00</s:price>
+      <s:sku>1111116038733</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8310178513120</id>
+      <title>M</title>
+      <s:price currency="COP">27450.00</s:price>
+      <s:sku>1111116038734</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8310178513120</id>
+      <title>L</title>
+      <s:price currency="COP">27450.00</s:price>
+      <s:sku>1111116038735</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8310178513120</id>
+      <title>XL</title>
+      <s:price currency="COP">27450.00</s:price>
+      <s:sku>1111116038736</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8310178513120</id>
+      <title>XXL</title>
+      <s:price currency="COP">27450.00</s:price>
+      <s:sku>1111116038737</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8267863851232</id>
+    <published>2025-02-19T12:42:40-05:00</published>
+    <updated>2025-02-19T12:42:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/biker-deportivo-tricia"/>
+    <title>Biker deportivo - TRICIA</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/biker-deportivo-mujer-flashy-tricia1.jpg?v=1741798293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            27960.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: 76% poliéster, 24% spandex.<br>- Biker deportivo color verde.<br>- Juanita, la modelo usa talla XS y mide 160 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-verde</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267863851232</id>
+      <title>XS</title>
+      <s:price currency="COP">27960.00</s:price>
+      <s:sku>1111116038738</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267863851232</id>
+      <title>S</title>
+      <s:price currency="COP">27960.00</s:price>
+      <s:sku>1111116038739</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267863851232</id>
+      <title>M</title>
+      <s:price currency="COP">27960.00</s:price>
+      <s:sku>1111116038740</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267863851232</id>
+      <title>L</title>
+      <s:price currency="COP">27960.00</s:price>
+      <s:sku>1111116038741</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267863851232</id>
+      <title>XL</title>
+      <s:price currency="COP">27960.00</s:price>
+      <s:sku>1111116038742</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267863851232</id>
+      <title>XXL</title>
+      <s:price currency="COP">27960.00</s:price>
+      <s:sku>1111116038743</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8718234681568</id>
+    <published>2024-11-12T14:12:01-05:00</published>
+    <updated>2024-11-12T14:12:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/medias-largas-con-rayas-missie"/>
+    <title>Medias largas con rayas - MISSIE</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/medias-largas-con-rayas-missie-1.jpg?v=1731436196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            29900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">- Material: 100% algodón.</span><span data-mce-fragment="1"></span><br data-mce-fragment="1"><span data-mce-fragment="1">- <span>Medias largas color blanco con rayas.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8718234681568</id>
+      <title>Default Title</title>
+      <s:price currency="COP">29900.00</s:price>
+      <s:sku>1111116041220</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8702677352672</id>
+    <published>2024-11-12T14:05:11-05:00</published>
+    <updated>2024-11-12T14:05:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/camisa-manga-larga-de-botones-con-cuello-y-punos-en-contraste-magnolia"/>
+    <title>Camisa manga larga de botones con cuello y puños en contraste - MAGNOLIA</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/camisa-manga-larga-de-botones-con-cuello-y-punos-en-contraste-mujer-flashy-magnolia6.jpg?v=1741787571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            109900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% spándex.\n- Blusa crop color negro, manga larga con escote cuadrado y hombreras.\n- La prenda ideal para salir el viernes de fiesta con tus amigas.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}'>- Material: 63% poliéster, 33% rayon, 4% elastano.<br>- <span>Camisa manga larga color azul de botones con cuello y puños en contraste.</span><br>-Camila, la modelo usa talla XS y mide 170 cm.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>collection-blusas</s:tag>
+    <s:tag>color-azul</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8702677352672</id>
+      <title>XS</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116040969</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8702677352672</id>
+      <title>S</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116040970</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8702677352672</id>
+      <title>M</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116040971</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8702677352672</id>
+      <title>L</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116040972</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8702677352672</id>
+      <title>XL</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116040973</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8702677352672</id>
+      <title>XXL</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116040974</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8697650413792</id>
+    <published>2024-11-12T13:56:58-05:00</published>
+    <updated>2024-11-12T13:56:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/crop-top-de-tiras-tipo-corset-con-sesgos-en-contraste-maca"/>
+    <title>Crop top de tiras tipo corset con sesgos en contraste - MACA</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/crop-top-de-tiras-tipo-corset-con-sesgos-en-contraste-mujer-flashy-maca1.jpg?v=1741895522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            69900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 93% poliéster, 7% elastano.<br>- <span>Crop top color blanco marfil de tiras tipo corset con sesgos en contraste.</span><br>- Manuela, la modelo usa talla XS y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>collection-blusas</s:tag>
+    <s:tag>color-crudo</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>landing-blusas_escotadas</s:tag>
+    <s:tag>lateral-corset</s:tag>
+    <s:tag>lateral-crop_tops</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:tag>material-poliéster</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8697650413792</id>
+      <title>XS</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116040915</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8697650413792</id>
+      <title>S</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116040916</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8697650413792</id>
+      <title>M</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116040917</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8697650413792</id>
+      <title>L</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116040918</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8697650413792</id>
+      <title>XL</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116040919</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8697650413792</id>
+      <title>XXL</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116040920</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8683729977568</id>
+    <published>2024-11-12T13:50:49-05:00</published>
+    <updated>2024-11-12T13:50:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/legging-deportivo-monica"/>
+    <title>Legging deportivo - MONICA</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/legging-deportivo-mujer-flashy-monica1.jpg?v=1741889111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            119900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: 76% poliéster, 24% spandex.<br>- <span>Legging deportivo color lila.</span><br>- Manuela, la modelo usa talla S y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-lila</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8683729977568</id>
+      <title>S</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116040710</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8683729977568</id>
+      <title>M</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116040711</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8683729977568</id>
+      <title>L</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116040712</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8687244968160</id>
+    <published>2024-11-12T13:43:16-05:00</published>
+    <updated>2024-11-12T13:43:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/top-deportivo-sin-mangas-myrta"/>
+    <title>Top deportivo sin mangas - MYRTA</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/top-deportivo-sin-mangas-mujer-flashy-myrta1.jpg?v=1741794944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            84900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 76% poliéster, 24% spandex.<br>- <span>Top deportivo color lila sin mangas.</span><br data-mce-fragment="1">- Renata, la modelo usa talla S y mide 160 cm. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-lila</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8687244968160</id>
+      <title>S</title>
+      <s:price currency="COP">84900.00</s:price>
+      <s:sku>1111116040754</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8687244968160</id>
+      <title>M</title>
+      <s:price currency="COP">84900.00</s:price>
+      <s:sku>1111116040755</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8687244968160</id>
+      <title>L</title>
+      <s:price currency="COP">84900.00</s:price>
+      <s:sku>1111116040756</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8694710567136</id>
+    <published>2024-11-12T13:39:25-05:00</published>
+    <updated>2024-11-12T13:39:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-corta-con-pliegues-y-anudado-en-contraste-maurice"/>
+    <title>Falda corta con pliegues y anudado en contraste - MAURICE</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-corta-con-pliegues-y-anudado-en-contraste-mujer-flashy-maurice1.jpg?v=1741894438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            99900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 94% poliéster, 6% elastano.<br>- <span>Falda corta color blanco marfil con pliegues y anudado en contraste.</span><br>- Manuela, la modelo usa talla XS y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-corto</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8694710567136</id>
+      <title>XS</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040883</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8694710567136</id>
+      <title>S</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040884</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8694710567136</id>
+      <title>M</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040885</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8694710567136</id>
+      <title>L</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040886</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8694710567136</id>
+      <title>XL</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040887</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8694710567136</id>
+      <title>XXL</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040888</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8683736531168</id>
+    <published>2024-11-12T13:38:43-05:00</published>
+    <updated>2024-11-12T13:38:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/biker-deportivo-maia"/>
+    <title>Biker deportivo - MAIA</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/biker-deportivo-mujer-flashy-maia6.jpg?v=1741797299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            79900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: 76% poliéster, 24% spandex.<br>- <span>Biker deportivo color azul.</span><br>- Manuela, la modelo usa talla S y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8683736531168</id>
+      <title>S</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116040713</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8683736531168</id>
+      <title>M</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116040714</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8683736531168</id>
+      <title>L</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116040715</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8683612143840</id>
+    <published>2024-11-12T13:35:12-05:00</published>
+    <updated>2024-11-12T13:35:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/legging-deportivo-marisa"/>
+    <title>Legging deportivo - MARISA</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/legging-deportivo-mujer-flashy-marisa1.jpg?v=1741787393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            47960.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: 76% poliéster, 24% spandex.<br>- <span>Legging deportivo color azul.</span><br>- Manuela, la modelo usa talla S y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8683612143840</id>
+      <title>S</title>
+      <s:price currency="COP">47960.00</s:price>
+      <s:sku>1111116040707</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8683612143840</id>
+      <title>M</title>
+      <s:price currency="COP">47960.00</s:price>
+      <s:sku>1111116040708</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8683612143840</id>
+      <title>L</title>
+      <s:price currency="COP">47960.00</s:price>
+      <s:sku>1111116040709</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8682418045152</id>
+    <published>2024-11-12T13:34:47-05:00</published>
+    <updated>2024-11-12T13:34:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/top-deportivo-de-tiras-con-escote-cuadrado-margarita"/>
+    <title>Top deportivo de tiras con escote cuadrado - MARGARITA</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/top-deportivo-de-tiras-con-escote-cuadrado-mujer-flashy-margarita1.jpg?v=1741787903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            84900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}'>- Material: <span>95% poliéster, 5% elastano.</span><br>- <span>Top deportivo color azul de tiras con escote cuadrado.</span><br data-mce-fragment="1">- Camila, la modelo usa talla S y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>aplica-flashy123</s:tag>
+    <s:tag>color-azul</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8682418045152</id>
+      <title>S</title>
+      <s:price currency="COP">84900.00</s:price>
+      <s:sku>1111116040701</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8682418045152</id>
+      <title>M</title>
+      <s:price currency="COP">84900.00</s:price>
+      <s:sku>1111116040702</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8682418045152</id>
+      <title>L</title>
+      <s:price currency="COP">84900.00</s:price>
+      <s:sku>1111116040703</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8682529816800</id>
+    <published>2024-11-12T13:33:45-05:00</published>
+    <updated>2024-11-12T13:33:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/top-deportivo-de-tiras-con-escote-cuadrado-meg"/>
+    <title>Top deportivo de tiras con escote cuadrado - MEG</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/top-deportivo-de-tiras-con-escote-cuadrado-mujer-flashy-meg1.jpg?v=1741889263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            33960.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 88% poliéster, 12% spándex.<br>- <span>Top deportivo color azul de tiras con escote cuadrado.</span><br data-mce-fragment="1">- Manuela, la modelo usa talla S y mide 168 cm. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>aplica-flashy123</s:tag>
+    <s:tag>color-azul</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8682529816800</id>
+      <title>S</title>
+      <s:price currency="COP">33960.00</s:price>
+      <s:sku>1111116040704</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8682529816800</id>
+      <title>M</title>
+      <s:price currency="COP">33960.00</s:price>
+      <s:sku>1111116040705</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8682529816800</id>
+      <title>L</title>
+      <s:price currency="COP">33960.00</s:price>
+      <s:sku>1111116040706</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8718224720096</id>
+    <published>2024-11-12T13:28:55-05:00</published>
+    <updated>2024-11-12T13:28:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/medias-largas-con-bordado-de-corazon-mariette"/>
+    <title>Medias largas con bordado de corazón - MARIETTE</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/medias-largas-con-bordado-de-corazon-mujer-flashy-mariette2.jpg?v=1741889027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            29900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">- Material: 100% algodón.</span><span data-mce-fragment="1"></span><br data-mce-fragment="1"><span data-mce-fragment="1">- <span>Medias largas color beige con bordado de corazón.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-beige</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8718224720096</id>
+      <title>Default Title</title>
+      <s:price currency="COP">29900.00</s:price>
+      <s:sku>1111116041219</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8261113938144</id>
+    <published>2024-04-21T22:00:06-05:00</published>
+    <updated>2024-04-21T22:00:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/top-deportivo-de-un-hombro-tini"/>
+    <title>Top deportivo de un hombro - TINI</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/top-deportivo-de-un-hombro-tini-6.jpg?v=1713798243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            35900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 76% poliéster, 24% spandex.<br>- Top deportivo color azul de un hombro.<br data-mce-fragment="1">- Renata, la modelo usa talla XS y mide 160 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8261113938144</id>
+      <title>XS</title>
+      <s:price currency="COP">35900.00</s:price>
+      <s:sku>1111116038750</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8261113938144</id>
+      <title>S</title>
+      <s:price currency="COP">35900.00</s:price>
+      <s:sku>1111116038751</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8261113938144</id>
+      <title>M</title>
+      <s:price currency="COP">35900.00</s:price>
+      <s:sku>1111116038752</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8261113938144</id>
+      <title>L</title>
+      <s:price currency="COP">35900.00</s:price>
+      <s:sku>1111116038753</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8261113938144</id>
+      <title>XL</title>
+      <s:price currency="COP">35900.00</s:price>
+      <s:sku>1111116038754</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8261113938144</id>
+      <title>XXL</title>
+      <s:price currency="COP">35900.00</s:price>
+      <s:sku>1111116038755</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8267873452256</id>
+    <published>2024-04-21T21:12:42-05:00</published>
+    <updated>2024-04-21T21:12:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/legging-deportivo-con-cruce-en-pretina-tracey"/>
+    <title>Legging deportivo con cruce en pretina - TRACEY</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/legging-deportivo-con-cruce-en-pretina-mujer-flashy-tracey1.jpg?v=1742217355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            59900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: 76% poliéster, 24% spandex.<br>- Legging deportivo color azul con cruce en pretina.<br>- Juanita, la modelo usa talla XS y mide 160 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267873452256</id>
+      <title>XS</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116038744</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267873452256</id>
+      <title>S</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116038745</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267873452256</id>
+      <title>M</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116038746</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267873452256</id>
+      <title>L</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116038747</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267873452256</id>
+      <title>XL</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116038748</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267873452256</id>
+      <title>XXL</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116038749</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8267860279520</id>
+    <published>2024-04-21T21:11:21-05:00</published>
+    <updated>2024-04-21T21:11:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/legging-deportivo-trina"/>
+    <title>Legging deportivo - TRINA</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/legging-deportivo-mujer-flashy-trina1.jpg?v=1742217290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            47450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: 76% poliéster, 24% spandex.<br>- Legging deportivo color negro.<br>- Juanita, la modelo usa talla XS y mide 160 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-negro</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267860279520</id>
+      <title>XS</title>
+      <s:price currency="COP">47450.00</s:price>
+      <s:sku>1111116038726</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267860279520</id>
+      <title>S</title>
+      <s:price currency="COP">47450.00</s:price>
+      <s:sku>1111116038727</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267860279520</id>
+      <title>M</title>
+      <s:price currency="COP">47450.00</s:price>
+      <s:sku>1111116038728</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267860279520</id>
+      <title>L</title>
+      <s:price currency="COP">47450.00</s:price>
+      <s:sku>1111116038729</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267860279520</id>
+      <title>XL</title>
+      <s:price currency="COP">47450.00</s:price>
+      <s:sku>1111116038730</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8267860279520</id>
+      <title>XXL</title>
+      <s:price currency="COP">47450.00</s:price>
+      <s:sku>1111116038731</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8258170683616</id>
+    <published>2024-04-21T21:09:36-05:00</published>
+    <updated>2024-04-21T21:09:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/crop-top-deportivo-de-malla-sin-mangas-tiberia"/>
+    <title>Crop top deportivo de malla sin mangas - TIBERIA</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/crop-top-deportivo-de-malla-sin-mangas-mujer-flashy-tiberia1.jpg?v=1741982487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            28900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}'>- Material: 95% poliéster, 5% spandex.<br>- Crop top deportivo color blanco marfil de malla sin mangas.<br data-mce-fragment="1">- Sofía, la modelo usa talla S y mide 170 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>material-poliéster</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8258170683616</id>
+      <title>XS</title>
+      <s:price currency="COP">28900.00</s:price>
+      <s:sku>1111116038696</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8258170683616</id>
+      <title>S</title>
+      <s:price currency="COP">28900.00</s:price>
+      <s:sku>1111116038697</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8258170683616</id>
+      <title>M</title>
+      <s:price currency="COP">28900.00</s:price>
+      <s:sku>1111116038698</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8258170683616</id>
+      <title>L</title>
+      <s:price currency="COP">28900.00</s:price>
+      <s:sku>1111116038699</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8258170683616</id>
+      <title>XL</title>
+      <s:price currency="COP">28900.00</s:price>
+      <s:sku>1111116038700</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8258170683616</id>
+      <title>XXL</title>
+      <s:price currency="COP">28900.00</s:price>
+      <s:sku>1111116038701</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,2095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.flashy.com.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.flashy.com.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.flashy.com.co/collections/tendencia-mocha-mousse.atom"/>
+  <title>Flashy</title>
+  <updated>2025-06-05T14:41:53-05:00</updated>
+  <author>
+    <name>Flashy</name>
+  </author>
+  <entry>
+    <id>https://www.flashy.com.co/products/8184685297888</id>
+    <published>2025-06-05T14:41:53-05:00</published>
+    <updated>2025-06-05T14:41:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/pantalon-recto-tipo-sastre-de-tiro-alto-raphaela"/>
+    <title>Pantalón recto tipo cargo - RAPHAELA</title>
+    <s:type>Pantalones</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/pantalon-recto-tipo-sastre-de-tiro-alto-mujer-flashy-raphaela1.jpg?v=1741791835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Pantalones<br>
+        <strong>Precio: </strong>
+            63960.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: 98% algodón, 2% elastano.<br>- Pantalón recto color café tipo sastre de tiro alto.<br>- Juanita, la modelo usa talla 6 y mide 160 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>fit_rating-amplia</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>ocasion-oficina</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8184685297888</id>
+      <title>2</title>
+      <s:price currency="COP">63960.00</s:price>
+      <s:sku>1111116038303</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8184685297888</id>
+      <title>4</title>
+      <s:price currency="COP">63960.00</s:price>
+      <s:sku>1111116038304</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8184685297888</id>
+      <title>6</title>
+      <s:price currency="COP">63960.00</s:price>
+      <s:sku>1111116038305</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8184685297888</id>
+      <title>8</title>
+      <s:price currency="COP">63960.00</s:price>
+      <s:sku>1111116038306</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8184685297888</id>
+      <title>10</title>
+      <s:price currency="COP">63960.00</s:price>
+      <s:sku>1111116038307</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8184685297888</id>
+      <title>12</title>
+      <s:price currency="COP">63960.00</s:price>
+      <s:sku>1111116038308</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8184685297888</id>
+      <title>14</title>
+      <s:price currency="COP">63960.00</s:price>
+      <s:sku>1111116038309</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8184685297888</id>
+      <title>16</title>
+      <s:price currency="COP">63960.00</s:price>
+      <s:sku>1111116038310</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8845268844768</id>
+    <published>2025-06-05T08:48:28-05:00</published>
+    <updated>2025-06-05T08:48:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/blusa-con-leve-recogido-en-costados-y-cuello-tipo-gargantilla-griselda"/>
+    <title>Blusa con leve recogido en costados y cuello tipo gargantilla - GRISELDA</title>
+    <s:type>Blusas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/blusa-con-leve-recogido-en-costados-y-cuello-tipo-gargantilla-mujer-flashy-griselda5_3c9e4653-f46f-4a17-b9d1-f30b95bc379a.jpg?v=1745538299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Blusas<br>
+        <strong>Precio: </strong>
+            59900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% spándex.\n- Largo: XS/41cm, S/42,5cm, M/44cm, L/45,5cm, XL/46cm. \n- Blusa corta color beige manga larga, con cuello redondo con boleros y espalda descubierta con anudados.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: <span>97% poliéster, 3% spandex.</span><br>- Blusa color café con leve recogido en costados y cuello tipo gargantilla.<br>- Paloma, la modelo usa talla XS y mide 172 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>collection-blusas</s:tag>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8845268844768</id>
+      <title>XS</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116042523</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8845268844768</id>
+      <title>S</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116042524</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8845268844768</id>
+      <title>M</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116042525</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8845268844768</id>
+      <title>L</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116042526</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8845268844768</id>
+      <title>XL</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116042527</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8845268844768</id>
+      <title>XXL</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116042528</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8845277004000</id>
+    <published>2025-05-30T15:10:52-05:00</published>
+    <updated>2025-05-30T15:10:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/vestido-largo-de-un-solo-hombro-con-cut-out-en-costado-prina-cafe"/>
+    <title>Vestido largo de un solo hombro con cut out en costado - PRINA.CAFE</title>
+    <s:type>Vestidos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/vestido-largo-de-un-solo-hombro-con-cut-out-en-costado-mujer-flashy-prina-cafe1.jpg?v=1748635841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Vestidos<br>
+        <strong>Precio: </strong>
+            109900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 59% poliéster, 32% algodón, 9% elastano.\n- Vestido largo color blanco marfil en rib con anudado en escote y aberturas en cintura.\n - Este maxi vestido y unas sandalias es todo lo que necesitas para tu outfit de fin de semana de sol.\n - Susana, la modelo usa talla XS y mide 167 cm.","6":1}'>- Material: 97% poliéster, 3% elastano.<br>- Vestido largo color café de un solo hombro con cut out en costado.<br>- Camila, la modelo usa talla XS y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-cut_out</s:tag>
+    <s:tag>lateral-elegantes</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-largo</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8845277004000</id>
+      <title>XS</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116042535</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8845277004000</id>
+      <title>S</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116042536</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8845277004000</id>
+      <title>M</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116042537</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8845277004000</id>
+      <title>L</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116042538</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8845277004000</id>
+      <title>XL</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116042539</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8845277004000</id>
+      <title>XXL</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116042540</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8873406333152</id>
+    <published>2025-05-30T07:48:04-05:00</published>
+    <updated>2025-05-30T07:48:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/camiseta-con-estampado-de-gato-piana"/>
+    <title>Camiseta con estampado de gato - PIANA</title>
+    <s:type>Camisetas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/camiseta-con-estampado-de-gato-mujer-flashy-piana16.jpg?v=1748267102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Camisetas<br>
+        <strong>Precio: </strong>
+            54900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n- Camiseta estampada con cuello redondo y manga corta.\n- Para esos días en los que quieres vestirte sport pero a la vez verte muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}'>- Material: 100% algodón.<br>- Camiseta color café con estampado de gato.<br>- Maria josé , la modelo usa talla S y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-cuello_redondo</s:tag>
+    <s:tag>lateral-manga_corta</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8873406333152</id>
+      <title>XS</title>
+      <s:price currency="COP">54900.00</s:price>
+      <s:sku>1111116042801</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8873406333152</id>
+      <title>S</title>
+      <s:price currency="COP">54900.00</s:price>
+      <s:sku>1111116042802</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8873406333152</id>
+      <title>M</title>
+      <s:price currency="COP">54900.00</s:price>
+      <s:sku>1111116042803</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8873406333152</id>
+      <title>L</title>
+      <s:price currency="COP">54900.00</s:price>
+      <s:sku>1111116042804</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8873406333152</id>
+      <title>XL</title>
+      <s:price currency="COP">54900.00</s:price>
+      <s:sku>1111116042805</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8873406333152</id>
+      <title>XXL</title>
+      <s:price currency="COP">54900.00</s:price>
+      <s:sku>1111116042806</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8683602247904</id>
+    <published>2025-05-07T09:43:36-05:00</published>
+    <updated>2025-05-07T09:43:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/chaqueta-tipo-gamuza-con-bolsillos-y-botones-megara"/>
+    <title>Chaqueta tipo gamuza con bolsillos y botones - MEGARA</title>
+    <s:type>Chaquetas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/chaqueta-tipo-gamuza-con-bolsillos-y-botones-mujer-flashy-megara1.jpg?v=1741974829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Chaquetas<br>
+        <strong>Precio: </strong>
+            159900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 100% poliéster.\n- Chaqueta bomber color gris con piel falsa y cierre.\n- La chaqueta perfecta para verte como toda una diva en esos días fríos. \n- Mischell, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":{"1":2,"2":13228792},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-mce-fragment="1">- Material: 95% poliéster, 5% elastano.<br data-mce-fragment="1">- <span>Chaqueta tipo gamuza color café con bolsillos y botones.</span><br data-mce-fragment="1">- Camila, la modelo usa talla XS y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-chaqueta</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>ocasion-oficina</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8683602247904</id>
+      <title>XS</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116040722</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8683602247904</id>
+      <title>S</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116040723</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8683602247904</id>
+      <title>M</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116040724</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8683602247904</id>
+      <title>L</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116040725</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8683602247904</id>
+      <title>XL</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116040726</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8683602247904</id>
+      <title>XXL</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116040727</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8412070936800</id>
+    <published>2025-04-28T11:14:08-05:00</published>
+    <updated>2025-04-28T11:14:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/chaqueta-tipo-gamuza-con-flecos-eloise"/>
+    <title>Chaqueta tipo gamuza con flecos - ELOISE</title>
+    <s:type>Chaquetas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/chaqueta-tipo-gamuza-con-flecos-mujer-flashy-eloise6.jpg?v=1741794452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Chaquetas<br>
+        <strong>Precio: </strong>
+            149900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 100% poliéster.\n- Chaqueta bomber color gris con piel falsa y cierre.\n- La chaqueta perfecta para verte como toda una diva en esos días fríos. \n- Mischell, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":{"1":2,"2":13228792},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-mce-fragment="1">- Material: 95% poliéster, 5% elastano.<br data-mce-fragment="1">- Chaqueta tipo gamuza color café con flecos.<br data-mce-fragment="1">- Renata, la modelo usa talla XS y mide 160 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-chaqueta</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8412070936800</id>
+      <title>XS</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116039650</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8412070936800</id>
+      <title>S</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116039651</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8412070936800</id>
+      <title>M</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116039652</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8412070936800</id>
+      <title>L</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116039653</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8412070936800</id>
+      <title>XL</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116039654</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8412070936800</id>
+      <title>XXL</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116039655</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8840382021856</id>
+    <published>2025-04-15T15:35:25-05:00</published>
+    <updated>2025-04-15T15:35:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/chaleco-con-botones-tipo-sastre-con-cuello-redondo-shakira"/>
+    <title>Chaleco con botones tipo sastre con cuello redondo - SHAKIRA</title>
+    <s:type>Blusas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/chaleco-con-botones-tipo-sastre-con-cuello-redondo-flashy-mujer-shakira11.jpg?v=1745254239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Blusas<br>
+        <strong>Precio: </strong>
+            79900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 96% poliéster, 4% elastano.<br>- Chaleco color café con botones tipo sastre con cuello redondo.<br>- Camila, la modelo usa talla XS y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-elegantes</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>ocasion-oficina</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8840382021856</id>
+      <title>XS</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116042390</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8840382021856</id>
+      <title>S</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116042391</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8840382021856</id>
+      <title>M</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116042392</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8840382021856</id>
+      <title>L</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116042393</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8840382021856</id>
+      <title>XL</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116042394</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8840382021856</id>
+      <title>XXL</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116042395</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8829389111520</id>
+    <published>2025-04-04T16:37:53-05:00</published>
+    <updated>2025-04-04T16:37:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/vestido-con-aberturas-en-costados-florisa"/>
+    <title>Vestido con aberturas en costados - FLORISA</title>
+    <s:type>Vestidos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/vestido-con-aberturas-en-costados-mujer-flashy-florisa9.jpg?v=1744231596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Vestidos<br>
+        <strong>Precio: </strong>
+            99900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 59% poliéster, 32% algodón, 9% elastano.\n- Vestido largo color blanco marfil en rib con anudado en escote y aberturas en cintura.\n - Este maxi vestido y unas sandalias es todo lo que necesitas para tu outfit de fin de semana de sol.\n - Susana, la modelo usa talla XS y mide 167 cm.","6":1}'>- Material:  98% poliéster, 2% elastano.<br>- Vestido color café con aberturas en costados.<br>- Camila, la modelo usa talla XS y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>aplica-flashy123</s:tag>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-cut_out</s:tag>
+    <s:tag>lateral-elegantes</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-largo</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8829389111520</id>
+      <title>XS</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116042164</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8829389111520</id>
+      <title>S</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116042165</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8829389111520</id>
+      <title>M</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116042166</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8829389111520</id>
+      <title>L</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116042167</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8829389111520</id>
+      <title>XL</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116042168</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8829389111520</id>
+      <title>XXL</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116042169</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8833278345440</id>
+    <published>2025-03-28T14:43:13-05:00</published>
+    <updated>2025-03-28T14:43:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/blusa-tipo-corset-y-mangas-caidas-nirvana"/>
+    <title>Blusa tipo corset y mangas caídas - NIRVANA</title>
+    <s:type>Blusas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/blusa-tipo-corset-y-mangas-caidas-mujer-flashy-nirvana7.jpg?v=1744317083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Blusas<br>
+        <strong>Precio: </strong>
+            69900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 94% poliéster, 6% elastano.<br>- Blusa tipo corset color café y mangas caídas.<br>- Gaelle, la modelo usa talla XS y mide 162 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>collection-blusas</s:tag>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>landing-blusas_escotadas</s:tag>
+    <s:tag>lateral-corset</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8833278345440</id>
+      <title>XS</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116042244</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8833278345440</id>
+      <title>S</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116042245</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8833278345440</id>
+      <title>M</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116042249</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8833278345440</id>
+      <title>L</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116042246</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8833278345440</id>
+      <title>XL</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116042247</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8833278345440</id>
+      <title>XXL</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116042248</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8833312391392</id>
+    <published>2025-03-26T10:14:49-05:00</published>
+    <updated>2025-03-26T10:14:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/body-con-varilla-cuadrada-en-escote-y-drapeado-en-costados-cinderella"/>
+    <title>Body con varilla cuadrada en escote y drapeado en costados - CINDERELLA</title>
+    <s:type>bodys</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/body-con-varilla-cuadrada-en-escote-y-drapeado-en-costados-mujer-flashy-cinderella8.jpg?v=1743168027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>bodys<br>
+        <strong>Precio: </strong>
+            69900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 90% poliéster, 5% lúrex, 5% spándex.\n- Body color azul claro de tiras con escote redondo y anudados en espalda descubierta.\n- El body perfecto para salir de rumba con tus amigas!\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}'>- Material: 96% poliéster, 4% elastano.<br>- Body color café con varilla cuadrada en escote y drapeado en costados.<br>- Gaelle, la modelo usa talla XS y mide 160 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>landing-blusas_escotadas</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-bodys</s:tag>
+    <s:tag>lateral-sexy</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8833312391392</id>
+      <title>XS</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116042256</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8833312391392</id>
+      <title>S</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116042257</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8833312391392</id>
+      <title>M</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116042258</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8833312391392</id>
+      <title>L</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116042259</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8833312391392</id>
+      <title>XL</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116042260</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8833312391392</id>
+      <title>XXL</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116042261</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8052205158624</id>
+    <published>2025-03-21T06:28:53-05:00</published>
+    <updated>2025-03-21T06:28:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/crop-top-manga-larga-con-mangas-englobadas-y-espalda-con-entorchado-milka"/>
+    <title>Crop top manga larga con mangas englobadas y espalda con entorchado - MILKA</title>
+    <s:type>Blusas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/crop-top-manga-larga-con-mangas-englobadas-y-espalda-con-entorchado-mujer-flashy-milka1.jpg?v=1741983415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Blusas<br>
+        <strong>Precio: </strong>
+            37794.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Blusa color verde militar manga larga con efecto brillante en tela y recogido en escote y frente.\n- Esta blusa es perfecta para las que amamos estar siempre vestidas con las últimas tendencias en moda!\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}'><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">- Material: 100% algodón.</span></span><br><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">- Crop top manga larga color cafe con mangas englobadas y espalda con entorchado.</span></span><br><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">- Camila, la modelo usa talla S y mide 176 cm.</span></span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052205158624</id>
+      <title>XS</title>
+      <s:price currency="COP">37794.00</s:price>
+      <s:sku>1111116036178</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052205158624</id>
+      <title>S</title>
+      <s:price currency="COP">37794.00</s:price>
+      <s:sku>1111116036179</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052205158624</id>
+      <title>M</title>
+      <s:price currency="COP">37794.00</s:price>
+      <s:sku>1111116036180</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052205158624</id>
+      <title>L</title>
+      <s:price currency="COP">37794.00</s:price>
+      <s:sku>1111116036181</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052205158624</id>
+      <title>XL</title>
+      <s:price currency="COP">37794.00</s:price>
+      <s:sku>1111116036182</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8052205158624</id>
+      <title>XXL</title>
+      <s:price currency="COP">37794.00</s:price>
+      <s:sku>1111116036183</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8190953062624</id>
+    <published>2025-03-21T06:28:52-05:00</published>
+    <updated>2025-03-21T06:28:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/blazer-con-bolsillos-paulila"/>
+    <title>Blazer con bolsillos - PAULILA</title>
+    <s:type>Chaquetas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/blazer-con-bolsillos-paulila-1.jpg?v=1705355785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Chaquetas<br>
+        <strong>Precio: </strong>
+            89900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 2% elastano, 2% algodón.\n- Buso color blanco marfil manga larga en tela con textura de peluche con cuello redondo.\n- El buso perfecto para esos días fríos en los que quieres sentirte cómoda y abrigada pero a la vez quieres verte como una DIVA.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}'>- Material: 94% poliéster, 6% elastano.<br>- Blazer color café con bolsillos.<br>- Camila, la modelo usa talla S y mide 176 cm.<br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-colores_neutros</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:tag>lateral-moda</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>ocasion-oficina</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8190953062624</id>
+      <title>XS</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116037911</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8190953062624</id>
+      <title>S</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116037912</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8190953062624</id>
+      <title>M</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116037913</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8190953062624</id>
+      <title>L</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116037914</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8190953062624</id>
+      <title>XL</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116037915</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8190953062624</id>
+      <title>XXL</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116037916</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8824944492768</id>
+    <published>2025-03-16T14:15:43-05:00</published>
+    <updated>2025-03-16T14:15:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/blusa-corta-manga-larga-con-botones-avelia"/>
+    <title>Blusa corta manga larga con botones - AVELIA</title>
+    <s:type>Blusas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/blusa-corta-manga-larga-con-botones-mujer-flashy-avelia9.jpg?v=1742362045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Blusas<br>
+        <strong>Precio: </strong>
+            69900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Blusa color verde militar manga larga con efecto brillante en tela y recogido en escote y frente.\n- Esta blusa es perfecta para las que amamos estar siempre vestidas con las últimas tendencias en moda!\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">- Material: <span>98% poliéster, 2% spándex.</span></span></span><br><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">- Blusa corta manga larga color café con botones.</span></span><br><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">- Camila , la modelo usa talla XS y mide 170 cm.</span></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>collection-blusas</s:tag>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>landing-básicos</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:tag>material-poliéster</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8824944492768</id>
+      <title>XS</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116042114</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8824944492768</id>
+      <title>S</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116042115</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8824944492768</id>
+      <title>M</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116042116</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8824944492768</id>
+      <title>L</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116042117</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8824944492768</id>
+      <title>XL</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116042118</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8824944492768</id>
+      <title>XXL</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116042119</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8811176427744</id>
+    <published>2025-03-16T14:07:53-05:00</published>
+    <updated>2025-03-16T14:07:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/blusa-sin-mangas-con-escote-asimetrico-magola"/>
+    <title>Blusa sin mangas con escote asimétrico - MAGOLA</title>
+    <s:type>Blusas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/blusa-sin-mangas-con-escote-asimetrico-magola-mujer-flashy-magola15.jpg?v=1744320355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Blusas<br>
+        <strong>Precio: </strong>
+            56900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% spándex.\n- Largo: XS/41cm, S/42,5cm, M/44cm, L/45,5cm, XL/46cm. \n- Blusa corta color beige manga larga, con cuello redondo con boleros y espalda descubierta con anudados.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: <span>97% poliéster, 3% spandex.</span><br>- Blusa color café sin mangas con escote asimétrico.<br>- Manuela, la modelo usa talla XS y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>collection-blusas</s:tag>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8811176427744</id>
+      <title>XS</title>
+      <s:price currency="COP">56900.00</s:price>
+      <s:sku>1111116042015</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8811176427744</id>
+      <title>S</title>
+      <s:price currency="COP">56900.00</s:price>
+      <s:sku>1111116042016</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8811176427744</id>
+      <title>M</title>
+      <s:price currency="COP">56900.00</s:price>
+      <s:sku>1111116042017</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8811176427744</id>
+      <title>L</title>
+      <s:price currency="COP">56900.00</s:price>
+      <s:sku>1111116042018</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8811176427744</id>
+      <title>XL</title>
+      <s:price currency="COP">56900.00</s:price>
+      <s:sku>1111116042019</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8811176427744</id>
+      <title>XXL</title>
+      <s:price currency="COP">56900.00</s:price>
+      <s:sku>1111116042020</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8094622712032</id>
+    <published>2025-02-26T09:27:52-05:00</published>
+    <updated>2025-02-26T09:27:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-corta-con-recogido-en-costado-y-boleros-oceana"/>
+    <title>Falda corta con recogido en costado y boleros - OCEANA</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-corta-con-recogido-en-costado-y-boleros-mujer-flashy-oceana1.jpg?v=1741987057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            41900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}'>- Material: 96% poliéster, 4% elastano.<br>- Falda corta con recogido en costado y boleros color café.<br>- Juanita, la modelo usa talla 4 y mide 155 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8094622712032</id>
+      <title>4</title>
+      <s:price currency="COP">41900.00</s:price>
+      <s:sku>1111116037136</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8094622712032</id>
+      <title>6</title>
+      <s:price currency="COP">41900.00</s:price>
+      <s:sku>1111116037137</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8094622712032</id>
+      <title>8</title>
+      <s:price currency="COP">41900.00</s:price>
+      <s:sku>1111116037138</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8094622712032</id>
+      <title>10</title>
+      <s:price currency="COP">41900.00</s:price>
+      <s:sku>1111116037139</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8094622712032</id>
+      <title>12</title>
+      <s:price currency="COP">41900.00</s:price>
+      <s:sku>1111116037140</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8094622712032</id>
+      <title>14</title>
+      <s:price currency="COP">41900.00</s:price>
+      <s:sku>1111116037141</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8802801287392</id>
+    <published>2025-02-19T16:37:47-05:00</published>
+    <updated>2025-02-19T16:37:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/crop-top-manga-corta-con-espalda-descubierta-y-anudado-en-contraste-paige"/>
+    <title>Crop top manga corta con espalda descubierta y anudado en contraste - PAIGE</title>
+    <s:type>Blusas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/crop-top-manga-corta-con-espalda-descubierta-y-anudado-en-contraste-mujer-flashy-paige1.jpg?v=1741807567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Blusas<br>
+        <strong>Precio: </strong>
+            59900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% spándex.\n- Crop top color vino, manga sisa de tipo corset con anudados en espalda.\n- La prenda ideal para salir el viernes de fiesta con tus amigas viéndote como toda una DIVA!\n- Camila, la modelo usa talla XS y mide 170 cm."}'>- Material: <span>99% poliéster, 1% spandex.</span><br>- <span>Crop top manga corta color café con espalda descubierta y anudado en contraste.</span><br>- Manuela, la modelo usa talla XS y mide 168 cm.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-crop_tops</s:tag>
+    <s:tag>lateral-espalda_descubierta</s:tag>
+    <s:tag>lateral-manga_corta</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8802801287392</id>
+      <title>XS</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116041930</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8802801287392</id>
+      <title>S</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116041931</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8802801287392</id>
+      <title>M</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116041932</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8802801287392</id>
+      <title>L</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116041933</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8802801287392</id>
+      <title>XL</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116041934</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8802801287392</id>
+      <title>XXL</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116041935</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8740556931296</id>
+    <published>2025-02-06T11:48:01-05:00</published>
+    <updated>2025-02-06T11:48:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/pantalon-wide-leg-tipo-lino-con-elastico-en-cintura-y-anudado-angelina"/>
+    <title>Pantalón wide leg tipo lino con elástico en cintura y anudado - ANGELINA</title>
+    <s:type>Pantalones</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/pantalon-wide-leg-tipo-lino-con-elastico-en-cintura-y-anudado-mujer-flashy-angelina1.jpg?v=1741818940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Pantalones<br>
+        <strong>Precio: </strong>
+            139900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: 60% rayon, 40% lino.<br>- <span>Pantalón wide leg color café tipo lino con elástico en cintura y anudado.</span><br>- Maria José  la modelo usa talla 4 y mide 166 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-bota_ancha</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-playa</s:tag>
+    <s:tag>lateral-recto</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8740556931296</id>
+      <title>2</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116041453</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8740556931296</id>
+      <title>4</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116041454</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8740556931296</id>
+      <title>6</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116041455</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8740556931296</id>
+      <title>8</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116041456</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8740556931296</id>
+      <title>10</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116041457</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8740556931296</id>
+      <title>12</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116041458</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8740556931296</id>
+      <title>14</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116041459</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8740556931296</id>
+      <title>16</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116041460</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8694735143136</id>
+    <published>2025-01-29T12:55:33-05:00</published>
+    <updated>2025-01-29T12:55:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/crop-top-tejido-de-tiras-con-sesgos-en-contraste-monserat"/>
+    <title>Crop top tejido de tiras con sesgos en contraste - MONSERAT</title>
+    <s:type>Blusas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/crop-top-tejido-de-tiras-con-sesgos-en-contraste-mujer-flashy-monserat1.jpg?v=1741793665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Blusas<br>
+        <strong>Precio: </strong>
+            69900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% spándex.\n- Crop top color vino, manga sisa de tipo corset con anudados en espalda.\n- La prenda ideal para salir el viernes de fiesta con tus amigas viéndote como toda una DIVA!\n- Camila, la modelo usa talla XS y mide 170 cm."}' data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: <span>98% poliéster, 2% spandex.</span><br>- <span>Crop top color café de tiras con sesgos en contraste.</span><br>- Camila, la modelo usa talla XS y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>collection-blusas</s:tag>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:tag>material-tejido</s:tag>
+    <s:tag>Update</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8694735143136</id>
+      <title>XS</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116040897</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8694735143136</id>
+      <title>S</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116040898</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8694735143136</id>
+      <title>M</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116040899</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8694735143136</id>
+      <title>L</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116040900</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8694735143136</id>
+      <title>XL</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116040901</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8694735143136</id>
+      <title>XXL</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116040902</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8669929242848</id>
+    <published>2025-01-28T14:56:31-05:00</published>
+    <updated>2025-01-28T14:56:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/blusa-strapless-con-escote-en-v-latisha"/>
+    <title>Blusa strapless con escote en v - LATISHA</title>
+    <s:type>Blusas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/blusa-strapless-con-escote-en-v-mujer-flashy-latisha1.jpg?v=1741871355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Blusas<br>
+        <strong>Precio: </strong>
+            69900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: <span>97% poliéster, 3% spandex.</span><br>- <span>Blusa strapless color café con escote en v.</span><br>- Camila, la modelo usa talla XS y mide 170 cm.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>collection-blusas</s:tag>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>landing-blusas_escotadas</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-strapless</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8669929242848</id>
+      <title>XS</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116040400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8669929242848</id>
+      <title>S</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116040401</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8669929242848</id>
+      <title>M</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116040402</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8669929242848</id>
+      <title>L</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116040403</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8669929242848</id>
+      <title>XL</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116040404</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8669929242848</id>
+      <title>XXL</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116040405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8714388275424</id>
+    <published>2025-01-27T09:50:53-05:00</published>
+    <updated>2025-01-27T09:50:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-corta-de-denim-y-animal-print-mirabelle"/>
+    <title>Falda mom tiro alto de denim y animal print- MIRABELLE</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-corta-de-denim-y-animal-print-mujer-flashy-mirabelle5.jpg?v=1741823443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            119900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":{"1":2,"2":10797812},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n- Short de tiro alto de silueta mom con guarda polvos, fit relajado y lavado azul medio.\n- ¿Quién dijo paseo? Solo necesitas estos shorts!!\n- Camila, la modelo usa talla 4 y mide 170 cm.","6":1}'>- Material: 100% algodón.<br>- <span>Falda mom color café tiro alto de denim y animal print.</span><br>- Manuela , la modelo usa talla XS y mide 168 cm</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>color-denim</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>estampado-animal_print</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-mom</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-sexy</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714388275424</id>
+      <title>2</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041197</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714388275424</id>
+      <title>4</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041198</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714388275424</id>
+      <title>6</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041199</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714388275424</id>
+      <title>8</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041200</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714388275424</id>
+      <title>10</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041201</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714388275424</id>
+      <title>12</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041202</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714388275424</id>
+      <title>14</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041203</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714388275424</id>
+      <title>16</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041204</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8336073818336</id>
+    <published>2025-01-14T15:38:44-05:00</published>
+    <updated>2025-01-14T15:38:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/crop-top-de-tiras-de-animal-print-chavelle"/>
+    <title>Crop top de tiras de animal print - CHAVELLE</title>
+    <s:type>Blusas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/crop-top-de-tiras-de-animal-print-mujer-flashy-chavelle1.jpg?v=1741895601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Blusas<br>
+        <strong>Precio: </strong>
+            59900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% spándex.\n- Largo: XS/41cm, S/42,5cm, M/44cm, L/45,5cm, XL/46cm. \n- Blusa corta color beige manga larga, con cuello redondo con boleros y espalda descubierta con anudados.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-mce-fragment="1">- Material: 100% poliéster.<br data-mce-fragment="1">- Crop top de tiras color café de animal print.<br data-mce-fragment="1">- Mariana, la modelo usa talla XS y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>collection-blusas</s:tag>
+    <s:tag>color-beige</s:tag>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-crop_tops</s:tag>
+    <s:tag>lateral-sexy</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:tag>material-poliéster</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8336073818336</id>
+      <title>XS</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116039450</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8336073818336</id>
+      <title>S</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116039451</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8336073818336</id>
+      <title>M</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116039452</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8336073818336</id>
+      <title>L</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116039453</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8336073818336</id>
+      <title>XL</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116039454</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8336073818336</id>
+      <title>XXL</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116039455</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8037396611296</id>
+    <published>2025-01-14T15:02:41-05:00</published>
+    <updated>2025-01-14T15:02:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/crop-top-strapless-con-cut-out-y-cargadera-en-diagonal-malorie"/>
+    <title>Crop top strapless con cut out y cargadera en diagonal - MALORIE</title>
+    <s:type>Blusas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/crop-top-strapless-con-cut-out-y-cargadera-en-diagonal-mujer-flashy-malorie1.jpg?v=1741984796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Blusas<br>
+        <strong>Precio: </strong>
+            64900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 96% poliéster, 4% elastano.<br>- Crop top strapless color cafe con cut out y cargadera en diagonal.<br>- Renata, la modelo usa talla XS y mide 160 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-crop_tops</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-strapless</s:tag>
+    <s:tag>Update</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8037396611296</id>
+      <title>XS</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116035572</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8037396611296</id>
+      <title>S</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116035573</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8037396611296</id>
+      <title>M</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116035574</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8037396611296</id>
+      <title>L</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116035575</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8037396611296</id>
+      <title>XL</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116035576</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8037396611296</id>
+      <title>XXL</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116035577</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8713707225312</id>
+    <published>2025-01-14T12:17:14-05:00</published>
+    <updated>2025-01-14T12:17:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/chaleco-de-botones-tipo-gamuza-mabel"/>
+    <title>Chaleco de botones tipo gamuza - MABEL</title>
+    <s:type>Blusas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/chaleco-de-botones-tipo-gamuza-mujer-flashy-mabel6.jpg?v=1741876880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Blusas<br>
+        <strong>Precio: </strong>
+            79900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: <span>95% poliéster, 5% spandex.</span><br>- <span>Chaleco de botones color café tipo gamuza.</span><br>- Camila, la modelo usa talla XS y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>ocasion-oficina</s:tag>
+    <s:tag>ocasion_trabajo</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8713707225312</id>
+      <title>XS</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116041173</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8713707225312</id>
+      <title>S</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116041174</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8713707225312</id>
+      <title>M</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116041175</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8713707225312</id>
+      <title>L</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116041176</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8713707225312</id>
+      <title>XL</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116041177</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8713707225312</id>
+      <title>XXL</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116041178</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8751576154336</id>
+    <published>2024-12-26T16:12:34-05:00</published>
+    <updated>2024-12-26T16:12:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/pantalon-wide-leg-con-elastico-en-cintura-y-tela-con-textura-aliana"/>
+    <title>Pantalón wide leg con elástico en cintura y tela con textura - ALIANA</title>
+    <s:type>Pantalones</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/pantalon-wide-leg-con-elastico-en-cintura-y-tela-con-textura-mujer-flashy-aliana1.jpg?v=1741802930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Pantalones<br>
+        <strong>Precio: </strong>
+            119900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: 60% rayon, 40% lino.<br>- <span>Pantalón wide leg color cafe con elástico en cintura y tela con textura.</span><br>- Maria José la modelo usa talla 4 y mide 166 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-bota_ancha</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-playa</s:tag>
+    <s:tag>lateral-recto</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>wide_leg</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8751576154336</id>
+      <title>XS</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041688</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8751576154336</id>
+      <title>S</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041689</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8751576154336</id>
+      <title>M</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041690</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8751576154336</id>
+      <title>L</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041691</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8751576154336</id>
+      <title>XL</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041692</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8751576154336</id>
+      <title>XXL</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041693</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8720589226208</id>
+    <published>2024-12-20T15:32:15-05:00</published>
+    <updated>2024-12-20T15:32:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/blusa-manga-corta-de-animal-print-con-mangas-embobadas-y-anudados-en-frente-amelia"/>
+    <title>Blusa manga corta de animal print con mangas embobadas y anudados en frente - AMELIA</title>
+    <s:type>Blusas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/blusa-manga-corta-de-animal-print-con-mangas-embobadas-y-anudados-en-frente-mujer-flashy-amelia6.jpg?v=1741813774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Blusas<br>
+        <strong>Precio: </strong>
+            79900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 80% poliéster, 20% elastano.\n- Blusa color blanco marfil manga larga con escote en v, recogido en frente y mangas englobadas.\n- Usála para ir a trabajar y verte como toda una ejecutiva chic o también puedes combinarla con unos jeans para darle ese toque casual.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":{"1":2,"2":10797812},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}'>- Material: 98% poliéster, 2% spandex.<br>- <span>Blusa manga corta color café de animal print con mangas embobadas y anudados en frente.</span><br>- Camila la modelo usa talla XS y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>collection-blusas</s:tag>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>estampado-animal_print</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-manga_corta</s:tag>
+    <s:tag>lateral-mangas_embombadas</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8720589226208</id>
+      <title>XS</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116041289</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8720589226208</id>
+      <title>S</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116041290</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8720589226208</id>
+      <title>M</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116041291</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8720589226208</id>
+      <title>L</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116041292</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8720589226208</id>
+      <title>XL</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116041293</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8720589226208</id>
+      <title>XXL</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116041294</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.flashy.com.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.flashy.com.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.flashy.com.co/collections/prendas-de-tweed.atom"/>
+  <title>Flashy</title>
+  <updated>2025-05-08T12:57:38-05:00</updated>
+  <author>
+    <name>Flashy</name>
+  </author>
+  <entry>
+    <id>https://www.flashy.com.co/products/8247422845152</id>
+    <published>2025-05-08T12:57:38-05:00</published>
+    <updated>2025-05-08T12:57:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/crop-top-de-tweed-y-de-tiras-tillie"/>
+    <title>Crop top de tweed y de tiras - TILLIE</title>
+    <s:type>Blusas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/crop-top-de-tweed-y-de-tiras-mujer-flashy-tillie6.jpg?v=1741981935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Blusas<br>
+        <strong>Precio: </strong>
+            38430.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 66% poliéster, 33% algodón, 1% elastano.<br>- Crop top color rosado de tweed y de tiras.<br>- Camila, la modelo usa talla XS y mide 170 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>collection-blusas</s:tag>
+    <s:tag>color-rosado</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-crop_tops</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:tag>material-poliéster</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8247422845152</id>
+      <title>XS</title>
+      <s:price currency="COP">38430.00</s:price>
+      <s:sku>1111116038792</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8247422845152</id>
+      <title>S</title>
+      <s:price currency="COP">38430.00</s:price>
+      <s:sku>1111116038793</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8247422845152</id>
+      <title>M</title>
+      <s:price currency="COP">38430.00</s:price>
+      <s:sku>1111116038794</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8247422845152</id>
+      <title>L</title>
+      <s:price currency="COP">38430.00</s:price>
+      <s:sku>1111116038795</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8247422845152</id>
+      <title>XL</title>
+      <s:price currency="COP">38430.00</s:price>
+      <s:sku>1111116038796</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8247422845152</id>
+      <title>XXL</title>
+      <s:price currency="COP">38430.00</s:price>
+      <s:sku>1111116038797</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8298784555232</id>
+    <published>2024-06-06T14:24:13-05:00</published>
+    <updated>2024-06-06T14:24:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/short-de-tiro-alto-y-de-tweed-brigitte"/>
+    <title>Short de tiro alto y de tweed - BRIGITTE</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/short-de-tiro-alto-y-de-tweed-mujer-flashy-brigitte1.jpg?v=1741902996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Shorts<br>
+        <strong>Precio: </strong>
+            94900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\n- Short de lino color blanco marfil con silueta ancha y tiro alto.\n- Ideal para esos días de sol en los que quieres vestirte relajada pero a la vez cool.\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}' data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}'>- Material: <span>96% poliéster, 4% elastano.</span><br>- Short color azul de tiro alto y de tweed.<br>- Isabela, la modelo usa talla 6 y mide 172 cm. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-playa</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298784555232</id>
+      <title>2</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039278</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298784555232</id>
+      <title>4</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039279</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298784555232</id>
+      <title>6</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039280</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298784555232</id>
+      <title>8</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039281</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298784555232</id>
+      <title>10</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039282</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298784555232</id>
+      <title>12</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039283</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298784555232</id>
+      <title>14</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039284</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298784555232</id>
+      <title>16</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116039285</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8298792616160</id>
+    <published>2024-06-04T10:06:02-05:00</published>
+    <updated>2024-06-04T10:06:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/crop-top-de-tweed-y-de-tiras-bettie"/>
+    <title>Crop top de tweed y de tiras - BETTIE</title>
+    <s:type>Blusas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/crop-top-de-tweed-y-de-tiras-mujer-flashy-bettie1.jpg?v=1741901921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Blusas<br>
+        <strong>Precio: </strong>
+            59900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}'>- Material: <span>96% poliéster, 4% elastano.</span><br>- Crop top color azul de tweed y de tiras.<br>- Renata , la modelo usa talla XS y mide 160 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>collection-blusas</s:tag>
+    <s:tag>color-azul</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-crop_tops</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:tag>material-poliéster</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298792616160</id>
+      <title>XS</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116039286</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298792616160</id>
+      <title>S</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116039287</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298792616160</id>
+      <title>M</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116039288</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298792616160</id>
+      <title>L</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116039289</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298792616160</id>
+      <title>XL</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116039290</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298792616160</id>
+      <title>XXL</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116039291</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8247407280352</id>
+    <published>2024-02-14T09:39:10-05:00</published>
+    <updated>2024-02-14T09:39:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-corta-de-tweed-tully"/>
+    <title>Falda corta de tweed - TULLY</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-corta-de-tweed-mujer-flashy-tully1.jpg?v=1741902237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            55930.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 66% poliéster, 33% algodón, 1% elastano.<br>- Falda corta color rosado de tweed. <br>- Juanita, la modelo usa talla 4 y mide 155 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-rosado</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8247407280352</id>
+      <title>XS</title>
+      <s:price currency="COP">55930.00</s:price>
+      <s:sku>1111116038798</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8247407280352</id>
+      <title>S</title>
+      <s:price currency="COP">55930.00</s:price>
+      <s:sku>1111116038799</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8247407280352</id>
+      <title>M</title>
+      <s:price currency="COP">55930.00</s:price>
+      <s:sku>1111116038800</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8247407280352</id>
+      <title>L</title>
+      <s:price currency="COP">55930.00</s:price>
+      <s:sku>1111116038801</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8247407280352</id>
+      <title>XL</title>
+      <s:price currency="COP">55930.00</s:price>
+      <s:sku>1111116038802</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8247407280352</id>
+      <title>XXL</title>
+      <s:price currency="COP">55930.00</s:price>
+      <s:sku>1111116038803</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8192098533600</id>
+    <published>2023-12-06T17:01:19-05:00</published>
+    <updated>2023-12-06T17:01:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/crop-top-de-tiras-tipo-corset-de-tweed-rutila"/>
+    <title>Crop top de tiras tipo corset de tweed - RUTILA</title>
+    <s:type>Blusas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/crop-top-de-tiras-tipo-corset-de-tweed-mujer-flashy-rutila1.jpg?v=1741981253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Blusas<br>
+        <strong>Precio: </strong>
+            44030.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% elastano.\n- Crop top color amarillo manga larga, de un solo hombro con anudados en abdomen.\n- La prenda mas trendy del momento, usála con unos jeans claros de tiro alto para un look muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 66% poliéster, 33% algodón, 1% elastano.<br>-Crop top color azul de tiras tipo corset de tweed.<br>- Mariana, la modelo usa talla XS y mide 168 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>collection-blusas</s:tag>
+    <s:tag>color-azul</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-corset</s:tag>
+    <s:tag>lateral-crop_tops</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:tag>material-poliéster</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8192098533600</id>
+      <title>XS</title>
+      <s:price currency="COP">44030.00</s:price>
+      <s:sku>1111116038213</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8192098533600</id>
+      <title>S</title>
+      <s:price currency="COP">44030.00</s:price>
+      <s:sku>1111116038214</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8192098533600</id>
+      <title>M</title>
+      <s:price currency="COP">44030.00</s:price>
+      <s:sku>1111116038215</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8192098533600</id>
+      <title>L</title>
+      <s:price currency="COP">44030.00</s:price>
+      <s:sku>1111116038216</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8192098533600</id>
+      <title>XL</title>
+      <s:price currency="COP">44030.00</s:price>
+      <s:sku>1111116038217</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8192098533600</id>
+      <title>XXL</title>
+      <s:price currency="COP">44030.00</s:price>
+      <s:sku>1111116038218</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+</feed>

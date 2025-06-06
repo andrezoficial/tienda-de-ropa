@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.flashy.com.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.flashy.com.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.flashy.com.co/collections/vestidos-largos.atom"/>
+  <title>Flashy</title>
+  <updated>2025-06-05T15:00:49-05:00</updated>
+  <author>
+    <name>Flashy</name>
+  </author>
+  <entry>
+    <id>https://www.flashy.com.co/products/8874988765408</id>
+    <published>2025-06-05T15:00:49-05:00</published>
+    <updated>2025-06-05T15:00:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/vestido-largo-con-pieza-drapeada-en-frente-mulan-verde"/>
+    <title>Vestido largo con pieza drapeada en frente - MULAN.VERDE</title>
+    <s:type>Vestidos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/vestido-largo-con-pieza-drapeada-en-frente-mujer-flashy-mulan-verde1.jpg?v=1749153630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Vestidos<br>
+        <strong>Precio: </strong>
+            129900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 59% poliéster, 32% algodón, 9% elastano.\n- Vestido largo color blanco marfil en rib con anudado en escote y aberturas en cintura.\n - Este maxi vestido y unas sandalias es todo lo que necesitas para tu outfit de fin de semana de sol.\n - Susana, la modelo usa talla XS y mide 167 cm.","6":1}' data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}'>- Material: 89% poliéster, 11% elastano.<br>- Vestido largo color verde con pieza drapeada en frente.<br>- Manuela, la modelo usa talla XS y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>color-verde</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-elegantes</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-largo</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8874988765408</id>
+      <title>XS</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116042849</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8874988765408</id>
+      <title>S</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116042850</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8874988765408</id>
+      <title>M</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116042851</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8874988765408</id>
+      <title>L</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116042852</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8874988765408</id>
+      <title>XL</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116042853</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8874988765408</id>
+      <title>XXL</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116042854</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8235951587552</id>
+    <published>2025-06-05T11:43:08-05:00</published>
+    <updated>2025-06-05T11:43:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/vestido-largo-de-malla-y-sin-mangas-tallis"/>
+    <title>Vestido largo de malla y sin mangas - TALLIS</title>
+    <s:type>Vestidos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/vestido-largo-de-malla-y-sin-mangas-mujer-flashy-tallis6.jpg?v=1742220111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Vestidos<br>
+        <strong>Precio: </strong>
+            39960.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 59% poliéster, 32% algodón, 9% elastano.\n- Vestido largo color blanco marfil en rib con anudado en escote y aberturas en cintura.\n - Este maxi vestido y unas sandalias es todo lo que necesitas para tu outfit de fin de semana de sol.\n - Susana, la modelo usa talla XS y mide 167 cm.","6":1}'>- Material: 97% poliéster, 3% spandex.<br>- Vestido largo color blanco marfil de malla y sin mangas.<br>- mariana, la modelo usa talla XS y mide 170 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-elegantes</s:tag>
+    <s:tag>lateral-largo</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8235951587552</id>
+      <title>XS</title>
+      <s:price currency="COP">39960.00</s:price>
+      <s:sku>1111116038862</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8235951587552</id>
+      <title>S</title>
+      <s:price currency="COP">39960.00</s:price>
+      <s:sku>1111116038863</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8235951587552</id>
+      <title>M</title>
+      <s:price currency="COP">39960.00</s:price>
+      <s:sku>1111116038864</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8235951587552</id>
+      <title>L</title>
+      <s:price currency="COP">39960.00</s:price>
+      <s:sku>1111116038865</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8235951587552</id>
+      <title>XL</title>
+      <s:price currency="COP">39960.00</s:price>
+      <s:sku>1111116038866</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8235951587552</id>
+      <title>XXL</title>
+      <s:price currency="COP">39960.00</s:price>
+      <s:sku>1111116038867</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8845277004000</id>
+    <published>2025-05-30T15:10:52-05:00</published>
+    <updated>2025-05-30T15:10:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/vestido-largo-de-un-solo-hombro-con-cut-out-en-costado-prina-cafe"/>
+    <title>Vestido largo de un solo hombro con cut out en costado - PRINA.CAFE</title>
+    <s:type>Vestidos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/vestido-largo-de-un-solo-hombro-con-cut-out-en-costado-mujer-flashy-prina-cafe1.jpg?v=1748635841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Vestidos<br>
+        <strong>Precio: </strong>
+            109900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 59% poliéster, 32% algodón, 9% elastano.\n- Vestido largo color blanco marfil en rib con anudado en escote y aberturas en cintura.\n - Este maxi vestido y unas sandalias es todo lo que necesitas para tu outfit de fin de semana de sol.\n - Susana, la modelo usa talla XS y mide 167 cm.","6":1}'>- Material: 97% poliéster, 3% elastano.<br>- Vestido largo color café de un solo hombro con cut out en costado.<br>- Camila, la modelo usa talla XS y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-cut_out</s:tag>
+    <s:tag>lateral-elegantes</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-largo</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8845277004000</id>
+      <title>XS</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116042535</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8845277004000</id>
+      <title>S</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116042536</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8845277004000</id>
+      <title>M</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116042537</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8845277004000</id>
+      <title>L</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116042538</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8845277004000</id>
+      <title>XL</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116042539</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8845277004000</id>
+      <title>XXL</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116042540</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8833316684000</id>
+    <published>2025-05-29T18:02:03-05:00</published>
+    <updated>2025-05-29T18:02:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/vestido-largo-con-pieza-drapeada-en-frente-mulan"/>
+    <title>Vestido largo con pieza drapeada en frente - MULAN</title>
+    <s:type>Vestidos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/vestido-largo-con-pieza-drapeada-en-frente-mujer-flashy-mulan10_2d0b6608-f42c-474e-a691-0f5e3815441d.jpg?v=1749127836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Vestidos<br>
+        <strong>Precio: </strong>
+            129900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 59% poliéster, 32% algodón, 9% elastano.\n- Vestido largo color blanco marfil en rib con anudado en escote y aberturas en cintura.\n - Este maxi vestido y unas sandalias es todo lo que necesitas para tu outfit de fin de semana de sol.\n - Susana, la modelo usa talla XS y mide 167 cm.","6":1}' data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}'>- Material: 89% poliéster, 11% elastano.<br>- Vestido largo color dorado con pieza drapeada en frente.<br>- Camila, la modelo usa talla XS y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>color-dorado</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-elegantes</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-largo</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8833316684000</id>
+      <title>XS</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116042262</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8833316684000</id>
+      <title>S</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116042263</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8833316684000</id>
+      <title>M</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116042264</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8833316684000</id>
+      <title>L</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116042265</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8833316684000</id>
+      <title>XL</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116042266</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8833316684000</id>
+      <title>XXL</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116042267</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8740472684768</id>
+    <published>2024-12-09T10:46:04-05:00</published>
+    <updated>2024-12-09T10:46:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/vestido-largo-de-tiras-con-cut-out-en-frente-abril"/>
+    <title>Vestido largo de tiras con cut out en frente - ABRIL</title>
+    <s:type>Vestidos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/largo-de-tiras-con-cut-out-en-frente-mujer-flashy-abril6.jpg?v=1741790000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Vestidos<br>
+        <strong>Precio: </strong>
+            129900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 59% poliéster, 32% algodón, 9% elastano.\n- Vestido largo color blanco marfil en rib con anudado en escote y aberturas en cintura.\n - Este maxi vestido y unas sandalias es todo lo que necesitas para tu outfit de fin de semana de sol.\n - Susana, la modelo usa talla XS y mide 167 cm.","6":1}' data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}'>- Material: <span>69% poliéster, 29% rayon, 2% spandex.</span><br>- <span>Vestido largo color negro de tiras con cut out en frente.</span><br>- Manuela, la modelo usa talla XS y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>color-negro</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-cut_out</s:tag>
+    <s:tag>lateral-elegantes</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-largo</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8740472684768</id>
+      <title>XS</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116041429</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8740472684768</id>
+      <title>S</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116041430</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8740472684768</id>
+      <title>M</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116041431</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8740472684768</id>
+      <title>L</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116041432</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8740472684768</id>
+      <title>XL</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116041433</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8740472684768</id>
+      <title>XXL</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116041434</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8187044233440</id>
+    <published>2024-10-31T15:37:51-05:00</published>
+    <updated>2024-10-31T15:37:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/vestido-largo-de-malla-tejida-sin-mangas-y-con-cuello-halter-ranya"/>
+    <title>Vestido largo de malla tejida, sin mangas y con cuello halter - RANYA</title>
+    <s:type>Vestidos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/vestido-largo-de-malla-tejida-sin-mangas-y-con-cuello-halter-mujer-flashy-ranya1.jpg?v=1741796261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Vestidos<br>
+        <strong>Precio: </strong>
+            109900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 59% poliéster, 32% algodón, 9% elastano.\n- Vestido largo color blanco marfil en rib con anudado en escote y aberturas en cintura.\n - Este maxi vestido y unas sandalias es todo lo que necesitas para tu outfit de fin de semana de sol.\n - Susana, la modelo usa talla XS y mide 167 cm.","6":1}'>- Material: 97% poliéster, 3% spandex.<br>- Vestido largo color beige de malla tejida, sin mangas y con cuello halter.<br> - Camila, la modelo usa talla XS y mide 170 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-beige</s:tag>
+    <s:tag>lateral-elegantes</s:tag>
+    <s:tag>lateral-largo</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8187044233440</id>
+      <title>XS</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116038133</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8187044233440</id>
+      <title>S</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116038134</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8187044233440</id>
+      <title>M</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116038135</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8187044233440</id>
+      <title>L</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116038136</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8187044233440</id>
+      <title>XL</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116038137</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8187044233440</id>
+      <title>XXL</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116038138</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8609563082976</id>
+    <published>2024-08-16T14:56:56-05:00</published>
+    <updated>2024-08-16T14:56:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/vestido-largo-de-tiras-y-de-malla-heliane"/>
+    <title>Vestido largo de tiras y de malla - HELIANE</title>
+    <s:type>Vestidos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/vestido-largo-de-tiras-y-de-malla-mujer-flashy-heliane1.jpg?v=1741796450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Vestidos<br>
+        <strong>Precio: </strong>
+            109900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 100% poliéster.\n - Vestido corto color beige manga corta, con escote cuadrado y mangas abullonadas.\n - Este vestido te hará ver y sentir como una diva cuando te lo pongas!\n - Camila, la modelo usa talla XS y mide 170 cm."}'>- Material: <span>65% rayon, 35% lino.</span><br>- <span>Vestido largo color beige de tiras y de malla.</span><br>- Renata , la modelo usa talla XS y mide 160 cm.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-beige</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-largo</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8609563082976</id>
+      <title>XS</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116040011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8609563082976</id>
+      <title>S</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116040012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8609563082976</id>
+      <title>M</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116040013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8609563082976</id>
+      <title>L</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116040014</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8609563082976</id>
+      <title>XL</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116040015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8609563082976</id>
+      <title>XXL</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116040016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8510134649056</id>
+    <published>2024-07-19T12:09:40-05:00</published>
+    <updated>2024-07-19T12:09:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/vestido-largo-strapless-con-cargadera-en-diagonal-fatma"/>
+    <title>Vestido largo strapless con cargadera en diagonal - FATMA</title>
+    <s:type>Vestidos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/vestido-largo-strapless-con-cargadera-en-diagonal-mujer-flashy-fatma1.jpg?v=1741797089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Vestidos<br>
+        <strong>Precio: </strong>
+            109900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 2% elastano, 2% algodón.\n- Buso color blanco marfil manga larga en tela con textura de peluche con cuello redondo.\n- El buso perfecto para esos días fríos en los que quieres sentirte cómoda y abrigada pero a la vez quieres verte como una DIVA.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}'>- Material: <span>95% poliéster, 5% elastano.</span><br>- <span>Vestido largo strapless color beige con cargadera en diagonal.</span><br>- Mariana, la modelo usa talla XS y mide 168 cm.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-beige</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-largo</s:tag>
+    <s:tag>lateral-strapless</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8510134649056</id>
+      <title>XS</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116039748</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8510134649056</id>
+      <title>S</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116039749</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8510134649056</id>
+      <title>M</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116039750</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8510134649056</id>
+      <title>L</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116039751</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8510134649056</id>
+      <title>XL</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116039752</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8510134649056</id>
+      <title>XXL</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116039753</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8523424006368</id>
+    <published>2024-07-11T16:56:33-05:00</published>
+    <updated>2024-07-11T16:56:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/vestido-largo-de-un-solo-hombro-fiorina"/>
+    <title>Vestido largo de un solo hombro - FIORINA</title>
+    <s:type>Vestidos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/vestido-largo-de-un-solo-hombro-mujer-flashy-fiorina1.jpg?v=1741796907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Vestidos<br>
+        <strong>Precio: </strong>
+            109900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 59% poliéster, 32% algodón, 9% elastano.\n- Vestido largo color blanco marfil en rib con anudado en escote y aberturas en cintura.\n - Este maxi vestido y unas sandalias es todo lo que necesitas para tu outfit de fin de semana de sol.\n - Susana, la modelo usa talla XS y mide 167 cm.","6":1}' data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}'>- Material: <span>95% poliéster, 5% spándex.</span><br>- Vestido largo color rosado de un solo hombro.<br>- Mariana, la modelo usa talla XS y mide 170 cm.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-rosado</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-largo</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8523424006368</id>
+      <title>XS</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116039818</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8523424006368</id>
+      <title>S</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116039819</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8523424006368</id>
+      <title>M</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116039820</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8523424006368</id>
+      <title>L</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116039821</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8523424006368</id>
+      <title>XL</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116039822</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8523424006368</id>
+      <title>XXL</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116039823</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8474088276192</id>
+    <published>2024-06-23T17:18:36-05:00</published>
+    <updated>2024-06-23T17:18:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/vestido-largo-de-tiras-encaje-y-aberturas-en-costados-enya"/>
+    <title>Vestido largo de tiras, encaje y aberturas en costados - ENYA</title>
+    <s:type>Vestidos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/vestido-largo-de-tiras-encaje-y-aberturas-en-costados-mujer-flashy-enya1.jpg?v=1741796643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Vestidos<br>
+        <strong>Precio: </strong>
+            129900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 59% poliéster, 32% algodón, 9% elastano.\n- Vestido largo color blanco marfil en rib con anudado en escote y aberturas en cintura.\n - Este maxi vestido y unas sandalias es todo lo que necesitas para tu outfit de fin de semana de sol.\n - Susana, la modelo usa talla XS y mide 167 cm.","6":1}'>- Material: 94% poliéster, 6% elastano.<br>- <span>Vestido largo color blanco marfil de tiras, encaje y aberturas en costados.</span><br>- Camila, la modelo usa talla XS y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-cut_out</s:tag>
+    <s:tag>lateral-elegantes</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-largo</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8474088276192</id>
+      <title>XS</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116039694</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8474088276192</id>
+      <title>S</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116039695</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8474088276192</id>
+      <title>M</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116039696</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8474088276192</id>
+      <title>L</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116039697</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8474088276192</id>
+      <title>XL</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116039698</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8474088276192</id>
+      <title>XXL</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116039699</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8237412810976</id>
+    <published>2024-03-12T17:12:24-05:00</published>
+    <updated>2024-03-12T17:12:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/vestido-largo-tejido-con-argolla-en-escote-y-aberturas-en-costados-triss"/>
+    <title>Vestido largo tejido, con aro y cut outs en costados - TRISS</title>
+    <s:type>Vestidos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/vestido-largo-tejido-con-argolla-en-escote-y-aberturas-en-costados-mujer-flashy-triss1.jpg?v=1741797162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Vestidos<br>
+        <strong>Precio: </strong>
+            129900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 59% poliéster, 32% algodón, 9% elastano.\n- Vestido largo color blanco marfil en rib con anudado en escote y aberturas en cintura.\n - Este maxi vestido y unas sandalias es todo lo que necesitas para tu outfit de fin de semana de sol.\n - Susana, la modelo usa talla XS y mide 167 cm.","6":1}' data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}'>- Material: <span>69% poliéster, 29% rayon, 2% spandex.</span><br>- Vestido largo tejido color beige, con aro y cut out en costados.<br>- Mariana, la modelo usa talla XS y mide 165 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>color-beige</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-cut_out</s:tag>
+    <s:tag>lateral-elegantes</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-largo</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8237412810976</id>
+      <title>XS</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116038868</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8237412810976</id>
+      <title>S</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116038869</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8237412810976</id>
+      <title>M</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116038870</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8237412810976</id>
+      <title>L</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116038871</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8237412810976</id>
+      <title>XL</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116038872</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8237412810976</id>
+      <title>XXL</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116038873</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+</feed>

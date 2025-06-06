@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.flashy.com.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.flashy.com.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.flashy.com.co/collections/mom-jeans.atom"/>
+  <title>Flashy</title>
+  <updated>2025-01-21T12:18:50-05:00</updated>
+  <author>
+    <name>Flashy</name>
+  </author>
+  <entry>
+    <id>https://www.flashy.com.co/products/8710549012704</id>
+    <published>2025-01-21T12:18:50-05:00</published>
+    <updated>2025-01-21T12:18:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/mom-jean-tiro-alto-mael"/>
+    <title>Mom jean tiro alto - MAEL</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/mom-jean-tiro-alto-mujer-flashy-mael1.jpg?v=1741788825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            159900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n- Largo: 66 cm.\n- Jean recto con silueta mom y lavado azul claro.\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\n- Camila, la modelo usa talla 4 y mide 170 cm.","6":1}'>- Material: 100% algodón.<br>- <span>Mom jean color azul de tiro alto.</span><br>- Manuela, la modelo usa talla 4 y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-mom</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710549012704</id>
+      <title>2</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116041119</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710549012704</id>
+      <title>4</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116041120</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710549012704</id>
+      <title>6</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116041121</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710549012704</id>
+      <title>8</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116041122</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710549012704</id>
+      <title>10</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116041123</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710549012704</id>
+      <title>12</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116041124</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710549012704</id>
+      <title>14</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116041125</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710549012704</id>
+      <title>16</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116041126</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8652545491168</id>
+    <published>2024-12-13T18:25:13-05:00</published>
+    <updated>2024-12-13T18:25:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/mom-jean-con-cortes-y-de-tiro-alto-delfina"/>
+    <title>Mom jean con cortes y de tiro alto - DELFINA</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/mom-jean-con-cortes-y-de-tiro-alto-mujer-flashy-delfina1.jpg?v=1741879825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            169900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n- Largo: 66 cm.\n- Jean recto con silueta mom y lavado azul claro.\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\n- Camila, la modelo usa talla 4 y mide 170 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: 100% algodón.<br>- <span>Mom jean color azul con cortes y de tiro alto.</span><br>- Manuela, la modelo usa talla 2 y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-mom</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8652545491168</id>
+      <title>2</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040291</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8652545491168</id>
+      <title>4</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040292</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8652545491168</id>
+      <title>6</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040293</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8652545491168</id>
+      <title>8</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040294</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8652545491168</id>
+      <title>10</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040295</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8652545491168</id>
+      <title>12</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040296</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8652545491168</id>
+      <title>14</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040297</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8652545491168</id>
+      <title>16</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040298</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/7682503672032</id>
+    <published>2024-10-01T17:06:00-05:00</published>
+    <updated>2024-10-01T17:06:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/mom-jean-cameron"/>
+    <title>Mom jean - CAMERON</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/mom-jean-mujer-flashy-cameron10.jpg?v=1749128162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            149900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n- Largo: 66 cm.\n- Jean recto con silueta mom y lavado azul claro.\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\n- Camila, la modelo usa talla 4 y mide 170 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: 100% algodón.<br>- Jean recto con silueta mom y lavado azul.<br>- Camila, la modelo usa talla 4 y mide 170 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>aplica-flashy123</s:tag>
+    <s:tag>color-azul</s:tag>
+    <s:tag>feed-agegroup-adult</s:tag>
+    <s:tag>feed-gender-female</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-mom</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7682503672032</id>
+      <title>2</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116034094</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7682503672032</id>
+      <title>4</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116032773</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7682503672032</id>
+      <title>6</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116032774</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7682503672032</id>
+      <title>8</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116032775</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7682503672032</id>
+      <title>10</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116032776</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7682503672032</id>
+      <title>12</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116032777</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7682503672032</id>
+      <title>14</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116032778</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7682503672032</id>
+      <title>16</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116032779</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8287509315808</id>
+    <published>2024-06-27T11:21:06-05:00</published>
+    <updated>2024-06-27T11:21:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/mom-jean-de-tiro-alto-varinia"/>
+    <title>Mom recto de tiro alto - VARINIA</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/mom-jean-de-tiro-alto-mujer-flashy-varinia1.jpg?v=1742218058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            144900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<ul>
+<li>
+<span data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n- Largo: 66 cm.\n- Jean recto con silueta mom y lavado azul claro.\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\n- Camila, la modelo usa talla 4 y mide 170 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>Material: 100% algodón.<br>- Jean recto </span><span data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n- Largo: 66 cm.\n- Jean recto con silueta mom y lavado azul claro.\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\n- Camila, la modelo usa talla 4 y mide 170 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>color azul de tiro alto.<br>- Isabela, la modelo usa talla 6 y mide 174 cm. </span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>fit_rating-amplia</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-mom</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8287509315808</id>
+      <title>2</title>
+      <s:price currency="COP">144900.00</s:price>
+      <s:sku>1111116039177</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8287509315808</id>
+      <title>4</title>
+      <s:price currency="COP">144900.00</s:price>
+      <s:sku>1111116039178</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8287509315808</id>
+      <title>6</title>
+      <s:price currency="COP">144900.00</s:price>
+      <s:sku>1111116039179</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8287509315808</id>
+      <title>8</title>
+      <s:price currency="COP">144900.00</s:price>
+      <s:sku>1111116039180</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8287509315808</id>
+      <title>10</title>
+      <s:price currency="COP">144900.00</s:price>
+      <s:sku>1111116039181</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8287509315808</id>
+      <title>12</title>
+      <s:price currency="COP">144900.00</s:price>
+      <s:sku>1111116039182</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8287509315808</id>
+      <title>14</title>
+      <s:price currency="COP">144900.00</s:price>
+      <s:sku>1111116039183</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8287509315808</id>
+      <title>16</title>
+      <s:price currency="COP">144900.00</s:price>
+      <s:sku>1111116039184</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8298807853280</id>
+    <published>2024-04-19T09:21:24-05:00</published>
+    <updated>2024-04-19T09:21:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/mom-jean-de-tiro-alto-con-rotos-pax"/>
+    <title>Mom jean de tiro alto con rotos - PAX</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/mom-jean-de-tiro-alto-con-rotos-mujer-flashy-pax1.jpg?v=1741902503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            63960.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n- Largo: 66 cm.\n- Jean recto con silueta mom y lavado azul claro.\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\n- Camila, la modelo usa talla 4 y mide 170 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: 100% algodón.<br>- Mom jean color azul de tiro alto con rotos.<br>- Manuela, la modelo usa talla 4 y mide 167 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>aplica-flashy123</s:tag>
+    <s:tag>color-azul</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-mom</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-rotos</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298807853280</id>
+      <title>2</title>
+      <s:price currency="COP">63960.00</s:price>
+      <s:sku>1111116038432</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298807853280</id>
+      <title>4</title>
+      <s:price currency="COP">63960.00</s:price>
+      <s:sku>1111116038433</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298807853280</id>
+      <title>6</title>
+      <s:price currency="COP">63960.00</s:price>
+      <s:sku>1111116038434</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298807853280</id>
+      <title>8</title>
+      <s:price currency="COP">63960.00</s:price>
+      <s:sku>1111116038435</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298807853280</id>
+      <title>10</title>
+      <s:price currency="COP">63960.00</s:price>
+      <s:sku>1111116038436</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298807853280</id>
+      <title>12</title>
+      <s:price currency="COP">63960.00</s:price>
+      <s:sku>1111116038437</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298807853280</id>
+      <title>14</title>
+      <s:price currency="COP">63960.00</s:price>
+      <s:sku>1111116038438</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8298807853280</id>
+      <title>16</title>
+      <s:price currency="COP">63960.00</s:price>
+      <s:sku>1111116038439</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/7750934823136</id>
+    <published>2022-07-31T12:19:41-05:00</published>
+    <updated>2022-07-31T12:19:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/mom-jean-tiro-alto-chelsea"/>
+    <title>Mom jean tiro alto - CHELSEA</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/mom-jean-tiro-alto-mujer-flashy-chelsea4.jpg?v=1742217943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            64950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n- Largo: 66 cm.\n- Jean recto con silueta mom y lavado azul claro.\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\n- Camila, la modelo usa talla 4 y mide 170 cm.","6":1}'>- Material: 100% algodón.<br>- Jean recto con silueta mom y lavado azul.<br>- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.<br>- Juanita, la modelo usa talla 4 y mide 160 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>aplica-flashy123</s:tag>
+    <s:tag>color-azul</s:tag>
+    <s:tag>feed-agegroup-adult</s:tag>
+    <s:tag>feed-gender-female</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-mom</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>size_filter_10</s:tag>
+    <s:tag>size_filter_12</s:tag>
+    <s:tag>size_filter_14</s:tag>
+    <s:tag>size_filter_16</s:tag>
+    <s:tag>size_filter_6</s:tag>
+    <s:tag>size_filter_8</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7750934823136</id>
+      <title>2</title>
+      <s:price currency="COP">64950.00</s:price>
+      <s:sku>1111116034091</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7750934823136</id>
+      <title>4</title>
+      <s:price currency="COP">64950.00</s:price>
+      <s:sku>1111116033049</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7750934823136</id>
+      <title>6</title>
+      <s:price currency="COP">64950.00</s:price>
+      <s:sku>1111116033051</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7750934823136</id>
+      <title>8</title>
+      <s:price currency="COP">64950.00</s:price>
+      <s:sku>1111116033052</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7750934823136</id>
+      <title>10</title>
+      <s:price currency="COP">64950.00</s:price>
+      <s:sku>1111116033053</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7750934823136</id>
+      <title>12</title>
+      <s:price currency="COP">64950.00</s:price>
+      <s:sku>1111116033054</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7750934823136</id>
+      <title>14</title>
+      <s:price currency="COP">64950.00</s:price>
+      <s:sku>1111116033055</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/7750934823136</id>
+      <title>16</title>
+      <s:price currency="COP">64950.00</s:price>
+      <s:sku>1111116033056</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>
