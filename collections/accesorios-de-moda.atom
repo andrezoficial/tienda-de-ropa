@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.flashy.com.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.flashy.com.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.flashy.com.co/collections/accesorios-de-moda.atom"/>
+  <title>Flashy</title>
+  <updated>2025-02-12T15:19:39-05:00</updated>
+  <author>
+    <name>Flashy</name>
+  </author>
+  <entry>
+    <id>https://www.flashy.com.co/products/8812862963936</id>
+    <published>2025-02-12T15:19:39-05:00</published>
+    <updated>2025-02-12T15:19:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/gorra-con-bordado-new-york-city-club-fista"/>
+    <title>Gorra con bordado &quot;New York City Club&quot; - FISTA</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/gorra-con-bordado-new-york-city-club-mujer-flashy-fista1.jpg?v=1741803266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            60000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>- Material: 100% algodón.</span><span></span><br><span>- Gorra color blanco con bordado "New York City Club".</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-rosado</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-tenniscore</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8812862963936</id>
+      <title>Default Title</title>
+      <s:price currency="COP">60000.00</s:price>
+      <s:sku>1111116042051</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8190977376480</id>
+    <published>2023-12-07T13:42:57-05:00</published>
+    <updated>2023-12-07T13:42:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/gorra-con-bordado-de-palmeras-robina"/>
+    <title>Gorra con bordado de palmeras - ROBINA</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/gorra-con-bordado-de-palmeras-mujer-flashy-robina1.jpg?v=1741988285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            64900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">- Material: 100% algodón.</span><span data-mce-fragment="1"></span><br data-mce-fragment="1"><span data-mce-fragment="1">- Gorra color azul con bordado de palmeras.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-tenniscore</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8190977376480</id>
+      <title>Default Title</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116038276</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

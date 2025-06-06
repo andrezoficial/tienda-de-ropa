@@ -1,0 +1,1124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.flashy.com.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.flashy.com.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.flashy.com.co/collections/buzos-tejidos.atom"/>
+  <title>Flashy</title>
+  <updated>2025-04-04T12:21:33-05:00</updated>
+  <author>
+    <name>Flashy</name>
+  </author>
+  <entry>
+    <id>https://www.flashy.com.co/products/8714132553952</id>
+    <published>2025-04-04T12:21:33-05:00</published>
+    <updated>2025-04-04T12:21:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/buzo-tejido-con-escote-en-v-y-con-punos-y-escote-en-contraste-maryn"/>
+    <title>Buzo tejido con escote en v y con puños y escote en contraste - MARYN</title>
+    <s:type>Busos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/buzo-tejido-con-escote-en-v-y-con-punos-y-escote-en-contraste-mujer-flashy-maryn1_089a6c3a-c052-4ff1-aaa4-af9749528c0b.jpg?v=1743794350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Busos<br>
+        <strong>Precio: </strong>
+            159900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 63% poliéster, 32% algodón, 5% elastano.\n - Buso corto color gris claro con estampado de texto \"Maui\", cuello redondo, manga larga y resorte.\n - Nada más perfecto que este buso para esos días fríos en los que no sabes qué ponerte pero quieres verte muy cool.\n - Camila, la modelo usa talla XS y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 100% acrílico. <br>- <span>Buzo tejido color blanco marfil con escote en v y con puños y escote en contraste.</span><br>- Camila, la modelo usa talla XS y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-amplia</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-oficina</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714132553952</id>
+      <title>XS</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116041185</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714132553952</id>
+      <title>S</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116041186</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714132553952</id>
+      <title>M</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116041187</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714132553952</id>
+      <title>L</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116041188</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714132553952</id>
+      <title>XL</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116041189</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714132553952</id>
+      <title>XXL</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116041190</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8081061544160</id>
+    <published>2025-03-28T12:01:01-05:00</published>
+    <updated>2025-03-28T12:01:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/buzo-tejido-manga-larga-con-trenzado-margaux"/>
+    <title>Buzo tejido manga larga con trenzado - MARGAUX</title>
+    <s:type>Busos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/buzo-tejido-manga-larga-con-trenzado-mujer-flashy-margaux5.jpg?v=1741967566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Busos<br>
+        <strong>Precio: </strong>
+            79900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-sheets-value='{"1":2,"2":"- Material: 63% poliéster, 32% algodón, 5% elastano.\n - Buso corto color gris claro con estampado de texto \"Maui\", cuello redondo, manga larga y resorte.\n - Nada más perfecto que este buso para esos días fríos en los que no sabes qué ponerte pero quieres verte muy cool.\n - Camila, la modelo usa talla XS y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 100% acrílico. <br> - Buzo tejido manga larga con trenzado color marfil.<br> - Camila, la modelo usa talla XS y mide 170 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>landing-básicos</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-basicos</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>ocasion-oficina</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8081061544160</id>
+      <title>XS</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116035614</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8081061544160</id>
+      <title>S</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116035615</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8081061544160</id>
+      <title>M</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116035616</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8081061544160</id>
+      <title>L</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116035617</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8081061544160</id>
+      <title>XL</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116035618</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8081061544160</id>
+      <title>XXL</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116035619</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8714375200992</id>
+    <published>2025-02-21T09:03:51-05:00</published>
+    <updated>2025-02-21T09:03:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/buzo-tejido-tipo-polo-con-cuello-y-punos-en-contraste-malina"/>
+    <title>Buzo tejido tipo polo con cuello y puños en contraste - MALINA</title>
+    <s:type>Busos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/buzo-tejido-tipo-polo-con-cuello-y-punos-en-contraste-mujer-flashy-malina1.jpg?v=1741803086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Busos<br>
+        <strong>Precio: </strong>
+            159900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 63% poliéster, 32% algodón, 5% elastano.\n - Buso corto color gris claro con estampado de texto \"Maui\", cuello redondo, manga larga y resorte.\n - Nada más perfecto que este buso para esos días fríos en los que no sabes qué ponerte pero quieres verte muy cool.\n - Camila, la modelo usa talla XS y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 100% acrílico.<br>- <span>Buzo tejido </span><span>color azul </span><span>tipo polo con cuello y puños en contraste.</span><br>- Maria José, la modelo usa talla XS y mide 166 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714375200992</id>
+      <title>XS</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116041191</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714375200992</id>
+      <title>S</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116041192</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714375200992</id>
+      <title>M</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116041193</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714375200992</id>
+      <title>L</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116041194</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714375200992</id>
+      <title>XL</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116041195</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714375200992</id>
+      <title>XXL</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116041196</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8095878709472</id>
+    <published>2025-01-14T15:16:36-05:00</published>
+    <updated>2025-01-14T15:16:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/buzo-tejido-manga-larga-con-cuello-redondo-orana"/>
+    <title>Buzo tejido manga larga con cuello redondo - ORANA</title>
+    <s:type>Busos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/buzo-tejido-manga-larga-con-cuello-redondo-mujer-flashy-orana5.jpg?v=1741967516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Busos<br>
+        <strong>Precio: </strong>
+            79900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-sheets-value='{"1":2,"2":"- Material: 63% poliéster, 32% algodón, 5% elastano.\n - Buso corto color gris claro con estampado de texto \"Maui\", cuello redondo, manga larga y resorte.\n - Nada más perfecto que este buso para esos días fríos en los que no sabes qué ponerte pero quieres verte muy cool.\n - Camila, la modelo usa talla XS y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 100% acrílico. <br> - Buzo tejido manga larga color rosado con cuello redondo.<br> - Camila, la modelo usa talla S y mide 176 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>color-rosado</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-básicos</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>ocasion-oficina</s:tag>
+    <s:tag>Update</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8095878709472</id>
+      <title>XS</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116037153</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8095878709472</id>
+      <title>S</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116037154</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8095878709472</id>
+      <title>M</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116037155</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8095878709472</id>
+      <title>L</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116037156</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8095878709472</id>
+      <title>XL</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116037157</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8270145519840</id>
+    <published>2025-01-14T14:44:11-05:00</published>
+    <updated>2025-01-14T14:44:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/buzo-crop-tejido-desagujado-con-anudado-en-espalda-shelly"/>
+    <title>Buzo crop tejido desagujado con anudado en espalda - SHELLY</title>
+    <s:type>Busos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/buzo-crop-tejido-desagujado-con-anudado-en-espalda-mujer-flashy-shelly1.jpg?v=1741887449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Busos<br>
+        <strong>Precio: </strong>
+            169900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 63% poliéster, 32% algodón, 5% elastano.\n - Buso corto color gris claro con estampado de texto \"Maui\", cuello redondo, manga larga y resorte.\n - Nada más perfecto que este buso para esos días fríos en los que no sabes qué ponerte pero quieres verte muy cool.\n - Camila, la modelo usa talla XS y mide 170 cm."}'>- Material: 100% acrílico. <br>- Buzo crop tejido desagujado color negro con anudado en espalda.<br>- Camila, la modelo usa talla XS y mide 170 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-negro</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-oficina</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8270145519840</id>
+      <title>XS</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116038488</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8270145519840</id>
+      <title>S</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116038489</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8270145519840</id>
+      <title>M</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116038490</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8270145519840</id>
+      <title>L</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116038491</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8558613922016</id>
+    <published>2024-07-02T09:52:06-05:00</published>
+    <updated>2024-07-02T09:52:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/buzo-tejido-tipo-cardigan-desagujado-tomasa"/>
+    <title>Buzo tejido tipo cardigan desagujado - TOMASA</title>
+    <s:type>Buzos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/buzo-tejido-tipo-cardigan-desagujado-mujer-flashy-tomasa1.jpg?v=1742220686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Buzos<br>
+        <strong>Precio: </strong>
+            59900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 63% poliéster, 32% algodón, 5% elastano.\n - Buso corto color gris claro con estampado de texto \"Maui\", cuello redondo, manga larga y resorte.\n - Nada más perfecto que este buso para esos días fríos en los que no sabes qué ponerte pero quieres verte muy cool.\n - Camila, la modelo usa talla XS y mide 170 cm."}'>- Material: <span>100% acrílico.</span><br>- <span>Buzo tejido color negro tipo cardigan desagujado.</span><br>- Camila, la modelo usa talla XS y mide 170 cm.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-negro</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-amplia</s:tag>
+    <s:tag>material-tejido</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8558613922016</id>
+      <title>XS</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116038848</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8558613922016</id>
+      <title>S</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116038849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8558613922016</id>
+      <title>M</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116038850</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8558613922016</id>
+      <title>L</title>
+      <s:price currency="COP">59900.00</s:price>
+      <s:sku>1111116038851</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8559354249440</id>
+    <published>2024-07-02T08:21:22-05:00</published>
+    <updated>2024-07-02T08:21:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/buzo-tejido-tipo-cardigan-desagujado-taisha"/>
+    <title>Buzo tejido tipo cardigan desagujado - TAISHA</title>
+    <s:type>Buzos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/buzo-tejido-tipo-cardigan-desagujado-mujer-flashy-taisha1.jpg?v=1741885729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Buzos<br>
+        <strong>Precio: </strong>
+            169900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 63% poliéster, 32% algodón, 5% elastano.\n - Buso corto color gris claro con estampado de texto \"Maui\", cuello redondo, manga larga y resorte.\n - Nada más perfecto que este buso para esos días fríos en los que no sabes qué ponerte pero quieres verte muy cool.\n - Camila, la modelo usa talla XS y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: <span>100% acrílico.</span><br>- <span>Buzo tejido color beige tipo cardigan desagujado.</span><br>- Camila, la modelo usa talla XS y mide 170 cm.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-amplia</s:tag>
+    <s:tag>material-tejido</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8559354249440</id>
+      <title>XS</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116038844</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8559354249440</id>
+      <title>S</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116038845</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8559354249440</id>
+      <title>M</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116038846</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8559354249440</id>
+      <title>L</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116038847</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8265541845216</id>
+    <published>2024-05-09T11:09:05-05:00</published>
+    <updated>2024-05-09T11:09:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/buzo-tejido-tipo-polo-alejandrina"/>
+    <title>Buzo tejido tipo polo - ALEJANDRINA</title>
+    <s:type>Busos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/buzo-tejido-tipo-polo-alejandrina-7.jpg?v=1716311608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Busos<br>
+        <strong>Precio: </strong>
+            169900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 63% poliéster, 32% algodón, 5% elastano.\n - Buso corto color gris claro con estampado de texto \"Maui\", cuello redondo, manga larga y resorte.\n - Nada más perfecto que este buso para esos días fríos en los que no sabes qué ponerte pero quieres verte muy cool.\n - Camila, la modelo usa talla XS y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 100% acrílico.<br>- Buzo tejido color café tipo polo.<br>- Mariana, la modelo usa talla XS y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8265541845216</id>
+      <title>XS</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116039059</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8265541845216</id>
+      <title>S</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116039060</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8265541845216</id>
+      <title>M</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116039061</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8265541845216</id>
+      <title>L</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116039062</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8261126619360</id>
+    <published>2024-03-15T12:41:47-05:00</published>
+    <updated>2024-03-15T12:41:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/buzo-crop-tejido-shamar"/>
+    <title>Buzo crop tejido - SHAMAR</title>
+    <s:type>Busos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/buzo-crop-tejido-mujer-flashy-shamar1.jpg?v=1741789141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Busos<br>
+        <strong>Precio: </strong>
+            159900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 63% poliéster, 32% algodón, 5% elastano.\n - Buso corto color gris claro con estampado de texto \"Maui\", cuello redondo, manga larga y resorte.\n - Nada más perfecto que este buso para esos días fríos en los que no sabes qué ponerte pero quieres verte muy cool.\n - Camila, la modelo usa talla XS y mide 170 cm."}'>- Material: 100% acrílico. <br>- Buzo crop color blanco marfil tejido.<br>- Renata, la modelo usa talla XS y mide 160 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-oficina</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8261126619360</id>
+      <title>XS</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116038492</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8261126619360</id>
+      <title>S</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116038493</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8261126619360</id>
+      <title>M</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116038494</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8261126619360</id>
+      <title>L</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116038495</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8253524738272</id>
+    <published>2024-02-23T11:38:33-05:00</published>
+    <updated>2024-02-23T11:38:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/buzo-crop-tejido-sheryl"/>
+    <title>Buzo crop tejido - SHERYL</title>
+    <s:type>Busos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/buzo-crop-tejido-sheryl-1.jpg?v=1709048581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Busos<br>
+        <strong>Precio: </strong>
+            159900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 63% poliéster, 32% algodón, 5% elastano.\n - Buso corto color gris claro con estampado de texto \"Maui\", cuello redondo, manga larga y resorte.\n - Nada más perfecto que este buso para esos días fríos en los que no sabes qué ponerte pero quieres verte muy cool.\n - Camila, la modelo usa talla XS y mide 170 cm."}'>- Material: 100% acrílico. <br>- Buzo crop color rosado tejido.<br>- Mariana, la modelo usa talla XS y mide 165 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-rosado</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-oficina</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8253524738272</id>
+      <title>XS</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116038496</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8253524738272</id>
+      <title>S</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116038497</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8253524738272</id>
+      <title>M</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116038498</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8253524738272</id>
+      <title>L</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116038499</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8145215717600</id>
+    <published>2023-11-09T14:27:15-05:00</published>
+    <updated>2023-11-09T14:27:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/buzo-tejido-desagujado-paoletta"/>
+    <title>Buzo tejido desagujado - PAOLETTA</title>
+    <s:type>Busos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/buzo-tejido-desagujado-mujer-flashy-paoletta1.jpg?v=1741899169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Busos<br>
+        <strong>Precio: </strong>
+            69900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 63% poliéster, 32% algodón, 5% elastano.\n - Buso corto color gris claro con estampado de texto \"Maui\", cuello redondo, manga larga y resorte.\n - Nada más perfecto que este buso para esos días fríos en los que no sabes qué ponerte pero quieres verte muy cool.\n - Camila, la modelo usa talla XS y mide 170 cm."}'>- Material: 100% acrílico. <br> - Buzo tejido color lila desagujado.<br> - Martina, la modelo usa talla S y mide 170 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-lila</s:tag>
+    <s:tag>fit_rating-amplia</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>material-poliéster</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-oficina</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8145215717600</id>
+      <title>XS</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116037617</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8145215717600</id>
+      <title>S</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116037618</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8145215717600</id>
+      <title>M</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116037619</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8145215717600</id>
+      <title>L</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116037620</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8105131344096</id>
+    <published>2023-10-04T18:10:11-05:00</published>
+    <updated>2023-10-04T18:10:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/buzo-crop-tejido-desagujado-olinda"/>
+    <title>Buzo crop tejido desagujado - OLINDA</title>
+    <s:type>Busos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/buzo-crop-tejido-desagujado-mujer-flashy-olinda1.jpg?v=1741899036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Busos<br>
+        <strong>Precio: </strong>
+            169900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 63% poliéster, 32% algodón, 5% elastano.\n - Buso corto color gris claro con estampado de texto \"Maui\", cuello redondo, manga larga y resorte.\n - Nada más perfecto que este buso para esos días fríos en los que no sabes qué ponerte pero quieres verte muy cool.\n - Camila, la modelo usa talla XS y mide 170 cm."}'>- Material: 100% acrílico. <br> - Buzo color cafe crop tejido desagujado.<br> - Camila, la modelo usa talla XS y mide 170 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>material-poliéster</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-oficina</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8105131344096</id>
+      <title>XS</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116037044</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8105131344096</id>
+      <title>S</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116037045</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8105131344096</id>
+      <title>M</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116037046</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8105131344096</id>
+      <title>L</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116037047</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8105129509088</id>
+    <published>2023-09-28T18:27:47-05:00</published>
+    <updated>2023-09-28T18:27:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/buzo-crop-tejido-desagujado-octavia"/>
+    <title>Buzo crop tejido desagujado - OCTAVIA</title>
+    <s:type>Busos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/buzo-crop-tejido-desagujado-mujer-flashy-octavia1.jpg?v=1741899095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Busos<br>
+        <strong>Precio: </strong>
+            169900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 63% poliéster, 32% algodón, 5% elastano.\n - Buso corto color gris claro con estampado de texto \"Maui\", cuello redondo, manga larga y resorte.\n - Nada más perfecto que este buso para esos días fríos en los que no sabes qué ponerte pero quieres verte muy cool.\n - Camila, la modelo usa talla XS y mide 170 cm."}'>- Material: 100% acrílico. <br> - Buzo color blanco marfil crop tejido desagujado.<br> - Camila, la modelo usa talla XS y mide 170 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>material-poliéster</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-oficina</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8105129509088</id>
+      <title>XS</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116037036</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8105129509088</id>
+      <title>S</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116037037</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8105129509088</id>
+      <title>M</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116037038</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8105129509088</id>
+      <title>L</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116037039</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8076108398816</id>
+    <published>2023-07-26T10:38:27-05:00</published>
+    <updated>2023-07-26T10:38:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/buzo-tejido-manga-larga-con-escote-off-shoulder-margaruite"/>
+    <title>Buzo tejido manga larga con escote off shoulder - MARGARUITE</title>
+    <s:type>Busos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/buzo-tejido-manga-larga-con-escote-off-shoulder-mujer-flashy-margaruite6.jpg?v=1742220515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Busos<br>
+        <strong>Precio: </strong>
+            169900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-sheets-value='{"1":2,"2":"- Material: 63% poliéster, 32% algodón, 5% elastano.\n - Buso corto color gris claro con estampado de texto \"Maui\", cuello redondo, manga larga y resorte.\n - Nada más perfecto que este buso para esos días fríos en los que no sabes qué ponerte pero quieres verte muy cool.\n - Camila, la modelo usa talla XS y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 100% acrílico. <br> - Buzo tejido manga larga color beige con escote off shoulder.<br> - Camila, la modelo usa talla XS y mide 170 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-beige</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>ocasion-oficina</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8076108398816</id>
+      <title>XS</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116035620</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8076108398816</id>
+      <title>S</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116035621</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8076108398816</id>
+      <title>M</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116035622</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8076108398816</id>
+      <title>L</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116035623</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8076108398816</id>
+      <title>XL</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116035624</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8076108398816</id>
+      <title>XXL</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116035625</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8044260163808</id>
+    <published>2023-05-11T18:26:50-05:00</published>
+    <updated>2023-05-11T18:26:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/buzo-tejido-de-animal-print-lucianna"/>
+    <title>Buzo tejido de animal print - LUCIANNA</title>
+    <s:type>Busos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/buzo-tejido-de-animal-print-mujer-flashy-lucianna1.jpg?v=1741967115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Busos<br>
+        <strong>Precio: </strong>
+            89900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-sheets-value='{"1":2,"2":"- Material: 63% poliéster, 32% algodón, 5% elastano.\n - Buso corto color gris claro con estampado de texto \"Maui\", cuello redondo, manga larga y resorte.\n - Nada más perfecto que este buso para esos días fríos en los que no sabes qué ponerte pero quieres verte muy cool.\n - Camila, la modelo usa talla XS y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 100% acrílico. <br> - Buzo tejido color beige de animal print.<br> - Camila, la modelo usa talla XS y mide 170 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>color-beige</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8044260163808</id>
+      <title>XS</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116035516</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8044260163808</id>
+      <title>S</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116035517</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8044260163808</id>
+      <title>M</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116035518</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8044260163808</id>
+      <title>L</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116035519</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8044260163808</id>
+      <title>XL</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116035520</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8041226076384</id>
+    <published>2023-05-08T16:35:40-05:00</published>
+    <updated>2023-05-08T16:35:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/buzo-tejido-de-animal-print-lunetta"/>
+    <title>Buzo tejido de animal print - LUNETTA</title>
+    <s:type>Busos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/buzo-tejido-de-animal-print-mujer-flashy-lunetta6.jpg?v=1741967374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Busos<br>
+        <strong>Precio: </strong>
+            89900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-sheets-value='{"1":2,"2":"- Material: 63% poliéster, 32% algodón, 5% elastano.\n - Buso corto color gris claro con estampado de texto \"Maui\", cuello redondo, manga larga y resorte.\n - Nada más perfecto que este buso para esos días fríos en los que no sabes qué ponerte pero quieres verte muy cool.\n - Camila, la modelo usa talla XS y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 100% acrílico. <br> - Buzo tejido color terracota de animal print.<br> - Camila, la modelo usa talla S y mide 176 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>color-terracota</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>material-poliéster</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8041226076384</id>
+      <title>XS</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116035521</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8041226076384</id>
+      <title>S</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116035522</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8041226076384</id>
+      <title>M</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116035523</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8041226076384</id>
+      <title>L</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116035524</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8041226076384</id>
+      <title>XL</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116035525</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+</feed>
