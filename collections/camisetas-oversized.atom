@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.flashy.com.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.flashy.com.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.flashy.com.co/collections/camisetas-oversized.atom"/>
+  <title>Flashy</title>
+  <updated>2025-05-07T10:24:50-05:00</updated>
+  <author>
+    <name>Flashy</name>
+  </author>
+  <entry>
+    <id>https://www.flashy.com.co/products/8780963414240</id>
+    <published>2025-05-07T10:24:50-05:00</published>
+    <updated>2025-05-07T10:24:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/camiseta-oversized-estampada-the-vacation-club-faith"/>
+    <title>Camiseta oversized estampada &quot;The Vacation Club&quot; - FAITH</title>
+    <s:type>Camisetas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/camiseta-oversized-estampada-the-vacation-club-faith-1_9cf24bc3-492b-4782-9d0c-c2fccb75406e.jpg?v=1736800869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Camisetas<br>
+        <strong>Precio: </strong>
+            64900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n- Camiseta estampada con cuello redondo y manga corta.\n- Para esos días en los que quieres vestirte sport pero a la vez verte muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: 100% algodón.<br>- Camiseta oversized color blanco marfil estampada "The Vacation Club".<br>- Camila, la modelo usa talla XS y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-amplia</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-cuello_redondo</s:tag>
+    <s:tag>lateral-graficas</s:tag>
+    <s:tag>lateral-graficas_frases</s:tag>
+    <s:tag>lateral-manga_corta</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8780963414240</id>
+      <title>XS</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116041794</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8780963414240</id>
+      <title>S</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116041795</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8780963414240</id>
+      <title>M</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116041796</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8780963414240</id>
+      <title>L</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116041797</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8780963414240</id>
+      <title>XL</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116041798</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8780963414240</id>
+      <title>XXL</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116041799</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8837448761568</id>
+    <published>2025-03-28T11:57:30-05:00</published>
+    <updated>2025-03-28T11:57:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/camiseta-oversized-estampada-festa-do-mar-nivia"/>
+    <title>Camiseta oversized estampada &quot;Festa do mar&quot; - NIVIA</title>
+    <s:type>Camisetas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/camiseta-oversized-estampada-festa-do-mar-mujer-flashy-nivia18.jpg?v=1749126449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Camisetas<br>
+        <strong>Precio: </strong>
+            49000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n- Camiseta estampada con cuello redondo y manga corta.\n- Para esos días en los que quieres vestirte sport pero a la vez verte muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}'>- Material: 100% algodón.<br>- Camiseta oversized color blanco marfil estampada "Festa do mar".<br>- Camila, la modelo usa talla XS y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-amplia</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-cuello_redondo</s:tag>
+    <s:tag>lateral-graficas</s:tag>
+    <s:tag>lateral-graficas_frases</s:tag>
+    <s:tag>lateral-manga_corta</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837448761568</id>
+      <title>XS</title>
+      <s:price currency="COP">49000.00</s:price>
+      <s:sku>1111116042360</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837448761568</id>
+      <title>S</title>
+      <s:price currency="COP">49000.00</s:price>
+      <s:sku>1111116042361</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837448761568</id>
+      <title>M</title>
+      <s:price currency="COP">49000.00</s:price>
+      <s:sku>1111116042362</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837448761568</id>
+      <title>L</title>
+      <s:price currency="COP">49000.00</s:price>
+      <s:sku>1111116042363</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837448761568</id>
+      <title>XL</title>
+      <s:price currency="COP">49000.00</s:price>
+      <s:sku>1111116042364</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837448761568</id>
+      <title>XXL</title>
+      <s:price currency="COP">49000.00</s:price>
+      <s:sku>1111116042365</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8390184173792</id>
+    <published>2025-02-28T18:33:10-05:00</published>
+    <updated>2025-02-28T18:33:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/camiseta-oversized-estampada-wild-dalissa"/>
+    <title>Camiseta oversized estampada &quot;Wild&quot; - DALISSA</title>
+    <s:type>Camisetas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/camiseta-oversized-estampada-wild-mujer-flashy-dalissa6.jpg?v=1741901561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Camisetas<br>
+        <strong>Precio: </strong>
+            64900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n- Camiseta estampada con cuello redondo y manga corta.\n- Para esos días en los que quieres vestirte sport pero a la vez verte muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: 100% algodón.<br>- Camiseta oversized color negro estampada "Wild".<br>- Camila, la modelo usa talla XS y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-negro</s:tag>
+    <s:tag>fit_rating-amplia</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-cuello_redondo</s:tag>
+    <s:tag>lateral-graficas</s:tag>
+    <s:tag>lateral-graficas_frases</s:tag>
+    <s:tag>lateral-manga_corta</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8390184173792</id>
+      <title>XS</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116039552</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8390184173792</id>
+      <title>S</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116039553</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8390184173792</id>
+      <title>M</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116039554</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8390184173792</id>
+      <title>L</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116039555</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8390184173792</id>
+      <title>XL</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116039556</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8390184173792</id>
+      <title>XXL</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116039557</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8740466589920</id>
+    <published>2025-02-17T17:28:48-05:00</published>
+    <updated>2025-02-17T17:28:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/camiseta-oversized-estampada-spicy-life-alma"/>
+    <title>Camiseta oversized estampada &quot;Spicy Life&quot; - ALMA</title>
+    <s:type>Camisetas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/camiseta-oversized-estampada-spicy-life-mujer-flashy-alma1.jpg?v=1741809988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Camisetas<br>
+        <strong>Precio: </strong>
+            64900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n- Camiseta estampada con cuello redondo y manga corta.\n- Para esos días en los que quieres vestirte sport pero a la vez verte muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: 100% algodón.<br>- <span>Camiseta oversized color blanco marfil estampada "Spicy Life".</span><br>- Camila, la modelo usa talla XS y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-amplia</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-cuello_redondo</s:tag>
+    <s:tag>lateral-graficas</s:tag>
+    <s:tag>lateral-graficas_frases</s:tag>
+    <s:tag>lateral-manga_corta</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8740466589920</id>
+      <title>XS</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116041417</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8740466589920</id>
+      <title>S</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116041418</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8740466589920</id>
+      <title>M</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116041419</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8740466589920</id>
+      <title>L</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116041420</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8740466589920</id>
+      <title>XL</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116041421</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8740466589920</id>
+      <title>XXL</title>
+      <s:price currency="COP">64900.00</s:price>
+      <s:sku>1111116041422</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8747126751456</id>
+    <published>2024-12-23T16:33:19-05:00</published>
+    <updated>2024-12-23T16:33:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/camiseta-oversized-estampada-martini-almudena"/>
+    <title>Camiseta oversized estampada &quot;Martini&quot; - ALMUDENA</title>
+    <s:type>Camisetas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/camiseta-oversized-estampada-martini-mujer-flashy-almudena7.jpg?v=1741819247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Camisetas<br>
+        <strong>Precio: </strong>
+            69900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n- Camiseta estampada con cuello redondo y manga corta.\n- Para esos días en los que quieres vestirte sport pero a la vez verte muy cool.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: 100% algodón.<br>- <span>Camiseta oversized estampada color blanco marfil "Martini".</span><br>- Camila, la modelo usa talla XS y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-amplia</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-cuello_redondo</s:tag>
+    <s:tag>lateral-graficas</s:tag>
+    <s:tag>lateral-graficas_frases</s:tag>
+    <s:tag>lateral-manga_corta</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8747126751456</id>
+      <title>XS</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116041668</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8747126751456</id>
+      <title>S</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116041669</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8747126751456</id>
+      <title>M</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116041670</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8747126751456</id>
+      <title>L</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116041671</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8747126751456</id>
+      <title>XL</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116041672</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8747126751456</id>
+      <title>XXL</title>
+      <s:price currency="COP">69900.00</s:price>
+      <s:sku>1111116041673</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,2156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.flashy.com.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.flashy.com.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.flashy.com.co/collections/faldas.atom"/>
+  <title>Flashy</title>
+  <updated>2025-05-26T20:01:14-05:00</updated>
+  <author>
+    <name>Flashy</name>
+  </author>
+  <entry>
+    <id>https://www.flashy.com.co/products/8710545866976</id>
+    <published>2025-05-26T20:01:14-05:00</published>
+    <updated>2025-05-26T20:01:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-corta-englobada-meredith"/>
+    <title>Falda corta englobada - MEREDITH</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-corta-englobada-mujer-flashy-meredith1.jpg?v=1741791463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            89900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% spándex.\n- Blusa crop color negro, manga larga con escote cuadrado y hombreras.\n- La prenda ideal para salir el viernes de fiesta con tus amigas.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: <span>70% algodón, 30% poliéster.</span><br>- <span>Falda corta color negro englobada.</span><br>- Manuela, la modelo usa talla XS y mide 168 cm.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-negro</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-corto</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710545866976</id>
+      <title>XS</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710545866976</id>
+      <title>S</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710545866976</id>
+      <title>M</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710545866976</id>
+      <title>L</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041158</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710545866976</id>
+      <title>XL</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041159</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710545866976</id>
+      <title>XXL</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041160</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8244625670368</id>
+    <published>2025-05-26T12:11:29-05:00</published>
+    <updated>2025-05-26T12:11:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-corta-tipo-efecto-cuero-con-abertura-de-cierre-en-frente-sora"/>
+    <title>Falda corta tipo efecto cuero con abertura de cierre en frente - SORA</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-corta-tipo-efecto-cuero-con-abertura-de-cierre-en-frente-sora-1.jpg?v=1707315493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            39960.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}'>- Material: 100% poliéster.<br>- Falda corta color negro tipo efecto cuero con abertura de cierre en frente.<br>- Juanita, la modelo usa talla XS y mide 155 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-negro</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-cuero</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8244625670368</id>
+      <title>XS</title>
+      <s:price currency="COP">39960.00</s:price>
+      <s:sku>1111116038608</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8244625670368</id>
+      <title>S</title>
+      <s:price currency="COP">39960.00</s:price>
+      <s:sku>1111116038609</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8244625670368</id>
+      <title>M</title>
+      <s:price currency="COP">39960.00</s:price>
+      <s:sku>1111116038610</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8244625670368</id>
+      <title>L</title>
+      <s:price currency="COP">39960.00</s:price>
+      <s:sku>1111116038611</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8244625670368</id>
+      <title>XL</title>
+      <s:price currency="COP">39960.00</s:price>
+      <s:sku>1111116038612</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8244625670368</id>
+      <title>XXL</title>
+      <s:price currency="COP">39960.00</s:price>
+      <s:sku>1111116038613</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8858386727136</id>
+    <published>2025-04-30T10:36:57-05:00</published>
+    <updated>2025-04-30T10:36:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-larga-en-blonda-con-cortes-y-forro-almendra"/>
+    <title>Falda larga en blonda con cortes y forro - ALMENDRA</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-larga-en-blonda-con-cortes-y-forro-mujer-flashy-almendra1.jpg?v=1746832922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            99900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}'>- Material: 100% algodón.<br>- Falda larga en blonda color blanco marfil con cortes y forro.<br>- Camila , la modelo usa talla XS y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8858386727136</id>
+      <title>XS</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116042651</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8858386727136</id>
+      <title>S</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116042652</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8858386727136</id>
+      <title>M</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116042653</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8858386727136</id>
+      <title>L</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116042654</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8858386727136</id>
+      <title>XL</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116042655</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8858386727136</id>
+      <title>XXL</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116042656</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8720007233760</id>
+    <published>2025-04-24T16:03:50-05:00</published>
+    <updated>2025-04-24T16:03:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-corta-con-tablas-y-tipo-cuero-alexia"/>
+    <title>Falda corta con tablas y tipo cuero - ALEXIA</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-corta-con-tablas-y-tipo-cuero-mujer-flashy-alexia1.jpg?v=1741792987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            94900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 97% poliéster, 3% elastano.<br>- <span>Falda corta color vino con tablas y tipo cuero.</span><br>- Camila, la modelo usa talla XS y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-vino</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8720007233760</id>
+      <title>XS</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041265</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8720007233760</id>
+      <title>S</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041266</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8720007233760</id>
+      <title>M</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041267</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8720007233760</id>
+      <title>L</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041268</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8720007233760</id>
+      <title>XL</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041269</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8720007233760</id>
+      <title>XXL</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041270</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8854072590560</id>
+    <published>2025-04-04T16:40:20-05:00</published>
+    <updated>2025-04-04T16:40:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-short-cruzada-con-estampado-de-palmeras-ester"/>
+    <title>Falda short cruzada con estampado de palmeras - ESTER</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-short-cruzada-con-estampado-de-palmeras-mujer-flashy-ester6.jpg?v=1743804559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            79900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}'>- Material: 84% poliéster, 16% spandex.<br>- Falda short cruzada color beige con estampado de palmeras.<br>- Manuela, la modelo usa talla 4 y mide 166 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-beige</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>falda-short</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-vacaciones</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8854072590560</id>
+      <title>XS</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116042587</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8854072590560</id>
+      <title>S</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116042588</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8854072590560</id>
+      <title>M</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116042589</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8854072590560</id>
+      <title>L</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116042590</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8854072590560</id>
+      <title>XL</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116042591</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8854072590560</id>
+      <title>XXL</title>
+      <s:price currency="COP">79900.00</s:price>
+      <s:sku>1111116042592</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8094622712032</id>
+    <published>2025-02-26T09:27:52-05:00</published>
+    <updated>2025-02-26T09:27:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-corta-con-recogido-en-costado-y-boleros-oceana"/>
+    <title>Falda corta con recogido en costado y boleros - OCEANA</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-corta-con-recogido-en-costado-y-boleros-mujer-flashy-oceana1.jpg?v=1741987057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            41900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}'>- Material: 96% poliéster, 4% elastano.<br>- Falda corta con recogido en costado y boleros color café.<br>- Juanita, la modelo usa talla 4 y mide 155 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8094622712032</id>
+      <title>4</title>
+      <s:price currency="COP">41900.00</s:price>
+      <s:sku>1111116037136</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8094622712032</id>
+      <title>6</title>
+      <s:price currency="COP">41900.00</s:price>
+      <s:sku>1111116037137</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8094622712032</id>
+      <title>8</title>
+      <s:price currency="COP">41900.00</s:price>
+      <s:sku>1111116037138</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8094622712032</id>
+      <title>10</title>
+      <s:price currency="COP">41900.00</s:price>
+      <s:sku>1111116037139</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8094622712032</id>
+      <title>12</title>
+      <s:price currency="COP">41900.00</s:price>
+      <s:sku>1111116037140</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8094622712032</id>
+      <title>14</title>
+      <s:price currency="COP">41900.00</s:price>
+      <s:sku>1111116037141</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8138794565856</id>
+    <published>2025-02-19T14:45:10-05:00</published>
+    <updated>2025-02-19T14:45:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-corta-tipo-cuero-con-botones-pollyana"/>
+    <title>Falda corta tipo cuero con botones - POLLYANA</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-corta-tipo-cuero-con-botones-mujer-flashy-pollyana1.jpg?v=1741987173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            99900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}'>- Material: 94% poliéster, 6% elastano.<br>- Falda corta color negro tipo cuero con botones.<br>- Renata, la modelo usa talla XS y mide 160 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>aplica-flashy123</s:tag>
+    <s:tag>color-negro</s:tag>
+    <s:tag>feed-agegroup-adult</s:tag>
+    <s:tag>feed-gender-female</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-cuero</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8138794565856</id>
+      <title>XS</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116037773</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8138794565856</id>
+      <title>S</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116037774</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8138794565856</id>
+      <title>M</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116037775</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8138794565856</id>
+      <title>L</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116037776</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8138794565856</id>
+      <title>XL</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116037777</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8138794565856</id>
+      <title>XXL</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116037778</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8757253636320</id>
+    <published>2025-01-29T12:31:28-05:00</published>
+    <updated>2025-01-29T12:31:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-corta-con-anudado-en-cintura-y-tela-tipo-crochet-benedetta"/>
+    <title>Falda corta con anudado en cintura y tela tipo crochet - BENEDETTA</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-corta-con-anudado-en-cintura-y-tela-tipo-crochet-mujer-flashy-benedetta1.jpg?v=1741793125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            74900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 100% algodón.<br>- <span>Falda corta color beige con anudado en cintura y tela tipo crochet.</span><br>-  Manuela, la modelo usa talla 2 y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-beige</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-corto</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757253636320</id>
+      <title>XS</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116041704</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757253636320</id>
+      <title>S</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116041705</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757253636320</id>
+      <title>M</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116041706</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757253636320</id>
+      <title>L</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116041707</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757253636320</id>
+      <title>XL</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116041708</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757253636320</id>
+      <title>XXL</title>
+      <s:price currency="COP">74900.00</s:price>
+      <s:sku>1111116041709</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8714388275424</id>
+    <published>2025-01-27T09:50:53-05:00</published>
+    <updated>2025-01-27T09:50:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-corta-de-denim-y-animal-print-mirabelle"/>
+    <title>Falda mom tiro alto de denim y animal print- MIRABELLE</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-corta-de-denim-y-animal-print-mujer-flashy-mirabelle5.jpg?v=1741823443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            119900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":{"1":2,"2":10797812},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n- Short de tiro alto de silueta mom con guarda polvos, fit relajado y lavado azul medio.\n- ¿Quién dijo paseo? Solo necesitas estos shorts!!\n- Camila, la modelo usa talla 4 y mide 170 cm.","6":1}'>- Material: 100% algodón.<br>- <span>Falda mom color café tiro alto de denim y animal print.</span><br>- Manuela , la modelo usa talla XS y mide 168 cm</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-cafe</s:tag>
+    <s:tag>color-denim</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>estampado-animal_print</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-mom</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-sexy</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714388275424</id>
+      <title>2</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041197</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714388275424</id>
+      <title>4</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041198</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714388275424</id>
+      <title>6</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041199</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714388275424</id>
+      <title>8</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041200</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714388275424</id>
+      <title>10</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041201</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714388275424</id>
+      <title>12</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041202</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714388275424</id>
+      <title>14</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041203</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8714388275424</id>
+      <title>16</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116041204</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8757258748128</id>
+    <published>2025-01-24T08:43:36-05:00</published>
+    <updated>2025-01-24T08:43:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-larga-con-abertura-en-costado-y-tela-tipo-crochet-beatrice"/>
+    <title>Falda larga con abertura en costado y tela tipo crochet - BEATRICE</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-larga-con-abertura-en-costado-y-tela-tipo-crochet-mujer-flashy-beatrice1.jpg?v=1741873143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            89900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}'>- Material: 100% algodón.<br>- <span>Falda larga color negro con abertura en costado y tela tipo crochet.</span><br>- Manuela, la modelo usa talla XS y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-negro</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-manga_larga</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-vacaciones</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757258748128</id>
+      <title>XS</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041728</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757258748128</id>
+      <title>S</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041729</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757258748128</id>
+      <title>M</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041730</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757258748128</id>
+      <title>L</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041731</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757258748128</id>
+      <title>XL</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041732</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757258748128</id>
+      <title>XXL</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041733</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8244516978912</id>
+    <published>2025-01-14T15:03:52-05:00</published>
+    <updated>2025-01-14T15:03:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-corta-tipo-cargo-sol"/>
+    <title>Falda corta tipo cargo - SOL</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-corta-tipo-cargo-mujer-flashy-sol1.jpg?v=1741902406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            94900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}'>- Material: 98% algodón, 2% spandex.<br>- Falda corta color blanco marfil tipo cargo.<br>- Juanita, la modelo usa talla 4 y mide 155 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-colores_neutros</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8244516978912</id>
+      <title>4</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116038628</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8244516978912</id>
+      <title>6</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116038629</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8244516978912</id>
+      <title>8</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116038630</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8244516978912</id>
+      <title>10</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116038631</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8244516978912</id>
+      <title>12</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116038632</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8244516978912</id>
+      <title>14</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116038633</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8244992213216</id>
+    <published>2025-01-14T14:59:12-05:00</published>
+    <updated>2025-01-14T14:59:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-short-tipo-cuero-con-cruce-triana"/>
+    <title>Falda short tipo cuero con cruce - TRIANA</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-short-tipo-cuero-con-cruce-mujer-flashy-triana1.jpg?v=1741988203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            109900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 100% poliéster.<br>- Falda short color blanco marfil tipo cuero con cruce.<br>- Juanita, la modelo usa talla XS y mide 155 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>falda-short</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-colores_neutros</s:tag>
+    <s:tag>lateral-cuero</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-metalizado</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8244992213216</id>
+      <title>XS</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116038768</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8244992213216</id>
+      <title>S</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116038769</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8244992213216</id>
+      <title>M</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116038770</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8244992213216</id>
+      <title>L</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116038771</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8244992213216</id>
+      <title>XL</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116038772</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8244992213216</id>
+      <title>XXL</title>
+      <s:price currency="COP">109900.00</s:price>
+      <s:sku>1111116038773</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8084600455392</id>
+    <published>2025-01-14T14:43:26-05:00</published>
+    <updated>2025-01-14T14:43:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-corta-tipo-cargo-nilda"/>
+    <title>Falda corta tipo cargo - NILDA</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-corta-tipo-cargo-mujer-flashy-nilda1.jpg?v=1741902321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            94900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}'>- Material: 98% algodón, 2% spandex.<br>- Falda corta tipo cargo color verde seco.<br>- Juanita, la modelo usa talla 4 y mide 155 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-verde</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8084600455392</id>
+      <title>4</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116036677</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8084600455392</id>
+      <title>6</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116036678</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8084600455392</id>
+      <title>8</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116036679</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8084600455392</id>
+      <title>10</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116036680</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8084600455392</id>
+      <title>12</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116036681</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8084600455392</id>
+      <title>14</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116036682</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8690247205088</id>
+    <published>2025-01-14T12:24:11-05:00</published>
+    <updated>2025-01-14T12:24:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-corta-de-jean-con-abertura-en-costado-melinda"/>
+    <title>Falda corta de jean con abertura en costado - MELINDA</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-corta-de-jean-con-abertura-en-costado-mujer-flashy-melinda1.jpg?v=1741883123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            129900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 100% algodón.<br>- <span>Falda corta color negro de jean con abertura en costado.</span><br>-  Manuela, la modelo usa talla 2 y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-denim</s:tag>
+    <s:tag>color-negro</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-corto</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690247205088</id>
+      <title>2</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116040863</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690247205088</id>
+      <title>4</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116040864</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690247205088</id>
+      <title>6</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116040865</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690247205088</id>
+      <title>8</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116040866</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690247205088</id>
+      <title>10</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116040867</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690247205088</id>
+      <title>12</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116040868</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690247205088</id>
+      <title>14</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116040869</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690247205088</id>
+      <title>16</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116040870</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8710530269408</id>
+    <published>2025-01-14T11:38:59-05:00</published>
+    <updated>2025-01-14T11:38:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-short-cruzada-de-corduroy-marisela"/>
+    <title>Falda short cruzada de corduroy - MARISELA</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-short-cruzada-de-corduroy-mujer-flashy-marisela1.jpg?v=1741812513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            94900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}'>- Material: <span>68% poliéster, 32% </span><span>algodón.</span><br>- <span>Falda short cruzada color blanco marfil de corduroy.</span><br>- Manuela, la modelo usa talla 2 y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>falda-short</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710530269408</id>
+      <title>2</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041059</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710530269408</id>
+      <title>4</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041060</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710530269408</id>
+      <title>6</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041061</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710530269408</id>
+      <title>8</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041062</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710530269408</id>
+      <title>10</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041063</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710530269408</id>
+      <title>12</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041064</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710530269408</id>
+      <title>14</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041065</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710530269408</id>
+      <title>16</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041066</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8730614137056</id>
+    <published>2025-01-13T12:09:59-05:00</published>
+    <updated>2025-01-13T12:09:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-short-cruzada-de-corduroy-ava"/>
+    <title>Falda short cruzada de corduroy - AVA</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-short-cruzada-de-corduroy-mujer-flashy-ava1.jpg?v=1741878712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            94900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}'>- Material: 84% poliéster, 16% spandex.<br>- <span>Falda short cruzada color lila de corduroy.</span><br>- Manuela, la modelo usa talla 4 y mide 166 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-lila</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>falda-short</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-vacaciones</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8730614137056</id>
+      <title>2</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041371</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8730614137056</id>
+      <title>4</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041372</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8730614137056</id>
+      <title>6</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041373</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8730614137056</id>
+      <title>8</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041374</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8730614137056</id>
+      <title>10</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041375</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8730614137056</id>
+      <title>12</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041376</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8730614137056</id>
+      <title>14</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041377</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8730614137056</id>
+      <title>16</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116041378</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8746092953824</id>
+    <published>2024-12-26T11:07:07-05:00</published>
+    <updated>2024-12-26T11:07:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-larga-con-abertura-en-costado-y-con-efecto-brillo-azalea"/>
+    <title>Falda larga con abertura en costado y con efecto brillo - AZALEA</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-larga-con-abertura-en-costado-y-con-efecto-brillo-mujer-flashy-azalea1.jpg?v=1741878156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            89900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 100% algodón.<br>- <span>Falda larga color plateado con abertura en costado y con efecto brillo.</span><br>- Maria José , la modelo usa talla XS y mide 166 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-plateado</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8746092953824</id>
+      <title>XS</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041644</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8746092953824</id>
+      <title>S</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041645</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8746092953824</id>
+      <title>M</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041646</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8746092953824</id>
+      <title>L</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041647</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8746092953824</id>
+      <title>XL</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041648</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8746092953824</id>
+      <title>XXL</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041649</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8547044622560</id>
+    <published>2024-12-24T12:47:40-05:00</published>
+    <updated>2024-12-24T12:47:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-short-cruzada-gwenda"/>
+    <title>Falda short cruzada - GWENDA</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-short-cruzada-mujer-flashy-gwenda1.jpg?v=1741807800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            89900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: <span>95% poliéster, 5% spandex. </span><br>- <span>Falda short cruzada color negro. </span><br>- Isabela, la modelo usa talla 6 y mide 172 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-negro</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>falda-short</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8547044622560</id>
+      <title>4</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116039854</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8547044622560</id>
+      <title>6</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116039855</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8547044622560</id>
+      <title>8</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116039856</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8547044622560</id>
+      <title>10</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116039857</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8547044622560</id>
+      <title>12</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116039858</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8547044622560</id>
+      <title>14</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116039859</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8747123409120</id>
+    <published>2024-12-23T19:16:41-05:00</published>
+    <updated>2024-12-23T19:16:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-corta-englobada-alba"/>
+    <title>Falda corta englobada - ALBA</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-corta-englobada-mujer-flashy-alba1.jpg?v=1741818038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            89900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 4% spándex.\n- Blusa crop color negro, manga larga con escote cuadrado y hombreras.\n- La prenda ideal para salir el viernes de fiesta con tus amigas.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}'>- Material: <span>70% algodón, 30% poliéster.</span><br>- <span>Falda corta color blanco marfil englobada.</span><br>- Camila , la modelo usa talla XS y mide 170 cm.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-corto</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8747123409120</id>
+      <title>XS</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041662</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8747123409120</id>
+      <title>S</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041663</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8747123409120</id>
+      <title>M</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041664</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8747123409120</id>
+      <title>L</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041665</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8747123409120</id>
+      <title>XL</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041666</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8747123409120</id>
+      <title>XXL</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116041667</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8684689621216</id>
+    <published>2024-11-25T17:16:10-05:00</published>
+    <updated>2024-11-25T17:16:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-corta-con-pliegues-margot"/>
+    <title>Falda corta con pliegues - MARGOT</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-corta-con-pliegues-mujer-flashy-margot1.jpg?v=1741986811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            89900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}'>- Material: <span> 100% </span><span>algodón.</span><br>- <span>Falda corta color negro con pliegues.</span><br>- Camila, la modelo usa talla XS y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-tenniscore</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8684689621216</id>
+      <title>XS</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116040748</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8684689621216</id>
+      <title>S</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116040749</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8684689621216</id>
+      <title>M</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116040750</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8684689621216</id>
+      <title>L</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116040751</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8684689621216</id>
+      <title>XL</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116040752</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8684689621216</id>
+      <title>XXL</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116040753</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8652514197728</id>
+    <published>2024-11-16T17:07:45-05:00</published>
+    <updated>2024-11-16T17:07:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-short-cruzada-de-jean-dariela"/>
+    <title>Falda short cruzada de jean - DARIELA</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-short-cruzada-de-jean-mujer-flashy-dariela1.jpg?v=1741794215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            139900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 84% poliéster, 16% spandex.<br>- <span>Falda short cruzada color azul de jean.</span><br>-Manuela, la modelo usa talla 2 y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>falda-short</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8652514197728</id>
+      <title>2</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116040275</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8652514197728</id>
+      <title>4</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116040276</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8652514197728</id>
+      <title>6</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116040277</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8652514197728</id>
+      <title>8</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116040278</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8652514197728</id>
+      <title>10</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116040279</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8652514197728</id>
+      <title>12</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116040280</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8652514197728</id>
+      <title>14</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116040281</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8652514197728</id>
+      <title>16</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116040282</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8694710567136</id>
+    <published>2024-11-12T13:39:25-05:00</published>
+    <updated>2024-11-12T13:39:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-corta-con-pliegues-y-anudado-en-contraste-maurice"/>
+    <title>Falda corta con pliegues y anudado en contraste - MAURICE</title>
+    <s:type>Active</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-corta-con-pliegues-y-anudado-en-contraste-mujer-flashy-maurice1.jpg?v=1741894438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Active<br>
+        <strong>Precio: </strong>
+            99900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 94% poliéster, 6% elastano.<br>- <span>Falda corta color blanco marfil con pliegues y anudado en contraste.</span><br>- Manuela, la modelo usa talla XS y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-corto</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8694710567136</id>
+      <title>XS</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040883</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8694710567136</id>
+      <title>S</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040884</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8694710567136</id>
+      <title>M</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040885</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8694710567136</id>
+      <title>L</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040886</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8694710567136</id>
+      <title>XL</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040887</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8694710567136</id>
+      <title>XXL</title>
+      <s:price currency="COP">99900.00</s:price>
+      <s:sku>1111116040888</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8701780525280</id>
+    <published>2024-10-21T10:07:37-05:00</published>
+    <updated>2024-10-21T10:07:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-corta-tipo-cargo-makayla"/>
+    <title>Falda corta tipo cargo - MAKAYLA</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-corta-tipo-cargo-mujer-flashy-makayla1.jpg?v=1741883619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            94900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 98% algodón, 2% spandex.<br>- <span>Falda corta tipo cargo color beige seco.</span><br>- Manuela , la modelo usa talla 4 y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-beige</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8701780525280</id>
+      <title>4</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116040975</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8701780525280</id>
+      <title>6</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116040976</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8701780525280</id>
+      <title>8</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116040977</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8701780525280</id>
+      <title>10</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116040978</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8701780525280</id>
+      <title>12</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116040979</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8701780525280</id>
+      <title>14</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116040980</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8651062182112</id>
+    <published>2024-09-25T11:11:15-05:00</published>
+    <updated>2024-09-25T11:11:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-short-cruzada-de-corduroy-kaitlin"/>
+    <title>Falda short cruzada de corduroy - KAITLIN</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-short-cruzada-de-corduroy-mujer-flashy-kaitlin5.jpg?v=1741876079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            94900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: <span>85% poliéster, 12% nylon, 3% elastano.</span><br>- <span>Falda short cruzada color rosado de corduroy.</span><br>- Camila, la modelo usa talla 6 y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-rosado</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>falda-short</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8651062182112</id>
+      <title>2</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116040267</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8651062182112</id>
+      <title>4</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116040268</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8651062182112</id>
+      <title>6</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116040269</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8651062182112</id>
+      <title>8</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116040270</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8651062182112</id>
+      <title>10</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116040271</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8651062182112</id>
+      <title>12</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116040272</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8651062182112</id>
+      <title>14</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116040273</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8651062182112</id>
+      <title>16</title>
+      <s:price currency="COP">94900.00</s:price>
+      <s:sku>1111116040274</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8608829472992</id>
+    <published>2024-08-22T07:26:18-05:00</published>
+    <updated>2024-08-22T07:26:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/falda-corta-con-pliegues-graciella"/>
+    <title>Falda corta con pliegues - GRACIELLA</title>
+    <s:type>Faldas</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/falda-corta-con-pliegues-mujer-flashy-graciella1.jpg?v=1741803665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Faldas<br>
+        <strong>Precio: </strong>
+            89900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}' data-sheets-value='{"1":2,"2":"- Material: 94% poliéster, 6% elastano.\n- Maxi falda color negro en tela tejida con anudados en costados.\n- ¡La falda más cool del momento! Perfecta para ponertela con unos tenis.\n- Camila, la modelo usa talla S y mide 170 cm."}'>- Material: 65% poliéster, 35% algodón.<br>- <span>Falda corta con pliegues color azul.</span><br>- Camila, la modelo usa talla XS y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-tenniscore</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:tag>ocasion-rumba</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8608829472992</id>
+      <title>XS</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116039967</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8608829472992</id>
+      <title>S</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116039968</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8608829472992</id>
+      <title>M</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116039969</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8608829472992</id>
+      <title>L</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116039970</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8608829472992</id>
+      <title>XL</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116039971</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8608829472992</id>
+      <title>XXL</title>
+      <s:price currency="COP">89900.00</s:price>
+      <s:sku>1111116039972</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+</feed>

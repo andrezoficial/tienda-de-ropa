@@ -1,0 +1,1757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.flashy.com.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.flashy.com.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.flashy.com.co/collections/jeans-wide-leg-anchos.atom"/>
+  <title>Flashy</title>
+  <updated>2025-06-05T17:58:14-05:00</updated>
+  <author>
+    <name>Flashy</name>
+  </author>
+  <entry>
+    <id>https://www.flashy.com.co/products/8869737791712</id>
+    <published>2025-06-05T17:58:14-05:00</published>
+    <updated>2025-06-05T17:58:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/jean-wide-leg-de-tiro-medio-xenia"/>
+    <title>Jean wide leg tiro medio - XENIA</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/jean-wide-leg-de-tiro-medio-mujer-flashy-xenia1.jpg?v=1749142933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            169900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n- Largo: 66 cm.\n- Jean recto con silueta mom y lavado azul claro.\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\n- Camila, la modelo usa talla 4 y mide 170 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: 100% algodón.<br>- Jean wide leg color gris de tiro alto.<br>- Maria José , la modelo usa talla 4 y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-negro</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-mom</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8869737791712</id>
+      <title>2</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042751</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8869737791712</id>
+      <title>4</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042752</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8869737791712</id>
+      <title>6</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042753</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8869737791712</id>
+      <title>8</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042754</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8869737791712</id>
+      <title>10</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042755</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8869737791712</id>
+      <title>12</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042756</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8869737791712</id>
+      <title>14</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042757</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8869737791712</id>
+      <title>16</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042758</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8837432803552</id>
+    <published>2025-06-05T17:46:14-05:00</published>
+    <updated>2025-06-05T17:46:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/jean-semi-wide-leg-tiro-alto-con-cinta-para-anudar-en-cintura-zulema"/>
+    <title>Jean Semi wide leg tiro alto con cinta para anudar en cintura - ZULEMA</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            169900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":{"1":2,"2":10797812},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n - Jean ancho bota campana con silueta wide leg, tiro alto y lavado azul claro.\n - Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\n - Camila, la modelo usa talla 4 y mide 170 cm."}'>- Material: 100% algodón.<br>- JJean Semi wide leg tiro alto color azul con cinta para anudar en cintura.<br>- Maria Jose, la modelo usa talla 2 y mide 166 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>color-denim</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-bota_ancha</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>lateral-wide_leg</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837432803552</id>
+      <title>2</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042338</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837432803552</id>
+      <title>4</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042339</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837432803552</id>
+      <title>6</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042340</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837432803552</id>
+      <title>8</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042341</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837432803552</id>
+      <title>10</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042342</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837432803552</id>
+      <title>12</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042343</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837432803552</id>
+      <title>14</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042344</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837432803552</id>
+      <title>16</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042345</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8835235840224</id>
+    <published>2025-05-14T14:14:57-05:00</published>
+    <updated>2025-05-14T14:14:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/jean-semi-wide-leg-tiro-medio-yveline"/>
+    <title>Jean Semi wide leg tiro medio - YVELINE</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/jean-semi-wide-leg-tiro-medio-mujer-flashy-yveline1.jpg?v=1747250067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            169900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":{"1":2,"2":10797812},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n - Jean ancho bota campana con silueta wide leg, tiro alto y lavado azul claro.\n - Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\n - Camila, la modelo usa talla 4 y mide 170 cm."}'>- Material: 100% algodón.<br>- Jean Semi wide leg tiro medio color azul.<br>- Maria José, la modelo usa talla 4 y mide 166 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>color-denim</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-bota_ancha</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-tiro_medio</s:tag>
+    <s:tag>lateral-wide_leg</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8835235840224</id>
+      <title>2</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042322</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8835235840224</id>
+      <title>4</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042323</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8835235840224</id>
+      <title>6</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042324</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8835235840224</id>
+      <title>8</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042325</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8835235840224</id>
+      <title>10</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042326</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8835235840224</id>
+      <title>12</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042327</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8835235840224</id>
+      <title>14</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042328</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8835235840224</id>
+      <title>16</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042329</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8837438832864</id>
+    <published>2025-05-13T12:50:30-05:00</published>
+    <updated>2025-05-13T12:50:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/jean-wide-leg-tiro-medio-xena"/>
+    <title>Jean wide leg tiro medio - XENA</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/jean-wide-leg-tiro-medio-mujer-flashy-xena11.jpg?v=1747687322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            159900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n - Jean ancho bota campana con silueta wide leg, tiro alto y lavado azul claro.\n - Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\n - Camila, la modelo usa talla 4 y mide 170 cm."}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":{"1":2,"2":10797812},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}'>- Material: 100% algodón.<br>- Jean wide leg tiro medio color blanco marfil.<br>- Maria José, la modelo usa talla 4 y mide 166cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-blanco</s:tag>
+    <s:tag>color-denim</s:tag>
+    <s:tag>color-marfil</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-bota_ancha</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>lateral-wide_leg</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837438832864</id>
+      <title>2</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116042346</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837438832864</id>
+      <title>4</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116042347</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837438832864</id>
+      <title>6</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116042348</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837438832864</id>
+      <title>8</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116042349</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837438832864</id>
+      <title>10</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116042350</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837438832864</id>
+      <title>12</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116042351</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837438832864</id>
+      <title>14</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116042352</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8837438832864</id>
+      <title>16</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116042353</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8835236823264</id>
+    <published>2025-05-12T15:15:43-05:00</published>
+    <updated>2025-05-12T15:15:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/jean-wide-leg-tiro-alto-zazie"/>
+    <title>Jean wide leg tiro alto - ZAZIE</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/jean-wide-leg-tiro-alto-mujer-flashy-zazie.7.jpg?v=1748183992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            169900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n - Jean ancho bota campana con silueta wide leg, tiro alto y lavado azul claro.\n - Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\n - Camila, la modelo usa talla 4 y mide 170 cm."}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":{"1":2,"2":10797812},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}'>- Material: 100% algodón.<br>- Jean wide leg tiro alto color azul.<br>- Maria José, la modelo usa talla 4 y mide 166 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>color-denim</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-bota_ancha</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>lateral-wide_leg</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8835236823264</id>
+      <title>2</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042330</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8835236823264</id>
+      <title>4</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042331</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8835236823264</id>
+      <title>6</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042332</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8835236823264</id>
+      <title>8</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042333</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8835236823264</id>
+      <title>10</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042334</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8835236823264</id>
+      <title>12</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042335</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8835236823264</id>
+      <title>14</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042336</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8835236823264</id>
+      <title>16</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116042337</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8069180358880</id>
+    <published>2025-03-27T14:53:35-05:00</published>
+    <updated>2025-03-27T14:53:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/jean-wide-leg-de-tiro-alto-akira"/>
+    <title>Jean wide leg de tiro alto - AKIRA</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/jean-wide-leg-de-tiro-alto-mujer-flashy-akira1.jpg?v=1741990759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            149900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: 100% algodón.<br>- Jean wide leg color azul de tiro alto.<br>- Juanita la modelo usa talla 4 y mide 155 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>color-azul</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-bota_ancha</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-recto</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>lateral-wide_leg</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8069180358880</id>
+      <title>2</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116036234</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8069180358880</id>
+      <title>4</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116036235</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8069180358880</id>
+      <title>6</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116036236</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8069180358880</id>
+      <title>8</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116036237</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8069180358880</id>
+      <title>10</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116036238</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8069180358880</id>
+      <title>12</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116036239</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8069180358880</id>
+      <title>14</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116036240</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8069180358880</id>
+      <title>16</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116036241</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8757266809056</id>
+    <published>2025-02-26T19:31:40-05:00</published>
+    <updated>2025-02-26T19:31:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/jean-tiro-medio-silueta-wide-leg-lavado-mas-claro-eleonora"/>
+    <title>Jean tiro medio silueta wide leg lavado más claro  - ELEONORA</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/chaleco-con-anudado-en-frente-tipo-lino-mujer-flashy-gina15.jpg?v=1749126351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            169900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: 100% algodón.<br>- <span>Jean tiro medio color azul silueta wide leg lavado más claro .</span></span><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'><br>- Maria José la modelo usa talla 4 y mide 166 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-tiro_medio</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>wide_leg</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757266809056</id>
+      <title>2</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041734</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757266809056</id>
+      <title>4</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041735</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757266809056</id>
+      <title>6</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041736</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757266809056</id>
+      <title>8</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041737</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757266809056</id>
+      <title>10</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041738</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757266809056</id>
+      <title>12</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041739</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757266809056</id>
+      <title>14</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041740</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757266809056</id>
+      <title>16</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041741</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8757311930592</id>
+    <published>2025-02-21T15:27:44-05:00</published>
+    <updated>2025-02-21T15:27:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/jean-tiro-alto-silueta-wide-leg-ruedo-al-corte-evelyne"/>
+    <title>Jean tiro alto silueta wide leg ruedo al corte  - EVELYNE</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/jean-tiro-alto-silueta-wide-leg-ruedo-al-corte-bonanza-mujer-flashy-evelyne4.jpg?v=1741802431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            169900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n- Largo: 66 cm.\n- Jean recto con silueta mom y lavado azul claro.\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\n- Camila, la modelo usa talla 4 y mide 170 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: 100% algodón.<br>- <span>Jean tiro alto color azul silueta wide leg ruedo al corte </span><br>- Maria José, la modelo usa talla 4 y mide 166 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>color-denim</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-culotte</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757311930592</id>
+      <title>2</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041766</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757311930592</id>
+      <title>4</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041767</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757311930592</id>
+      <title>6</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041768</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757311930592</id>
+      <title>8</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041769</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757311930592</id>
+      <title>10</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041770</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757311930592</id>
+      <title>12</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041771</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757311930592</id>
+      <title>14</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041772</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8757311930592</id>
+      <title>16</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041773</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8359115129056</id>
+    <published>2025-01-14T15:06:29-05:00</published>
+    <updated>2025-01-14T15:06:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/jean-recto-de-tiro-medio-con-corte-en-bolsillos-vanisha"/>
+    <title>Jean wide leg de tiro medio con corte en bolsillos - VANISHA</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/jean-recto-de-tiro-medio-con-corte-en-bolsillos-mujer-flashy-vanisha1.jpg?v=1741888484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            169900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: 100% algodón.<br>- Jean wide leg color negro de tiro medio con corte en bolsillos.</span><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'><br>- Isabela la modelo usa talla 6 y mide 174 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-negro</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-tiro_medio</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8359115129056</id>
+      <title>2</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116039526</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8359115129056</id>
+      <title>4</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116039527</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8359115129056</id>
+      <title>6</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116039528</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8359115129056</id>
+      <title>8</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116039529</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8359115129056</id>
+      <title>10</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116039530</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8359115129056</id>
+      <title>12</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116039531</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8359115129056</id>
+      <title>14</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116039532</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8359115129056</id>
+      <title>16</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116039533</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8710550257888</id>
+    <published>2025-01-08T10:30:42-05:00</published>
+    <updated>2025-01-08T10:30:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/jean-wide-leg-de-tiro-medio-landeli"/>
+    <title>Jean wide leg de tiro medio - LANDELI</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/jean-wide-leg-de-tiro-medio-mujer-flashy-landeli1.jpg?v=1741814026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            169900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n - Jean ancho bota campana con silueta wide leg, tiro alto y lavado azul claro.\n - Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\n - Camila, la modelo usa talla 4 y mide 170 cm."}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":{"1":2,"2":10797812},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}'>- Material: 100% algodón.<br>- <span> Jean wide leg color azul de tiro medio.</span><br>- Camila, la modelo usa talla 4 y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>color-denim</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-bota_ancha</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-tiro_medio</s:tag>
+    <s:tag>lateral-wide_leg</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710550257888</id>
+      <title>2</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041103</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710550257888</id>
+      <title>4</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041104</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710550257888</id>
+      <title>6</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041105</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710550257888</id>
+      <title>8</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041106</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710550257888</id>
+      <title>10</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041107</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710550257888</id>
+      <title>12</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041108</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710550257888</id>
+      <title>14</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041109</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8710550257888</id>
+      <title>16</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116041110</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8690211750112</id>
+    <published>2024-12-11T12:39:13-05:00</published>
+    <updated>2024-12-11T12:39:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/jean-wide-leg-de-tiro-alto-kala"/>
+    <title>Jean wide leg de tiro alto - KALA</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/jean-wide-leg-de-tiro-alto-mujer-flashy-kala1.jpg?v=1741894176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            159900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":{"1":2,"2":10797812},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n - Jean ancho bota campana con silueta wide leg, tiro alto y lavado azul claro.\n - Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\n - Camila, la modelo usa talla 4 y mide 170 cm."}'>- Material: 100% algodón.<br>- <span>Jean wide leg color rosado de tiro alto.</span><br>- Manuela , la modelo usa talla 2 y mide 168 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>aplica-flashy123</s:tag>
+    <s:tag>color-denim</s:tag>
+    <s:tag>color-rosado</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>landing-básicos</s:tag>
+    <s:tag>lateral-bota_ancha</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>lateral-wide_leg</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690211750112</id>
+      <title>2</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116040831</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690211750112</id>
+      <title>4</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116040832</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690211750112</id>
+      <title>6</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116040833</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690211750112</id>
+      <title>8</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116040834</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690211750112</id>
+      <title>10</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116040835</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690211750112</id>
+      <title>12</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116040836</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690211750112</id>
+      <title>14</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116040837</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690211750112</id>
+      <title>16</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116040838</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8690202509536</id>
+    <published>2024-11-28T19:30:23-05:00</published>
+    <updated>2024-11-28T19:30:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/jean-wide-leg-de-tiro-alto-kenya"/>
+    <title>Jean wide leg de tiro alto - KENYA</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/jean-wide-leg-de-tiro-alto-mujer-flashy-kenya1.jpg?v=1741874474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            169900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n - Jean ancho bota campana con silueta wide leg, tiro alto y lavado azul claro.\n - Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\n - Camila, la modelo usa talla 4 y mide 170 cm."}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":{"1":2,"2":10797812},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}'>- Material: 100% algodón.<br>- <span>Jean wide leg color azul de tiro alto.</span><br>- Paula, la modelo usa talla 4 y mide 165 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>aplica-flashy123</s:tag>
+    <s:tag>color-azul</s:tag>
+    <s:tag>color-denim</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>landing-básicos</s:tag>
+    <s:tag>lateral-bota_ancha</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>lateral-wide_leg</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690202509536</id>
+      <title>2</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040847</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690202509536</id>
+      <title>4</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040848</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690202509536</id>
+      <title>6</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040849</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690202509536</id>
+      <title>8</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040850</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690202509536</id>
+      <title>10</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040851</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690202509536</id>
+      <title>12</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040852</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690202509536</id>
+      <title>14</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040853</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690202509536</id>
+      <title>16</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040854</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8690225479904</id>
+    <published>2024-11-28T19:12:44-05:00</published>
+    <updated>2024-11-28T19:12:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/jean-wide-leg-de-tiro-medio-kaia"/>
+    <title>Jean wide leg de tiro medio - KAIA</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/jean-wide-leg-de-tiro-medio-mujer-flashy-kaia1.jpg?v=1741793910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            169900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n - Jean ancho bota campana con silueta wide leg, tiro alto y lavado azul claro.\n - Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\n - Camila, la modelo usa talla 4 y mide 170 cm."}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":{"1":2,"2":10797812},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}'>- Material: 100% algodón.<br>- <span>Jean wide leg color azul de tiro medio.</span><br>- Paula, la modelo usa talla 4  y mide 165 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-denim</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-bota_ancha</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-tiro_medio</s:tag>
+    <s:tag>lateral-wide_leg</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690225479904</id>
+      <title>2</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040839</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690225479904</id>
+      <title>4</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040840</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690225479904</id>
+      <title>6</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040841</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690225479904</id>
+      <title>8</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040842</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690225479904</id>
+      <title>10</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040843</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690225479904</id>
+      <title>12</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040844</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690225479904</id>
+      <title>14</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040845</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8690225479904</id>
+      <title>16</title>
+      <s:price currency="COP">169900.00</s:price>
+      <s:sku>1111116040846</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8287510364384</id>
+    <published>2024-06-26T09:02:46-05:00</published>
+    <updated>2024-06-26T09:02:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/jean-recto-full-length-de-tiro-medio-selena"/>
+    <title>Jean wide leg full length de tiro alto - SELENA</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/jean-recto-full-length-de-tiro-medio-mujer-flashy-selena1.jpg?v=1741881824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            159900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n - Jean ancho bota campana con silueta wide leg, tiro alto y lavado azul claro.\n - Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\n - Camila, la modelo usa talla 4 y mide 170 cm."}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":{"1":2,"2":10797812},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}'>- Material: 100% algodón.<br>- Jean wide leg full length color beige de tiro alto.<br>- Isabela, la modelo usa talla 6 y mide 172 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-beige</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_atrevida</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-bota_ancha</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-romantica</s:tag>
+    <s:tag>lateral-tiro_medio</s:tag>
+    <s:tag>lateral-wide_leg</s:tag>
+    <s:tag>ocasion-oficina</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8287510364384</id>
+      <title>2</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116039185</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8287510364384</id>
+      <title>4</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116039186</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8287510364384</id>
+      <title>6</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116039187</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8287510364384</id>
+      <title>8</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116039188</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8287510364384</id>
+      <title>10</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116039189</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8287510364384</id>
+      <title>12</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116039190</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8287510364384</id>
+      <title>14</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116039191</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8287510364384</id>
+      <title>16</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116039192</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8238564540640</id>
+    <published>2024-05-22T16:10:21-05:00</published>
+    <updated>2024-05-22T16:10:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/jean-recto-con-hilos-en-contraste-y-tiro-medio-samira"/>
+    <title>Jean wide leg con hilos en contraste y tiro medio - SAMIRA</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/jean-recto-con-hilos-en-contraste-y-tiro-medio-mujer-flashy-samira1.jpg?v=1741791242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            149900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: 100% algodón.<br>- Jean wide leg color azul con hilos en contraste y tiro medio.</span><span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'><br>- Paloma la modelo usa talla 2 y mide 165 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>lateral-bota_ancha</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-tiro_medio</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8238564540640</id>
+      <title>2</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116038900</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8238564540640</id>
+      <title>4</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116038901</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8238564540640</id>
+      <title>6</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116038902</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8238564540640</id>
+      <title>8</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116038903</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8238564540640</id>
+      <title>10</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116038904</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8238564540640</id>
+      <title>12</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116038905</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8238564540640</id>
+      <title>14</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116038906</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8238564540640</id>
+      <title>16</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116038907</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8113947934944</id>
+    <published>2023-11-03T16:22:37-05:00</published>
+    <updated>2023-11-03T16:22:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/jean-tiro-alto-wide-leg-full-length-anna"/>
+    <title>Jean tiro alto wide leg full length - ANNA</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/jean-tiro-alto-wide-leg-full-length-mujer-flashy-anna4.jpg?v=1741989996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            159900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":{"1":2,"2":10797812},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n - Jean ancho bota campana con silueta wide leg, tiro alto y lavado azul claro.\n - Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\n - Camila, la modelo usa talla 4 y mide 170 cm."}'>- Material: 100% algodón.<br> - Jean color azul de tiro alto wide leg full length.<br> - Valeria, la modelo usa talla 6 y mide 166 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>color-azul</s:tag>
+    <s:tag>landing-básicos</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-mama</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>lateral-wide_leg</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8113947934944</id>
+      <title>2</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116037192</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8113947934944</id>
+      <title>4</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116037193</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8113947934944</id>
+      <title>6</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116037194</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8113947934944</id>
+      <title>8</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116037195</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8113947934944</id>
+      <title>10</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116037196</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8113947934944</id>
+      <title>12</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116037197</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8113947934944</id>
+      <title>14</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116037198</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8113947934944</id>
+      <title>16</title>
+      <s:price currency="COP">159900.00</s:price>
+      <s:sku>1111116037199</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8076094537952</id>
+    <published>2023-07-28T18:14:11-05:00</published>
+    <updated>2023-07-28T18:14:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/jean-tiro-alto-wide-leg-full-length-omara"/>
+    <title>Jean tiro alto wide leg full length - OMARA</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/jean-tiro-alto-wide-leg-full-length-mujer-flashy-omara1.jpg?v=1741990575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            149900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":{"1":2,"2":10797812},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 100% algodón.\n - Jean ancho bota campana con silueta wide leg, tiro alto y lavado azul claro.\n - Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\n - Camila, la modelo usa talla 4 y mide 170 cm."}'><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">- Material: 100% algodón. </span></span><br><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">- Jean ancho bota campana con silueta wide leg, tiro alto, full length y lavado azul claro.</span></span><br><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">- Juanita, la modelo usa talla 4 y mide 155 cm.</span></span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-azul</s:tag>
+    <s:tag>color-denim</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-bota_ancha</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>lateral-wide_leg</s:tag>
+    <s:tag>material-algodón</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8076094537952</id>
+      <title>2</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116037092</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8076094537952</id>
+      <title>4</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116037093</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8076094537952</id>
+      <title>6</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116037094</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8076094537952</id>
+      <title>8</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116037095</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8076094537952</id>
+      <title>10</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116037096</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8076094537952</id>
+      <title>12</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116037097</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8076094537952</id>
+      <title>14</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116037098</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8076094537952</id>
+      <title>16</title>
+      <s:price currency="COP">149900.00</s:price>
+      <s:sku>1111116037099</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8051232506080</id>
+    <published>2023-06-06T15:26:26-05:00</published>
+    <updated>2023-06-06T15:26:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/jean-wide-leg-de-tiro-alto-raven"/>
+    <title>Jean wide leg de tiro alto - RAVEN</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/jean-wide-leg-de-tiro-alto-mujer-flashy-raven1.jpg?v=1741990814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Jeans<br>
+        <strong>Precio: </strong>
+            139900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}'>- Material: 100% algodón.<br>- Jean wide leg color azul de tiro alto.<br>- Renata la modelo usa talla 4 y mide 160 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>color-azul</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-amiga_clasica</s:tag>
+    <s:tag>lateral-bota_ancha</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-recto</s:tag>
+    <s:tag>lateral-tiro_alto</s:tag>
+    <s:tag>lateral-wide_leg</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8051232506080</id>
+      <title>2</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116035485</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8051232506080</id>
+      <title>4</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116035486</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8051232506080</id>
+      <title>6</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116035487</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8051232506080</id>
+      <title>8</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116035488</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8051232506080</id>
+      <title>10</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116035489</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8051232506080</id>
+      <title>12</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116035490</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8051232506080</id>
+      <title>14</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116035491</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8051232506080</id>
+      <title>16</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116035492</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

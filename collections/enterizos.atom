@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.flashy.com.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.flashy.com.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.flashy.com.co/collections/enterizos.atom"/>
+  <title>Flashy</title>
+  <updated>2025-01-14T15:03:05-05:00</updated>
+  <author>
+    <name>Flashy</name>
+  </author>
+  <entry>
+    <id>https://www.flashy.com.co/products/8584797683936</id>
+    <published>2025-01-14T15:03:05-05:00</published>
+    <updated>2025-01-14T15:03:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/enterizo-de-pantalon-tipo-lino-y-con-anudado-en-cintura-gillian"/>
+    <title>Enterizo de pantalón tipo lino y con anudado en cintura - GILLIAN</title>
+    <s:type>Enterizos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/enterizo-de-pantalon-tipo-lino-y-con-anudado-en-cintura-mujer-flashy-gillian1.jpg?v=1741986241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Enterizos<br>
+        <strong>Precio: </strong>
+            139900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":15357,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":{"1":2,"2":0},"15":"Trebuchet MS","16":9}' data-sheets-value='{"1":2,"2":"- Material: 96% poliéster, 2% elastano, 2% algodón.\n- Buso color blanco marfil manga larga en tela con textura de peluche con cuello redondo.\n- El buso perfecto para esos días fríos en los que quieres sentirte cómoda y abrigada pero a la vez quieres verte como una DIVA.\n- Camila, la modelo usa talla XS y mide 170 cm.","6":1}'>- Material: <span>100% algodón.</span><br>- <span>Enterizo de pantalón color beige tipo lino y con anudado en cintura.</span><br>- Sofía, la modelo usa talla XS y mide 170 cm.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-beige</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>lateral-largo</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8584797683936</id>
+      <title>XS</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116039924</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8584797683936</id>
+      <title>S</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116039925</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8584797683936</id>
+      <title>M</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116039926</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8584797683936</id>
+      <title>L</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116039927</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8584797683936</id>
+      <title>XL</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116039928</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8584797683936</id>
+      <title>XXL</title>
+      <s:price currency="COP">139900.00</s:price>
+      <s:sku>1111116039929</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8673276264672</id>
+    <published>2024-10-04T16:53:48-05:00</published>
+    <updated>2024-10-04T16:53:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/enterizo-de-tiras-moldeador-con-control-de-abdomen-laritza"/>
+    <title>Enterizo de tiras moldeador con control de abdomen - LARITZA</title>
+    <s:type>Enterizos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/enterizo-de-tiras-moldeador-con-control-de-abdomen-mujer-flashy-laritza6.jpg?v=1741902102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Enterizos<br>
+        <strong>Precio: </strong>
+            129900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"- Material: 50% algodón, 50% lino.\r\n- Pantalón de lino color blanco marfil bota campana con silueta wide leg y tiro alto.\r\n- Ideal para esos días en los que quieres vestirte relajada pero a la vez cool.\r\n- Susana, la modelo usa talla 4 y mide 167 cm.","6":1}' data-sheets-userformat='{"2":15359,"3":{"1":0},"4":[null,2,10797812],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"12":0,"14":[null,2,0],"15":"Trebuchet MS","16":9}'>- Material: 76% poliéster, 24% spandex.<br>- <span>Enterizo color beige de tiras moldeador con control de abdomen.</span><br>- Camila, la modelo usa talla S y mide 170 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-beige</s:tag>
+    <s:tag>Creado 12 meses</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-sin_mangas</s:tag>
+    <s:tag>lateral-tiras</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8673276264672</id>
+      <title>S</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116040428</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8673276264672</id>
+      <title>M</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116040429</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8673276264672</id>
+      <title>L</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116040430</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8326152683744</id>
+    <published>2024-06-25T09:41:27-05:00</published>
+    <updated>2024-06-25T09:41:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/enterizo-de-short-con-abertura-y-sin-mangas-carissa"/>
+    <title>Enterizo de short con abertura y sin mangas - CARISSA</title>
+    <s:type>Enterizos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/enterizo-de-short-con-abertura-y-sin-mangas-mujer-flashy-carissa1.jpg?v=1741877795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Enterizos<br>
+        <strong>Precio: </strong>
+            119900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"- Material: 100% poliéster.\n - Vestido corto color beige manga corta, con escote cuadrado y mangas abullonadas.\n - Este vestido te hará ver y sentir como una diva cuando te lo pongas!\n - Camila, la modelo usa talla XS y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: <span>100% rayon.</span><br>- Enterizo de short color beige con abertura y sin mangas.<br>- Renata, la modelo usa talla XS y mide 160 cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color-beige</s:tag>
+    <s:tag>fit_rating-ajustada</s:tag>
+    <s:tag>lateral-corto</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-playa</s:tag>
+    <s:tag>ocasion-casual</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8326152683744</id>
+      <title>XS</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116039384</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8326152683744</id>
+      <title>S</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116039385</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8326152683744</id>
+      <title>M</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116039386</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8326152683744</id>
+      <title>L</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116039387</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8326152683744</id>
+      <title>XL</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116039388</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8326152683744</id>
+      <title>XXL</title>
+      <s:price currency="COP">119900.00</s:price>
+      <s:sku>1111116039389</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8184648335584</id>
+    <published>2023-12-01T11:42:53-05:00</published>
+    <updated>2023-12-01T11:42:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/enterizo-de-short-con-anudado-en-escote-y-manga-larga-rosaura"/>
+    <title>Enterizo de short con anudado en escote y manga larga - ROSAURA</title>
+    <s:type>Enterizos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/enterizo-de-short-con-anudado-en-escote-y-manga-larga-mujer-flashy-rosaura1.jpg?v=1741986639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Enterizos<br>
+        <strong>Precio: </strong>
+            129900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 100% poliéster.\n - Vestido corto color beige manga corta, con escote cuadrado y mangas abullonadas.\n - Este vestido te hará ver y sentir como una diva cuando te lo pongas!\n - Camila, la modelo usa talla XS y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 100% rayon.<br> - Enterizo de short color negro con anudado en escote y manga larga.<br> - Renata, la modelo usa talla XS y mide 160 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>aplica-flashy123</s:tag>
+    <s:tag>color-negro</s:tag>
+    <s:tag>feed-agegroup-adult</s:tag>
+    <s:tag>feed-gender-female</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-corto</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-playa</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8184648335584</id>
+      <title>XS</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116038081</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8184648335584</id>
+      <title>S</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116038082</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8184648335584</id>
+      <title>M</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116038083</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8184648335584</id>
+      <title>L</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116038084</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8184648335584</id>
+      <title>XL</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116038085</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8184648335584</id>
+      <title>XXL</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116038086</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flashy.com.co/products/8095880184032</id>
+    <published>2023-09-08T15:10:42-05:00</published>
+    <updated>2023-09-08T15:10:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flashy.com.co/products/enterizo-de-shorts-con-anudado-en-escote-y-manga-larga-oniria"/>
+    <title>Enterizo de shorts con anudado en escote y manga larga - ONIRIA</title>
+    <s:type>Enterizos</s:type>
+    <s:vendor>Flashy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/4320/3125/files/enterizo-de-shorts-con-anudado-en-escote-y-manga-larga-mujer-flashy-oniria1.jpg?v=1741882850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Flashy<br>
+        <strong>Tipo: </strong>Enterizos<br>
+        <strong>Precio: </strong>
+            129900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"- Material: 100% poliéster.\n - Vestido corto color beige manga corta, con escote cuadrado y mangas abullonadas.\n - Este vestido te hará ver y sentir como una diva cuando te lo pongas!\n - Camila, la modelo usa talla XS y mide 170 cm."}' data-sheets-userformat='{"2":14955,"3":{"1":0},"4":{"1":2,"2":10797812},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":9}'>- Material: 100% rayon.<br> - Enterizo de shorts con anudado en escote y manga larga color beige.<br> - Renata, la modelo usa talla XS y mide 160 cm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aplica-cupon</s:tag>
+    <s:tag>aplica-flashy123</s:tag>
+    <s:tag>color-beige</s:tag>
+    <s:tag>feed-agegroup-adult</s:tag>
+    <s:tag>feed-gender-female</s:tag>
+    <s:tag>fit_rating-normal</s:tag>
+    <s:tag>lateral-corto</s:tag>
+    <s:tag>lateral-fashionista</s:tag>
+    <s:tag>lateral-playa</s:tag>
+    <s:tag>ocasion-fin_de_semana</s:tag>
+    <s:tag>ocasion-noche</s:tag>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8095880184032</id>
+      <title>XS</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116037056</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8095880184032</id>
+      <title>S</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116037057</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8095880184032</id>
+      <title>M</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116037058</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8095880184032</id>
+      <title>L</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116037059</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8095880184032</id>
+      <title>XL</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116037060</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flashy.com.co/products/8095880184032</id>
+      <title>XXL</title>
+      <s:price currency="COP">129900.00</s:price>
+      <s:sku>1111116037061</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>
